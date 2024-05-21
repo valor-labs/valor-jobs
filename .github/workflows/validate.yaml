@@ -1,0 +1,35 @@
+name: Validate YAML against Schema
+
+on:
+  push:
+    paths:
+      - 'jobs/**/*.yaml'
+      - 'qualifications/**/*.yaml'
+      - 'schemas/**/*.yaml'
+  pull_request:
+    paths:
+      - 'jobs/**/*.yaml'
+      - 'qualifications/**/*.yaml'
+      - 'schemas/**/*.yaml'
+
+jobs:
+  validate-yaml:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Validate YAML files for Backend Developer Jobs
+      run: npm run validate -- --schema=schemas/jobs_schema.yaml --data=jobs/backend_developer
+
+    - name: Validate YAML files for General Knowledge Qualifications
+      run: npm run validate -- --schema=schemas/qualifications_schema.yaml --data=qualifications/general_knowledge

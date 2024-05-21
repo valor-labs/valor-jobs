@@ -1,0 +1,23 @@
+title: "Middle Backend Developer"
+category: "Backend Developer"
+seniority: "Middle"
+role:
+  experience:
+    - "3+ years of backend development experience"
+    - "Experience with RESTful API design and implementation"
+    - "Proficiency in one or more backend programming languages (e.g., Java, Python, Ruby, Node.js)"
+    - "Experience with SQL and NoSQL databases"
+    - "Understanding of CI/CD pipelines"
+  qualifications_criteria:
+    - name: "General Knowledge"
+      level: 3
+    - name: "Frameworks"
+      count: 3
+      level: 3
+  criteria:
+    - "Understanding of business needs, what application does exactly"
+    - "The ability to perform the tasks assigned to them independently"
+    - "Support team members. Try to be cross-functional where it’s required"
+    - "Do not require constant supervision"
+    - "Develop clean, simple solutions but avoid over-engineering. Keep technical debt or reduce it."
+    - "Without supervision, meet expectations on the quality level and company-level standards"

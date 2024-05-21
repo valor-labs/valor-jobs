@@ -1,0 +1,41 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+type: "object"
+properties:
+  title:
+    type: "string"
+  category:
+    type: "string"
+  seniority:
+    type: "string"
+  role:
+    type: "object"
+    properties:
+      experience:
+        type: "array"
+        items:
+          type: "string"
+      qualifications_criteria:
+        type: "array"
+        items:
+          type: "object"
+          properties:
+            name:
+              type: "string"
+            level:
+              type: "integer"
+            count:
+              type: "integer"
+              nullable: true
+      criteria:
+        type: "array"
+        items:
+          type: "string"
+    required:
+      - experience
+      - qualifications_criteria
+      - criteria
+required:
+  - title
+  - category
+  - seniority
+  - role
