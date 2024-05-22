@@ -28,9 +28,18 @@ properties:
           nullable: true
       required:
         - title
+  dependency:
+    type: "array"
+    nullable: true
+    items:
+      type: "object"
+      properties:
+        title:
+          type: "string"
+        level: 
+          type: "integer"
 required:
   - title
   - level
   - status
   - knowledge
-  - materials_and_topics

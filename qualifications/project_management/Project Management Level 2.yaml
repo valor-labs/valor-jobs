@@ -1,0 +1,33 @@
+title: Project Management
+level: 2
+status: Ready to use
+knowledge:
+- Stakeholder engagement
+- Tenders workflow
+- Types of nonfunctional requirements
+- 5 types of requirement artefacts
+- List of SRS paragraphs
+- UML
+- '- 5 types of UML diagrams'
+- '- ability to explain and usage examples'
+- '- Arrow types :)'
+- 5 project development methodologies
+- Pros and cons of collaboration models (FC|TM|DT)
+- Details of projects stages
+- Risk management
+- '- Risk types'
+- '- Risk comparison'
+- '- Risk identification methodologies'
+- Difference between estimation in hours and story points
+- Project Charter document, description and purpose
+- Change management
+- Kanban questions
+- Conflict resolution
+- Stages of Team Formation
+- Project Transfer
+- Cross-location project teams
+materials_and_topics:
+- title: Rita exams preparation
+  authors: null
+  subjects: null
+dependency: null

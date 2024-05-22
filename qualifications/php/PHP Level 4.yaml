@@ -1,0 +1,11 @@
+title: PHP
+level: 4
+knowledge:
+  - React or Angular or Vue at Level 1
+  - One of other’s Backend technologies at Level 1
+  - 2 Popular framework and 2 CMS knowledge
+  - 3 Unit testing tools
+dependency:
+  - title: General knowledge
+    level: 4
+status: Ready to use

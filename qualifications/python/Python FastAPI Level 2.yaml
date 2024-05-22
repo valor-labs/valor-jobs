@@ -1,0 +1,16 @@
+title: Python FastAPI
+level: 2
+status: Ready to use
+knowledge:
+- Project Setup - Project structure and best practices
+- Models and Database - Advanced querying and database optimization
+- Views and URL Configuration - Dependency injection for views
+- Templates - Template inheritance and reusable components
+- Forms - Advanced form handling and validation
+- Authentication - Advanced authentication techniques and custom permissions
+- REST API - Advanced API techniques and customization
+- Testing - Test-driven development with FastAPI
+- Deployment - Optimizing and scaling FastAPI applications
+- Performance and Optimization - Advanced performance optimization (load balancing, query optimization, etc.)
+materials_and_topics: []
+dependency: null

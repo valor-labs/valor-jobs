@@ -1,0 +1,18 @@
+title: Python FastAPI
+level: 1
+status: Ready to use
+knowledge:
+- Project Setup - Installing FastAPI
+- Models and Database - SQLAlchemy integration
+- Views and URL Configuration - Routing and view functions
+- Templates - Jinja2 templating
+- Forms - Pydantic and form handling
+- Authentication - FastAPI security and OAuth2 integration
+- REST API - FastAPI basics and OpenAPI documentation
+- Testing - FastAPI testing basics
+- Deployment - Deploying FastAPI applications on platforms like Heroku
+- Performance and Optimization - Basic performance optimization techniques (caching, database optimization, etc.)
+materials_and_topics: []
+dependency: 
+  - "title": "Python"
+    "level": 1

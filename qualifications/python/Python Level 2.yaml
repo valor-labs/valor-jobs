@@ -1,0 +1,13 @@
+title: Python Backend
+level: 2
+status: Ready to use
+knowledge:
+- Multithreading
+- Unit testing in Python
+- Garbage Collector
+materials_and_topics: []
+dependency:
+  - title: General knowledge
+    level: 3
+  - title: Databases
+    level: 2

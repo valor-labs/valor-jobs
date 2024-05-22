@@ -1,0 +1,15 @@
+title: DevOps
+level: 3
+knowledge:
+  - Clustering relational databases
+  - Clustering key-value databases
+  - QA skills
+  - Performance testing tools
+  - Orchestrator systems
+  - Windows Server key features
+dependency:
+  - title: General knowledge
+    level: 4
+  - title: Databases
+    level: 3
+status: Input required

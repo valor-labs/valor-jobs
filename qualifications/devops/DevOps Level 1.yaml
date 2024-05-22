@@ -1,0 +1,11 @@
+title: DevOps
+level: 1
+knowledge:
+  - Docker
+  - Kubernetes simple configurations
+  - Name 5 AWS, Azure and Google Cloud services
+materials_and_topics: []
+dependency:
+  - General knowledge: Level 2
+  - Databases: Level 1
+status: Input required

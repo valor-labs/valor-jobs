@@ -1,0 +1,14 @@
+title: General knowledge
+level: 5
+knowledge:
+  - Understanding VoIP
+  - WebRTC
+  - Understanding blockchain principles
+  - Advanced Security skills
+  - Explain 10 architectural patterns
+  - Virtualization
+materials_and_topics:
+  - title: "Building Microservices. Designing Fine-Grained Systems by Sam Newman"
+  - title: "Planning Extreme Programming by Kent Beck"
+  - title: "Cloud Design Patterns. Prescriptive architecture guidance for cloud applications by Alex Homer"
+status: Ready to use
