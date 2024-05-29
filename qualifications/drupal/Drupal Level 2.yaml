@@ -1,0 +1,20 @@
+title: "Drupal"
+level: 2
+status: "Input required"
+knowledge:
+  - "Commerce Solutions"
+  - "Forum solutions"
+  - "Media solutions"
+  - "Differences between Blocks and Panes"
+  - "Security and anti flood"
+  - "Portfolio with more than 2 projects with custom themes and modules"
+  - "Transferring of settings"
+  - "I18n, Rules, Tokens"
+  - "Custom pages and blocks"
+  - "Cron"
+  - "Composer"
+  - "Twig"
+materials_and_topics: []
+dependency:
+  - title: "PHP"
+    level: 2

@@ -1,0 +1,18 @@
+title: "Golang"
+level: 4
+status: "Ready to use"
+knowledge:
+  - "Message-brokers: RabbitMQ, Kafka"
+  - "RPC: gRPC"
+  - "RPC: Protocol buffers"
+  - Key-value in-memory cache implementation ready for concurrent access(live coding, 2 versions (mutex based and channel based))
+  - Golang GC (tradeoffs, possible problems, comparison with different languages)
+materials_and_topics:
+  - title: https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e#.yalb5aux9
+  - title: https://www.youtube.com/watch?v=q1h2g84EX1M
+  - title: https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
+  - title: https://blog.golang.org/go15gc
+  - title: https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
+dependency:
+  - title: "General knowledge"
+    level: 3

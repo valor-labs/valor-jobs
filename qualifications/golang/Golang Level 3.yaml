@@ -11,5 +11,9 @@ knowledge:
   - Nats-streaming
 materials_and_topics:
   - title: https://dave.cheney.net/2015/08/08/performance-without-the-event-loop
-dependency: []
+dependency:
+  - title: "General knowledge"
+    level: 4
+  - title: "Databases"
+    level: 3
 status: Ready to use

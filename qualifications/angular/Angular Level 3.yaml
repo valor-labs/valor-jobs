@@ -1,0 +1,20 @@
+title: "Angular"
+level: 3
+status: "Ready to use"
+knowledge:
+  - "Routing: Child (Nested) Routes"
+  - "Routing: Using Query Parameters"
+  - "Routing: Guards (canActivate, canDeactivate)"
+  - "Routing: Guards - resolving dynamic data"
+  - "Pipes: Pure & impure Pipes"
+  - "Pipes: Async Pipes"
+  - "Angular forms: Custom Validators"
+  - "Angular forms: Async Validator"
+  - "HttpClient: Making requests & handling data"
+  - "HttpClient: Settings Headers"
+  - "HttpClient: Interceptors"
+  - "Angular Modules: Lazy Loading & canLoad"
+  - "Angular Modules: Using AOT compilation"
+  - "Angular Modules: Lazy Loaded Routes preloading"
+materials_and_topics: []
+dependency: null

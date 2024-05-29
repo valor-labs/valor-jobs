@@ -1,0 +1,12 @@
+title: "Wordpress"
+level: 1
+status: "Input required"
+knowledge:
+  - "Basic knowledge: Posts, Pages, Media, Comments, Plugins, Themes"
+  - "Wordpress custom theme creation knowledge"
+  - "Wordpress custom plugin creation knowledge"
+  - "Actions and Filters"
+materials_and_topics: []
+dependency:
+  - title: "PHP"
+    level: 1

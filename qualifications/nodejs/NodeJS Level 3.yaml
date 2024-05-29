@@ -1,0 +1,10 @@
+title: "NodeJS"
+level: 3
+status: "Input required"
+knowledge:
+  - "Child Process"
+  - "Clusters"
+  - "Buffers"
+  - "ORMs (prisma/typeORM)"
+materials_and_topics: []
+dependency: null

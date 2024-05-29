@@ -1,0 +1,19 @@
+title: "Flutter"
+level: 1
+status: "Input required"
+knowledge:
+  - "OOP Basics"
+  - "Understanding of Dart execution model (event loops, futures)"
+  - "Dart collections (map -> hashmap, set -> hashset, list)"
+  - "Understanding of Dart errors & exceptions system"
+  - "Understanding of Dart Generics"
+  - "Understanding what widget is and Flutter's widget composability"
+  - "Experience with main UI toolkits - material and cupertino"
+  - "Experience with direct navigation system (Navigator.pop \ Navigator.push)"
+  - "Experience with Stateful widget updates (didChangeDependencies, didUpdateWidget)"
+  - "Experience with native Dart JSON serialization tools (dart:convert)"
+  - "Experience with native Dart HttpClient"
+  - "Experience with basic animations via Animation<double> and AnimationController"
+  - "SQLite: SQL syntax, CRUD operations, data types"
+materials_and_topics: []
+dependency: null

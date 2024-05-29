@@ -1,0 +1,16 @@
+title: "Javascript"
+level: 3
+status: "Input required"
+knowledge:
+  - "Blob scheme"
+  - "Descriptors"
+  - "Generators"
+  - "Navigator"
+  - "Webworker"
+  - "Symbol"
+  - "Proxy"
+  - "Advanced knowledge WASM with 2 year experience (Just kidding)"
+  - "WeakMap, WeakSet"
+  - "ESlint"
+materials_and_topics: []
+dependency: null

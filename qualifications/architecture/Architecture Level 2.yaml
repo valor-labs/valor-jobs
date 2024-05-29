@@ -1,0 +1,43 @@
+title: "Architecture"
+level: 2
+status: "Input required"
+knowledge:
+  - "Can use 3 UML diagram types"
+  - "RAID"
+  - "Sharding methods"
+  - "Advanced design patterns (e.g., Dependency Injection, Repository, CQRS)"
+  - "Service-Oriented Architecture (SOA)"
+  - "API Gateway pattern"
+  - "Understanding CAP theorem"
+  - "Scalability and Load Balancing techniques"
+  - "Containerization (Docker) and Orchestration (Kubernetes)"
+  - "Basics of security architecture (OAuth, JWT, encryption)"
+  - "Cloud-native architecture principles"
+materials_and_topics:
+  - title: ".NET Microservices: Architecture for Containerized .NET Applications"
+    authors: "Cesar de la Torre, Bill Wagner, Mike Rousos"
+    subjects: null
+  - title: "Cloud Best Practices"
+    authors: "Microsoft Corporation and the community"
+    subjects: null
+  - title: "Performance Antipatterns"
+    authors: "Microsoft Corporation and the community"
+    subjects: null
+  - title: "Azure Application Architecture Guide"
+    authors: "Microsoft Corporation and community"
+    subjects: null
+  - title: "Patterns of Enterprise Application Architecture"
+    authors: "Martin Fowler"
+    subjects: null
+  - title: "Designing Data-Intensive Applications"
+    authors: "Martin Kleppmann"
+    subjects: null
+  - title: "Building Microservices"
+    authors: "Sam Newman"
+    subjects: null
+  - title: "Kubernetes Up & Running"
+    authors: "Kelsey Hightower, Brendan Burns, Joe Beda"
+    subjects: null
+dependency:
+  - title: "General knowledge"
+    level: 4

@@ -4,11 +4,22 @@
   "description": "Validate YAML files against a schema",
   "main": "validate.js",
   "scripts": {
-    "validate": "node validate.js"
+    "validate": "node validate.js --schema=schemas/jobs_schema.yaml --data=jobs && node validate.js --schema=schemas/qualifications_schema.yaml --data=qualifications",
+    "prepare": "husky install"
   },
   "dependencies": {
     "ajv": "^8.6.3",
+    "husky": "^9.0.11",
     "js-yaml": "^4.1.0",
+    "lint-staged": "^15.2.2",
     "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  },
+  "lint-staged": {
+    "*.yaml": [
+      "npm run validate"
+    ]
   }
 }

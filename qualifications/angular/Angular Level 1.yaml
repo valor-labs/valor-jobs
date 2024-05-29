@@ -1,0 +1,23 @@
+title: "Angular"
+level: 1
+status: "Ready to use"
+knowledge:
+  - "Angular Cli in common"
+  - "Components:"
+  - "@Component() decorator"
+  - "Component selector"
+  - "Style encapsulation"
+  - "lifecycle"
+  - "Directives in common"
+  - "Pipes in common"
+  - "Components data binding:"
+  - "Property binding ( @Input() )"
+  - "Event binding ( @Output() )"
+  - "Two-way databinding"
+  - "Angular forms in common"
+  - "App Module & Angular Modules in common"
+  - "TypeScript basics"
+materials_and_topics: []
+dependency:
+  - title: "Javascript"
+    level: 2

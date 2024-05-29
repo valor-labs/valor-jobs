@@ -1,0 +1,21 @@
+title: "Javascript"
+level: 2
+status: "Ready to use"
+knowledge:
+  - "ES6/7/8"
+  - "Event loop"
+  - "Bubbling and Capturing"
+  - "Lib: Moment"
+  - "Lib: Underscore/Lodash"
+  - "Context manipulations"
+  - "Prototype inheritance"
+  - "BOM"
+  - "History"
+  - "Hoisting"
+  - "Gulp, Webpack"
+  - "Promise"
+  - "Error handling"
+  - "Type Conversion"
+  - "Map, Set"
+materials_and_topics: []
+dependency: null

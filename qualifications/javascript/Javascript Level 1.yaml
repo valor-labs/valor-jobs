@@ -1,0 +1,18 @@
+title: "Javascript"
+level: 1
+status: "Ready to use"
+knowledge:
+  - "Basic jQuery"
+  - "Context understanding"
+  - "Npm, Yarn"
+  - "Closure"
+  - "DOM events"
+  - "References"
+  - "localStorage/sessionStorage"
+  - "JSON object"
+  - "Callbacks"
+  - "Array/Object operations"
+materials_and_topics: []
+dependency:
+  - title: "HTML"
+    level: 1

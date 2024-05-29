@@ -1,0 +1,15 @@
+title: "Flutter"
+level: 3
+status: "Input required"
+knowledge:
+  - "Packaging and modularity principles"
+  - "Experience with platform views would be a plus"
+  - "Experience with custom Elements \ RenderObjects would be a plus"
+  - "E2E tests"
+  - "Understanding how developers should be organized to work over the project to maximize productivity"
+  - "Establishing processes the programming team should follow in order to facilitate high internal and external quality and minimize bugs"
+  - "Setting up CD process with deployment to distribution platforms based on git model specification"
+  - "Familiarity with Richardson Maturity Model"
+  - "SQLite: Isolation levels, normalization (up until 3rd form), compound keys"
+materials_and_topics: []
+dependency: null

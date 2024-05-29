@@ -1,0 +1,13 @@
+title: "React Native"
+level: 1
+status: "Ready to use"
+knowledge:
+  - "React"
+  - "Understanding React native bridging and how it works"
+  - "Components that are provided by react-native package"
+materials_and_topics: []
+dependency:
+  - title: "React"
+    level: 2
+  - title: "General knowledge"
+    level: 1
