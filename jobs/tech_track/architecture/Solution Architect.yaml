@@ -1,0 +1,34 @@
+title: "Solution Architect"
+category: "Architecture"
+seniority: "Senior"
+role:
+  experience:
+    - "7+ years of experience in software engineering or a related field"
+    - "Proven experience of creating architecture"
+    - "Expertise in designing and implementing complex, large-scale systems"
+    - "Strong proficiency in frontend, backend, and database technologies"
+    - "Experience with cloud platforms (e.g., AWS, Azure, GCP)"
+    - "In-depth knowledge of software development lifecycle and Agile methodologies"
+    - "Experience with microservices architecture and API design"
+    - "Strong understanding of security best practices and compliance"
+    - "Experience with version control systems like Git"
+  qualifications_criteria:
+    - name: "General Knowledge"
+      level: 5
+    - name: "Architecture"
+      level: 4
+    - name: "DevOps"
+      level: 3
+  criteria:
+    - "Ability to design and architect scalable, reliable, and secure solutions"
+    - "Strong problem-solving and analytical skills"
+    - "Excellent communication and collaboration skills"
+    - "Ability to lead technical discussions and decision-making processes"
+    - "Experience with code reviews and maintaining coding standards"
+    - "Advanced English level"
+    - "Ability to mentor and guide technical teams"
+    - "Strong understanding of DevOps practices and CI/CD pipelines"
+    - "Ability to stay updated with the latest industry trends and technologies"
+    - "Experience with designing system architecture and ensuring scalability"
+    - "Strong decision-making skills and ability to delegate tasks effectively"
+    - "Ability to manage multiple projects and prioritize tasks"

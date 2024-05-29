@@ -1,0 +1,27 @@
+title: "Middle Quality Assurance Specialist"
+category: "Quality Assurance"
+seniority: "Middle"
+role:
+  experience:
+    - "3+ years of experience in software quality assurance or a related field"
+    - "Proficiency in QA methodologies and processes"
+    - "Experience with both manual and automated testing tools"
+    - "Strong knowledge of SQL and ability to write complex queries"
+    - "Experience with version control systems like Git"
+    - "Understanding of Agile methodologies"
+    - "Experience with performance and security testing"
+  qualifications_criteria:
+    - name: "General Knowledge"
+      level: 3
+    - name: "Testing"
+      level: 3
+  criteria:
+    - "Ability to work independently and as part of a team"
+    - "Strong analytical and problem-solving skills"
+    - "Ability to give and receive constructive feedback"
+    - "Good communication skills"
+    - "Intermediate to advanced English level"
+    - "Ability to mentor junior QA specialists"
+    - "Willingness to learn and adapt to new testing tools and technologies"
+    - "Experience with CI/CD pipelines and integration testing"
+    - "Strong attention to detail and quality assurance best practices"

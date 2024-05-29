@@ -1,0 +1,25 @@
+title: "Middle DevOps"
+category: "DevOps"
+seniority: "Middle"
+role:
+  experience:
+    - "3+ years of experience in a DevOps role"
+    - "Proficiency with cloud platforms (e.g., AWS, Azure, GCP)"
+    - "Experience with infrastructure as code tools (e.g., Terraform, CloudFormation)"
+    - "Strong understanding of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI)"
+    - "Proficiency with containerization technologies (e.g., Docker, Kubernetes)"
+    - "Experience with version control systems like Git"
+    - "Familiarity with monitoring and logging tools (e.g., Prometheus, ELK stack)"
+  qualifications_criteria:
+    - name: "General Knowledge"
+      level: 3
+    - name: "DevOps"
+      level: 3
+  criteria:
+    - "Ability to work independently and as part of a team"
+    - "Strong problem-solving skills"
+    - "Understanding of Agile methodologies"
+    - "Ability to give and receive constructive feedback"
+    - "Good communication skills"
+    - "Intermediate to advanced English level"
+    - "Ability to mentor junior team members"

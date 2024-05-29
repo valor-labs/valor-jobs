@@ -1,0 +1,25 @@
+title: "Middle Frontend Developer"
+category: "Frontend Developer"
+seniority: "Middle"
+role:
+  experience:
+    - "3+ years of frontend development experience"
+    - "Proficiency in modern JavaScript frameworks/libraries such as React, Angular, or Vue.js"
+    - "Strong understanding of HTML, CSS, and JavaScript"
+    - "Experience with version control systems like Git"
+    - "Good understanding of responsive design and cross-browser compatibility"
+    - "Experience with web performance optimization techniques"
+  qualifications_criteria:
+    - name: "General Knowledge"
+      level: 3
+    - name: "Frontend Frameworks"
+      level: 3
+      count: 2
+  criteria:
+    - "Ability to work independently and as part of a team"
+    - "Strong problem-solving skills"
+    - "Understanding of Agile methodologies"
+    - "Ability to give and receive constructive feedback"
+    - "Good communication skills"
+    - "Intermediate to advanced English level"
+    - "Ability to mentor junior developers"

@@ -1,0 +1,26 @@
+title: "Middle Quality Control Specialist"
+category: "Quality Control"
+seniority: "Middle"
+role:
+  experience:
+    - "3+ years of experience in quality control or a related field"
+    - "Proficiency in quality control methodologies and processes"
+    - "Experience with quality control tools and techniques"
+    - "Strong knowledge of statistical analysis"
+    - "Experience with version control systems like Git"
+    - "Experience with performance and security testing"
+  qualifications_criteria:
+    - name: "General Knowledge"
+      level: 3
+    - name: "Testing"
+      level: 3
+  criteria:
+    - "Ability to work independently and as part of a team"
+    - "Strong analytical and problem-solving skills"
+    - "Ability to give and receive constructive feedback"
+    - "Good communication skills"
+    - "Intermediate to advanced English level"
+    - "Ability to mentor junior QC specialists"
+    - "Willingness to learn and adapt to new QC tools and technologies"
+    - "Experience with product inspections and defect management"
+    - "Strong attention to detail and quality control best practices"

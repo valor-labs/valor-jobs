@@ -1,0 +1,25 @@
+title: "Junior Quality Assurance Specialist"
+category: "Quality Assurance"
+seniority: "Junior"
+role:
+  experience:
+    - "At least 1 year of experience in software quality assurance or a related field"
+    - "Basic understanding of QA methodologies and processes"
+    - "Familiarity with manual and automated testing tools"
+    - "Basic knowledge of SQL and ability to write simple queries"
+    - "Experience with version control systems like Git"
+    - "Understanding of Agile methodologies"
+  qualifications_criteria:
+    - name: "General Knowledge"
+      level: 2
+    - name: "Testing"
+      level: 2
+  criteria:
+    - "Strong desire to learn and grow in the field of quality assurance"
+    - "Attention to detail and strong analytical skills"
+    - "Ability to work collaboratively within a team"
+    - "Good problem-solving skills"
+    - "Basic understanding of Agile methodologies"
+    - "Ability to receive and implement feedback"
+    - "Good communication skills"
+    - "Intermediate English level"
