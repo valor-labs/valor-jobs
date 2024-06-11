@@ -1,10 +1,11 @@
 {
   "name": "yaml-validator",
   "version": "1.0.0",
-  "description": "Validate YAML files against a schema",
+  "description": "Monorepo for Valor Jobs and Qualifications",
   "main": "validate.js",
   "scripts": {
-    "validate": "node validate.js --schema=schemas/jobs_schema.yaml --data=jobs && node validate.js --schema=schemas/qualifications_schema.yaml --data=qualifications",
+    "validate": "node validate.js --schema=data/schemas/jobs_schema.yaml --data=data/jobs && node validate.js --schema=data/schemas/qualifications_schema.yaml --data=data/qualifications",
+    "aggregate": "node aggregate.js",
     "prepare": "husky install"
   },
   "dependencies": {

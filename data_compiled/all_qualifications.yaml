@@ -1,0 +1,1351 @@
+list:
+  - title: Angular
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Angular Cli in common
+      - 'Components:'
+      - '@Component() decorator'
+      - Component selector
+      - Style encapsulation
+      - lifecycle
+      - Directives in common
+      - Pipes in common
+      - 'Components data binding:'
+      - Property binding ( @Input() )
+      - Event binding ( @Output() )
+      - Two-way databinding
+      - Angular forms in common
+      - App Module & Angular Modules in common
+      - TypeScript basics
+    materials_and_topics: []
+    dependency:
+      - title: Javascript
+        level: 2
+  - title: Angular
+    level: 2
+    status: Ready to use
+    knowledge:
+      - 'Components:'
+      - Local references in templates
+      - '@ViewChild() decorator'
+      - Access to ng-content (@ContentChild)
+      - Angular embedded directives
+      - Services and Dependency Injection
+      - ng-content directive
+      - 'Routing:'
+      - Router Links
+      - Navigation Paths
+      - Navigating Programmatically
+      - Using relative paths
+      - Passing parameters to routes
+      - Observables
+      - 'Angular forms:'
+      - Template-driven
+      - Reactive
+      - Form validation
+      - Using form data
+      - Http
+      - Making requests & handling data
+      - Adjust request headers
+      - Catching errors
+      - 'Angular Modules: Shared and Feature modules'
+      - 'Directives:'
+      - Renderer
+      - '@HostListener()'
+      - '@HostBinding()'
+      - 'Pipes:'
+      - Parameterizing
+      - Chaining
+      - Filter Pipe
+    materials_and_topics: []
+    dependency: null
+  - title: Angular
+    level: 3
+    status: Ready to use
+    knowledge:
+      - 'Routing: Child (Nested) Routes'
+      - 'Routing: Using Query Parameters'
+      - 'Routing: Guards (canActivate, canDeactivate)'
+      - 'Routing: Guards - resolving dynamic data'
+      - 'Pipes: Pure & impure Pipes'
+      - 'Pipes: Async Pipes'
+      - 'Angular forms: Custom Validators'
+      - 'Angular forms: Async Validator'
+      - 'HttpClient: Making requests & handling data'
+      - 'HttpClient: Settings Headers'
+      - 'HttpClient: Interceptors'
+      - 'Angular Modules: Lazy Loading & canLoad'
+      - 'Angular Modules: Using AOT compilation'
+      - 'Angular Modules: Lazy Loaded Routes preloading'
+    materials_and_topics: []
+    dependency: null
+  - title: Architecture
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Performance testing
+      - Acceptance testing
+      - Event-driven architecture principles
+      - Microservices architecture principles
+      - Understanding UML diagrams
+      - >-
+        Understanding of basic design patterns (e.g., Singleton, Factory,
+        Observer)
+      - Basic knowledge of RESTful API design
+      - Introduction to Cloud Computing (AWS, Azure, GCP)
+    materials_and_topics:
+      - title: Software Architecture in Practice 3rd Edition
+        authors: Len Bass, Paul Clements, Rick Kazman
+        subjects: null
+      - title: Microservices Patterns
+        authors: null
+        subjects:
+          - https://microservices.io/patterns/index.html
+      - title: 'Design Patterns: Elements of Reusable Object-Oriented Software'
+        authors: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+        subjects: null
+      - title: 'RESTful Web APIs: Services for a Changing World'
+        authors: Leonard Richardson, Mike Amundsen
+        subjects: null
+      - title: 'Cloud Computing: Concepts, Technology & Architecture'
+        authors: Thomas Erl
+        subjects: null
+    dependency:
+      - title: General knowledge
+        level: 3
+      - title: Databases
+        level: 3
+  - title: Architecture
+    level: 2
+    status: Input required
+    knowledge:
+      - Can use 3 UML diagram types
+      - RAID
+      - Sharding methods
+      - Advanced design patterns (e.g., Dependency Injection, Repository, CQRS)
+      - Service-Oriented Architecture (SOA)
+      - API Gateway pattern
+      - Understanding CAP theorem
+      - Scalability and Load Balancing techniques
+      - Containerization (Docker) and Orchestration (Kubernetes)
+      - Basics of security architecture (OAuth, JWT, encryption)
+      - Cloud-native architecture principles
+    materials_and_topics:
+      - title: '.NET Microservices: Architecture for Containerized .NET Applications'
+        authors: Cesar de la Torre, Bill Wagner, Mike Rousos
+        subjects: null
+      - title: Cloud Best Practices
+        authors: Microsoft Corporation and the community
+        subjects: null
+      - title: Performance Antipatterns
+        authors: Microsoft Corporation and the community
+        subjects: null
+      - title: Azure Application Architecture Guide
+        authors: Microsoft Corporation and community
+        subjects: null
+      - title: Patterns of Enterprise Application Architecture
+        authors: Martin Fowler
+        subjects: null
+      - title: Designing Data-Intensive Applications
+        authors: Martin Kleppmann
+        subjects: null
+      - title: Building Microservices
+        authors: Sam Newman
+        subjects: null
+      - title: Kubernetes Up & Running
+        authors: Kelsey Hightower, Brendan Burns, Joe Beda
+        subjects: null
+    dependency:
+      - title: General knowledge
+        level: 4
+  - title: Architecture
+    level: 3
+    status: Input required
+    knowledge:
+      - Packaging and modularity principles
+      - Experience with platform views would be a plus
+      - Experience with custom Elements  RenderObjects would be a plus
+      - E2E tests
+      - >-
+        Understanding how developers should be organized to work over the
+        project to maximize productivity
+      - >-
+        Establishing processes the programming team should follow in order to
+        facilitate high internal and external quality and minimize bugs
+      - >-
+        Setting up CD process with deployment to distribution platforms based on
+        git model specification
+      - Familiarity with Richardson Maturity Model
+      - >-
+        Advanced security architecture (threat modeling, zero trust
+        architecture)
+      - Enterprise Integration Patterns (EIP)
+      - Domain-Driven Design (DDD)
+      - Event Sourcing and Command Query Responsibility Segregation (CQRS)
+      - Architecting for scalability and resilience
+      - Hybrid and Multi-Cloud architectures
+    materials_and_topics:
+      - title: The Art of Scalability
+        authors: Martin L. Abbott, Michael T. Fisher
+        subjects: null
+      - title: 'Domain-Driven Design: Tackling Complexity in the Heart of Software'
+        authors: Eric Evans
+        subjects: null
+      - title: Enterprise Integration Patterns
+        authors: Gregor Hohpe, Bobby Woolf
+        subjects: null
+      - title: >-
+          The Phoenix Project: A Novel About IT, DevOps, and Helping Your
+          Business Win
+        authors: Gene Kim, Kevin Behr, George Spafford
+        subjects: null
+      - title: 'Site Reliability Engineering: How Google Runs Production Systems'
+        authors: Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff
+        subjects: null
+      - title: Architecting for Scale
+        authors: Lee Atchison
+        subjects: null
+      - title: Building Evolutionary Architectures
+        authors: Neal Ford, Rebecca Parsons, Patrick Kua
+        subjects: null
+      - title: 'Cloud Native Patterns: Designing change-tolerant software'
+        authors: Cornelia Davis
+        subjects: null
+    dependency:
+      - title: General knowledge
+        level: 5
+  - title: Business Analysis
+    level: 1
+    status: Input required
+    knowledge:
+      - SDLC Methodologies
+      - Needs assessment
+      - Stakeholders classification
+      - Business Case
+    materials_and_topics:
+      - title: Become a Business Analyst
+  - title: Business Analysis
+    level: 3
+    knowledge:
+      - Value proposition
+      - USP
+      - ICP
+      - Value flow
+      - Kanban
+      - Product vision
+      - SWOT analysis
+      - MoSCoW prioritization
+    status: Input required
+  - title: Databases
+    level: 1
+    knowledge:
+      - SQL basic knowledge
+      - Indexes
+      - Know 1 SQL database software
+      - Normalization
+      - Transactions
+    materials_and_topics:
+      - title: Mastering PostgreSQL In Application Development by Dimitri Fontaine
+    status: Ready to use
+  - title: Databases
+    level: 2
+    knowledge:
+      - Explain SQL Joins
+      - Know 2 SQL database software
+      - Basic NoSQL database understanding
+      - Know 1 NoSQL database software
+      - Caching engines
+      - Stored routines
+    status: Ready to use
+  - title: Databases
+    level: 3
+    knowledge:
+      - Transaction isolation levels
+      - Know 3 SQL database software
+      - Know 4 NoSQL database software
+      - Know 3 NoSQL database types
+      - Advanced SQL engine configuration
+      - Triggers
+      - Graph databases
+    status: Ready to use
+  - title: DevOps
+    level: 1
+    knowledge:
+      - Docker
+      - Kubernetes simple configurations
+      - Name 5 AWS, Azure and Google Cloud services
+    materials_and_topics: []
+    dependency:
+      - General knowledge: Level 2
+      - Databases: Level 1
+    status: Input required
+  - title: DevOps
+    level: 2
+    knowledge:
+      - AWS services or Azure Services or Google Cloud
+      - Key cloud hosting providers
+      - OSI levels, can describe 5/7 levels in details.
+      - Monitoring systems
+      - Bash scripting
+      - Iptables
+      - Nginx and Apache virtual hosts
+      - Virtualization
+      - CGI
+      - Kubernetes complex configs
+    dependency:
+      - title: General knowledge
+        level: 3
+      - title: Databases
+        level: 2
+    status: Input required
+  - title: DevOps
+    level: 3
+    knowledge:
+      - Clustering relational databases
+      - Clustering key-value databases
+      - QA skills
+      - Performance testing tools
+      - Orchestrator systems
+      - Windows Server key features
+    dependency:
+      - title: General knowledge
+        level: 4
+      - title: Databases
+        level: 3
+    status: Input required
+  - title: Drupal
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Understanding of Content types, Fields, Views
+      - Basic drupal entities
+      - Basic Theming
+      - Custom module creation and hooks
+    materials_and_topics: []
+    dependency:
+      - title: PHP
+        level: 1
+  - title: Drupal
+    level: 2
+    status: Input required
+    knowledge:
+      - Commerce Solutions
+      - Forum solutions
+      - Media solutions
+      - Differences between Blocks and Panes
+      - Security and anti flood
+      - Portfolio with more than 2 projects with custom themes and modules
+      - Transferring of settings
+      - I18n, Rules, Tokens
+      - Custom pages and blocks
+      - Cron
+      - Composer
+      - Twig
+    materials_and_topics: []
+    dependency:
+      - title: PHP
+        level: 2
+  - title: Drupal
+    level: 3
+    status: Input required
+    knowledge:
+      - Drupal 7 and 8 differences and migration
+      - Profiles
+      - Custom Fields, Views, View handlers, ECK
+      - Console tools
+      - Improving performance via Boost, Memcached, APC, etc
+      - Batch API, Libraries API, VBO
+      - Multidomain configuration
+      - Portfolio with more than 10 big projects include commerce solutions
+    materials_and_topics: []
+    dependency: null
+  - title: Drupal
+    level: 4
+    status: Input required
+    knowledge:
+      - Varnish, NGinx
+      - Multidomain
+      - Drupal 7,8 Cache system
+      - Bootstrap levels
+      - 2 different commerce solutions
+      - Solutions for media hosting
+      - Solutions for social networking
+      - XMLRPC and REST APIs
+      - Portfolio with more than 20 big projects
+    materials_and_topics: []
+    dependency: null
+  - title: Flutter
+    level: 1
+    status: Input required
+    knowledge:
+      - OOP Basics
+      - Understanding of Dart execution model (event loops, futures)
+      - Dart collections (map -> hashmap, set -> hashset, list)
+      - Understanding of Dart errors & exceptions system
+      - Understanding of Dart Generics
+      - Understanding what widget is and Flutter's widget composability
+      - Experience with main UI toolkits - material and cupertino
+      - Experience with direct navigation system (Navigator.pop  Navigator.push)
+      - >-
+        Experience with Stateful widget updates (didChangeDependencies,
+        didUpdateWidget)
+      - Experience with native Dart JSON serialization tools (dart:convert)
+      - Experience with native Dart HttpClient
+      - >-
+        Experience with basic animations via Animation<double> and
+        AnimationController
+      - 'SQLite: SQL syntax, CRUD operations, data types'
+    materials_and_topics: []
+    dependency: null
+  - title: Flutter
+    level: 2
+    status: Input required
+    knowledge:
+      - >-
+        Experience with OOP and OOD: understanding of proper abstractions and
+        program scalability & suppleness techniques, high cohesion / loose
+        coupling
+      - Reactive Programming Basics
+      - >-
+        Understanding of Dart execution model: event loops, microtasks, futures,
+        zones
+      - 'Understanding of Dart memory model: heap, isolated memory'
+      - >-
+        Understanding of Flutter  Dart runtime: Dart VM, Dart as native
+        executable, Dart as a backend app (node), Flutter on Android  iOS  web 
+        linux  macOS  windows
+      - Understanding of Dart typing and OO model
+      - Deep experience with Streams
+      - Experience with asynchronous code testing
+      - Experience with named navigation system and Navigator 2.0
+      - >-
+        Understanding of Flutter's rendering system: widgets, elements, render
+        objects
+      - Understanding of efficient UI code reuse techniques
+      - >-
+        Experience with state management: general understanding and experience
+        with state management, team uses something close to BLoC primarily
+      - Understanding of keys and Flutter tree updating algorithm
+      - Experience with Flutter web
+      - Experience with plugins development
+      - Experience with implicit and Hero animations
+      - Experience with TDD & flutter:test
+      - Understanding of Android  iOS  web platforms
+      - 'Experience with third-party tools: Provider, RxDart, BLoC'
+      - Experience with BaaS Platforms
+      - Experience with GitFlow
+      - >-
+        Skills to setup a basic CI pipeline to analyze, test and assemble the
+        build
+      - Good understanding of RESTful APIs
+      - Experience with websockets would be a plus
+      - 'SQLite: Transactions, Joins, relations between tables, versioning'
+    materials_and_topics: []
+    dependency: null
+  - title: Flutter
+    level: 3
+    status: Input required
+    knowledge:
+      - Packaging and modularity principles
+      - Experience with platform views would be a plus
+      - Experience with custom Elements  RenderObjects would be a plus
+      - E2E tests
+      - >-
+        Understanding how developers should be organized to work over the
+        project to maximize productivity
+      - >-
+        Establishing processes the programming team should follow in order to
+        facilitate high internal and external quality and minimize bugs
+      - >-
+        Setting up CD process with deployment to distribution platforms based on
+        git model specification
+      - Familiarity with Richardson Maturity Model
+      - >-
+        SQLite: Isolation levels, normalization (up until 3rd form), compound
+        keys
+    materials_and_topics: []
+    dependency: null
+  - title: General knowledge
+    level: 1
+    status: Ready to use
+    knowledge:
+      - General networking understanding
+      - Basic HTTP
+      - Cookies
+      - API explanation
+      - General Git
+      - Knowledge of two popular web server implementations
+      - Command-line terminal, Linux or Windows
+      - Text Encoding
+      - OOP principles
+    materials_and_topics:
+      - title: The Clean Coder
+        subjects:
+          - Time Management
+          - Meaning of estimate
+          - >-
+            Methodic of estimation by Program Evaluation and Review Technique
+            (PERT)
+          - Principles of Work Ethic
+          - Handling Pressure
+  - title: General Knowledge
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Advanced HTTP
+      - DNS
+      - Advanced Git
+      - Main security problems
+      - SSH understanding
+      - HTTPS understanding
+      - RPC/REST difference
+      - Basic regular expressions
+      - Hashes, basic encryption
+      - CI/CD
+    materials_and_topics:
+      - title: Clean Code
+        subjects:
+          - SOLID
+          - Code Smells
+      - title: Patterns of Enterprise Application Architecture
+        authors: >-
+          Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee,
+          Randy Stafford
+        subjects:
+          - Design Patterns (GOF)
+          - Layering Schemes
+          - Meaning of Domain Logic
+          - Meaning of Application Logic
+          - Concurrency problems and solutions
+          - Patterns of Application Architecture (PoEAA)
+      - title: 'Design Patterns: Elements of Reusable Object-Oriented Software'
+        authors: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+  - title: General Knowledge
+    level: 3
+    status: Ready to use
+    knowledge:
+      - OSI levels, can describe 2/7 levels in detail
+      - >-
+        Can describe 7 basic TCP/UDP applications, listening 1-1024 TCP/UDP
+        ports
+      - Security, can describe 3 most frequent web vulnerabilities
+      - Elastic understanding
+    materials_and_topics:
+      - title: 'Refactoring: Improving the Design of Existing Code'
+        subjects:
+          - Principles of refactoring and motivation of refactoring methods
+          - Code Smells by M. Fowler’s catalog
+      - title: Code Complete
+        subjects:
+          - OOP principles
+          - Waterfall vs Iterative development
+          - Architecture Prerequisite
+          - Top-Down and Bottom-Up Design Approaches
+          - Creating High-Quality Code
+          - Low Coupling & High Cohesion
+          - Layout and Style
+          - Personal Character
+      - title: Extreme Programming Explained
+        subjects:
+          - Meaning of Agile
+          - Correlation between code design quality and economics
+          - Methodics of experience sharing (Collaborative Development)
+          - >-
+            Methodics of fast development (Evolutionary Design, Emergent Design,
+            Pattern copying, Obvious Implementation, TDD)
+      - title: Algorithms and Data Structures
+        subjects:
+          - The basics of Algorithms and Data Structures
+  - title: General knowledge
+    level: 4
+    knowledge:
+      - OSI levels, can detailed describe 5/7 levels.
+      - Basic computer networks
+      - Client-server architecture
+      - HTTP, HTTPS
+      - Web development basics
+      - Agile methodologies
+    materials_and_topics:
+      - title: Books
+      - title: Domain-Driven Design by Eric Evans
+      - title: >-
+          Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, John
+          Vlissides
+      - title: 'Refactoring: Improving the Design of Existing Code by Martin Fowler'
+    status: Ready to use
+  - title: General knowledge
+    level: 5
+    knowledge:
+      - Understanding VoIP
+      - WebRTC
+      - Understanding blockchain principles
+      - Advanced Security skills
+      - Explain 10 architectural patterns
+      - Virtualization
+    materials_and_topics:
+      - title: Building Microservices. Designing Fine-Grained Systems by Sam Newman
+      - title: Planning Extreme Programming by Kent Beck
+      - title: >-
+          Cloud Design Patterns. Prescriptive architecture guidance for cloud
+          applications by Alex Homer
+    status: Ready to use
+  - title: General management
+    level: 1
+    status: Input required
+    knowledge:
+      - Project Management fundamentals
+      - >-
+        Difference between Service Management, Account Management, Product
+        Management
+      - Team building phases
+    materials_and_topics:
+      - title: >-
+          The Manager's Path: A Guide for Tech Leaders Navigating Growth and
+          Change 1st Edition. by. Camille Fournier
+      - title: Huble inquiry by Edgar H. Schein
+      - title: Your Brain at Work by David Rock
+      - title: Captivate by Vanessa Van Edwards
+  - title: General management
+    level: 2
+    status: Input required
+    knowledge:
+      - Project Management in-depth
+      - PMI vs PRINCE2
+      - Service Management
+      - Kanban fundamentials
+      - Six Sigma Yellow belt
+      - Account Management
+      - Team topologies
+    materials_and_topics:
+      - title: Team topologies by Matthew Skelton and Manuel Pais
+  - title: General management
+    level: 3
+    status: Input required
+    knowledge:
+      - Product Management
+      - Marketing fundamentals
+      - Service Management in-depth
+  - title: Golang
+    level: 1
+    knowledge:
+      - Tooling
+      - CLI
+      - Gopath, imports, Packages
+      - Interfaces (difference from other languages)
+      - Error
+      - High order functions and closures
+      - Pointers vs Values
+      - Slices
+      - Map
+      - Strings (runes)
+      - Multiline strings
+    materials_and_topics:
+      - title: Golang advantages and disadvantages
+    dependency:
+      - title: General knowledge
+        level: 1
+      - title: Databases
+        level: 2
+    status: Ready to use
+  - title: Golang
+    level: 2
+    knowledge:
+      - Type assertion
+      - Goroutines
+      - Defer
+      - Panic and recover mechanism
+      - Synchronization primitives (select keyword)
+      - Empty struct usage (struct{}{})
+      - Set implementation (how to get list of unique items)
+      - Parallel list processing example (live coding)
+      - 'CLI: cobra'
+      - 'ORMs: Gorm'
+      - 'Log Frameworks: Zap'
+      - 'Testing: GoDog'
+    dependency:
+      - title: General knowledge
+        level: 3
+    status: Ready to use
+  - title: Golang
+    level: 3
+    knowledge:
+      - >-
+        Go runtime for concurrency (Scheduler, context switching, comparing with
+        OS threads scheduling)
+      - Caching
+      - GCache
+      - Go-Redis
+      - Slice internal representation (make)
+      - Interface internal representation
+      - Boltdb
+      - Nats-streaming
+    materials_and_topics:
+      - title: https://dave.cheney.net/2015/08/08/performance-without-the-event-loop
+    dependency:
+      - title: General knowledge
+        level: 4
+      - title: Databases
+        level: 3
+    status: Ready to use
+  - title: Golang
+    level: 4
+    status: Ready to use
+    knowledge:
+      - 'Message-brokers: RabbitMQ, Kafka'
+      - 'RPC: gRPC'
+      - 'RPC: Protocol buffers'
+      - >-
+        Key-value in-memory cache implementation ready for concurrent
+        access(live coding, 2 versions (mutex based and channel based))
+      - >-
+        Golang GC (tradeoffs, possible problems, comparison with different
+        languages)
+    materials_and_topics:
+      - title: >-
+          https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e#.yalb5aux9
+      - title: https://www.youtube.com/watch?v=q1h2g84EX1M
+      - title: https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
+      - title: https://blog.golang.org/go15gc
+      - title: https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
+    dependency:
+      - title: General knowledge
+        level: 3
+  - title: HTML/CSS Slicing
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Knowing most of HTML tags and CSS properties
+      - Using Flex in styling and percentages in adaptive layout
+      - Understand when to use tags, identification (#id), or classes
+      - >-
+        Adaptive and cross-browser styling: Knowing how to work with media
+        queries
+      - Using attributes to inline style
+      - Working with SVG icons and images
+    materials_and_topics: []
+    dependency: null
+  - title: HTML/CSS Slicing
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Knowing all the HTML tags and CSS properties
+      - Create and use own attributes using “data-*”
+      - Following standards of W3C in layout
+      - >-
+        Using frameworks for fast styling such as Bootstrap or using own
+        template
+      - Knowing how to connect personal fonts or icons library with CSS
+      - >-
+        Improving page speed by positioning scripts, compressing pictures,
+        asynchronous loading
+    materials_and_topics: []
+    dependency: null
+  - title: Javascript
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Basic jQuery
+      - Context understanding
+      - Npm, Yarn
+      - Closure
+      - DOM events
+      - References
+      - localStorage/sessionStorage
+      - JSON object
+      - Callbacks
+      - Array/Object operations
+    materials_and_topics: []
+    dependency:
+      - title: HTML
+        level: 1
+  - title: Javascript
+    level: 2
+    status: Ready to use
+    knowledge:
+      - ES6/7/8
+      - Event loop
+      - Bubbling and Capturing
+      - 'Lib: Moment'
+      - 'Lib: Underscore/Lodash'
+      - Context manipulations
+      - Prototype inheritance
+      - BOM
+      - History
+      - Hoisting
+      - Gulp, Webpack
+      - Promise
+      - Error handling
+      - Type Conversion
+      - Map, Set
+    materials_and_topics: []
+    dependency: null
+  - title: Javascript
+    level: 3
+    status: Input required
+    knowledge:
+      - Blob scheme
+      - Descriptors
+      - Generators
+      - Navigator
+      - Webworker
+      - Symbol
+      - Proxy
+      - Advanced knowledge WASM with 2 year experience (Just kidding)
+      - WeakMap, WeakSet
+      - ESlint
+    materials_and_topics: []
+    dependency: null
+  - title: NodeJS
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Modules
+      - Event Emitter
+      - Callback hell
+      - REST API
+      - Event loop
+      - Express - general
+      - Express - middlewares
+      - Express - routing
+    materials_and_topics: []
+    dependency:
+      - title: General knowledge
+        level: 1
+      - title: Javascript
+        level: 2
+  - title: NodeJS
+    level: 2
+    status: Input required
+    knowledge:
+      - Streams
+      - Test spies, stubs and mocks (Assert, Sinon or other tools)
+      - Generators
+      - Utility Modules (OS, Path, Net, DNS)
+      - TLS/SSL
+      - Websockets
+      - REPL
+      - NestJS framework
+    materials_and_topics:
+      - title: Best Practices for Spies, Stubs, and Mocks in Sinon.js
+        authors: null
+        subjects:
+          - >-
+            https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js
+    dependency:
+      - title: General knowledge
+        level: 3
+      - title: Javascript
+        level: 3
+      - title: Databases
+        level: 2
+  - title: NodeJS
+    level: 3
+    status: Input required
+    knowledge:
+      - Child Process
+      - Clusters
+      - Buffers
+      - ORMs (prisma/typeORM)
+    materials_and_topics: []
+    dependency: null
+  - title: PHP
+    level: 1
+    knowledge:
+      - PHP 7
+      - Magic methods
+      - OOP particular qualities if PHP implementation
+      - 1 Popular framework or CMS basic knowledge
+    dependency:
+      - title: General knowledge
+        level: 1
+      - title: HTML/CSS
+        level: 1
+    status: Ready to use
+  - title: PHP
+    level: 2
+    knowledge:
+      - Differences between PHP 5.6, PHP 8
+      - Composer
+      - 1 Popular framework knowledge
+      - 1 CMS development knowledge
+      - PSRs
+    dependency:
+      - title: General knowledge
+        level: 2
+      - title: HTML/CSS
+        level: 2
+    status: Ready to use
+  - title: PHP
+    level: 3
+    knowledge:
+      - PHPUnit
+      - 2 Popular framework knowledge
+      - 2 CMS development knowledge
+      - Strong HTML 5, CSS 3 knowledge
+      - TDD practices
+    dependency:
+      - title: General knowledge
+        level: 3
+    status: Ready to use
+  - title: PHP
+    level: 4
+    knowledge:
+      - React or Angular or Vue at Level 1
+      - One of other’s Backend technologies at Level 1
+      - 2 Popular framework and 2 CMS knowledge
+      - 3 Unit testing tools
+    dependency:
+      - title: General knowledge
+        level: 4
+    status: Ready to use
+  - title: Product ownership
+    level: 1
+    status: Input required
+    knowledge: []
+    materials_and_topics: []
+  - title: Project Management
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Understanding of functional and non-functional requirements
+      - 2 types of requirement artefacts
+      - 2 types of UML diagrams, ability to draw and use them appropriately
+      - SRS document description and purpose
+      - Team development techniques
+      - Status report. What include, to whom sent.
+      - 3 popular project development methodology
+      - >-
+        Why Fixed Price projects fail. What should be done to successfully
+        complete a Fixed Price project?
+      - Project phases
+      - Prototype vs MVP vs PoC vs MWS
+      - UX/UI difference
+      - General knowledge level 1
+      - KPI vs metrics
+    materials_and_topics: []
+  - title: Project Management
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Stakeholder engagement
+      - Tenders workflow
+      - Types of nonfunctional requirements
+      - 5 types of requirement artefacts
+      - List of SRS paragraphs
+      - UML
+      - '- 5 types of UML diagrams'
+      - '- ability to explain and usage examples'
+      - '- Arrow types :)'
+      - 5 project development methodologies
+      - Pros and cons of collaboration models (FC|TM|DT)
+      - Details of projects stages
+      - Risk management
+      - '- Risk types'
+      - '- Risk comparison'
+      - '- Risk identification methodologies'
+      - Difference between estimation in hours and story points
+      - Project Charter document, description and purpose
+      - Change management
+      - Kanban questions
+      - Conflict resolution
+      - Stages of Team Formation
+      - Project Transfer
+      - Cross-location project teams
+    materials_and_topics:
+      - title: Rita exams preparation
+        authors: null
+        subjects: null
+    dependency: null
+  - title: Python Django
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Project Setup - Installing Django
+      - Models and Database - SQLAlchemy integration
+      - Views and URL Configuration - Routing and view functions
+      - Templates - Jinja2 templating
+      - Forms - Pydantic and form handling
+      - Authentication - FastAPI security and OAuth2 integration
+      - REST API - FastAPI basics and OpenAPI documentation
+      - Testing - FastAPI testing basics
+      - Deployment - Deploying FastAPI applications on platforms like Heroku
+      - >-
+        Performance and Optimization - Basic performance optimization techniques
+        (caching, database optimization, etc.)
+    materials_and_topics: []
+    dependency:
+      - title: Python
+        level: 1
+  - title: Python Django
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Project Setup - Project structure and best practices
+      - Models and Database - Advanced querying and database optimization
+      - Views and URL Configuration - Dependency injection for views
+      - Templates - Template inheritance and reusable components
+      - Forms - Advanced form handling and validation
+      - >-
+        Authentication - Advanced authentication techniques and custom
+        permissions
+      - REST API - Advanced API techniques and customization
+      - Testing - Test-driven development with FastAPI
+      - Deployment - Optimizing and scaling FastAPI applications
+      - >-
+        Performance and Optimization - Advanced performance optimization (load
+        balancing, query optimization, etc.)
+    materials_and_topics: []
+    dependency:
+      - title: Python
+        level: 2
+  - title: Python FastAPI
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Project Setup - Installing FastAPI
+      - Models and Database - SQLAlchemy integration
+      - Views and URL Configuration - Routing and view functions
+      - Templates - Jinja2 templating
+      - Forms - Pydantic and form handling
+      - Authentication - FastAPI security and OAuth2 integration
+      - REST API - FastAPI basics and OpenAPI documentation
+      - Testing - FastAPI testing basics
+      - Deployment - Deploying FastAPI applications on platforms like Heroku
+      - >-
+        Performance and Optimization - Basic performance optimization techniques
+        (caching, database optimization, etc.)
+    materials_and_topics: []
+    dependency:
+      - title: Python
+        level: 1
+  - title: Python FastAPI
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Project Setup - Project structure and best practices
+      - Models and Database - Advanced querying and database optimization
+      - Views and URL Configuration - Dependency injection for views
+      - Templates - Template inheritance and reusable components
+      - Forms - Advanced form handling and validation
+      - >-
+        Authentication - Advanced authentication techniques and custom
+        permissions
+      - REST API - Advanced API techniques and customization
+      - Testing - Test-driven development with FastAPI
+      - Deployment - Optimizing and scaling FastAPI applications
+      - >-
+        Performance and Optimization - Advanced performance optimization (load
+        balancing, query optimization, etc.)
+    materials_and_topics: []
+    dependency: null
+  - title: Python Flask
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Project Setup - Installing Flask
+      - Models and Database - SQLAlchemy integration
+      - Views and URL Configuration - Routing and view functions
+      - Templates - Jinja2 templating
+      - Forms - Pydantic and form handling
+      - Authentication - FastAPI security and OAuth2 integration
+      - REST API - FastAPI basics and OpenAPI documentation
+      - Testing - FastAPI testing basics
+      - Deployment - Deploying FastAPI applications on platforms like Heroku
+      - >-
+        Performance and Optimization - Basic performance optimization techniques
+        (caching, database optimization, etc.)
+    materials_and_topics: []
+    dependency:
+      - title: Python
+        level: 1
+  - title: Python Flask
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Project Setup - Project structure and best practices
+      - Models and Database - Advanced querying and database optimization
+      - Views and URL Configuration - Dependency injection for views
+      - Templates - Template inheritance and reusable components
+      - Forms - Advanced form handling and validation
+      - >-
+        Authentication - Advanced authentication techniques and custom
+        permissions
+      - REST API - Advanced API techniques and customization
+      - Testing - Test-driven development with FastAPI
+      - Deployment - Optimizing and scaling FastAPI applications
+      - >-
+        Performance and Optimization - Advanced performance optimization (load
+        balancing, query optimization, etc.)
+    materials_and_topics: []
+    dependency:
+      - title: Python
+        level: 2
+  - title: Python Backend
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Virtual Environments
+      - Data Types, Data Structures
+      - Control Flow, Functions, Classes and OOP
+      - Module, Packages and Importing Modules
+      - IO Handling
+      - Errors and Exceptions
+      - Testing, Debugging, Profiling
+      - Runtime and Language Services
+      - '- Python Runtime Services'
+      - '- Marsal'
+      - '- Pickle'
+      - '- Class Browser'
+    materials_and_topics:
+      - title: https://py.checkio.org/
+        authors: null
+        subjects: null
+      - title: https://docs.python.org/3/
+        authors: null
+        subjects: null
+    dependency:
+      - title: General knowledge
+        level: 1
+  - title: Python Backend
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Multithreading
+      - Unit testing in Python
+      - Garbage Collector
+    materials_and_topics: []
+    dependency:
+      - title: General knowledge
+        level: 3
+      - title: Databases
+        level: 2
+  - title: Quality Assurance
+    level: 1
+    knowledge:
+      - Metrics for testing
+      - >-
+        Ability to explain differences between SDLC approaches in the context of
+        QA
+      - Purpose and requirements of Pixel Perfect testing and its techniques
+      - Basic computer networks
+      - Create informative bug reports
+      - Software development processes
+    materials_and_topics:
+      - title: «Testing Computer Software», Cem Kaner, Jack Falk, Hung Quoc Nguyen
+      - title: «Тестирование программного обеспечения. Базовый курс», Д. Ли Коупленд
+    status: Input required
+  - title: Quality Assurance
+    level: 2
+    knowledge:
+      - Understand Quality Assurance Theory at Deep Level
+      - QA metrics
+      - Test case design techniques
+      - Automated testing
+      - Performance testing
+    materials_and_topics:
+      - title: 'Book: «The Art of Software Testing», Glenford J. Myers'
+    status: Input required
+  - title: Quality Assurance
+    level: 3
+    knowledge:
+      - Understanding of Quality Management by PMBoK
+      - Risk management in QA
+      - Quality assurance standards and certifications
+      - Continuous integration and continuous deployment (CI/CD)
+      - Advanced testing techniques and tools
+      - Security testing
+    dependency:
+      - title: General knowledge
+        level: 2
+      - title: Databases
+        level: 1
+    status: Input required
+  - title: React
+    level: 1
+    status: Ready to use
+    knowledge:
+      - VirtualDOM (basics)
+      - Components (difference, props and cons)
+      - Component (class)
+      - Functional Component
+      - Component state management
+      - Application state management (at least 1 approach)
+      - Lifecycle Methods (basics)
+      - JSX (basics)
+      - Routing (v2-3 or v4)
+      - Event handlers (basics)
+    materials_and_topics: []
+    dependency:
+      - title: Javascript
+        level: 2
+  - title: React
+    level: 2
+    status: Input required
+    knowledge:
+      - Components (difference, props and cons)
+      - Component (class)
+      - Functional Component
+      - Pure Component (class)
+      - Higher-Order Component
+      - Application state management (difference, props and cons)
+      - Redux (deep knowledge)
+      - Middleware
+      - Async Actions (difference, props and cons)
+      - redux-thunk
+      - redux-saga
+      - MobX (or at least 1 more approach)
+      - Reference (to component & element)
+      - Lifecycle Methods (deep knowledge)
+      - Routing (deep knowledge, difference between v2/3 & v4, props and cons)
+      - Synthetic Event (deep knowledge, how persist method work)
+      - ReactDOMServer
+      - JSX (deep knowledge, transpiled into)
+      - Type-checking With PropTypes
+      - Default Props
+      - Context (how work, props and cons, what libraries use it)
+      - Portals (approach, implementation before React 16)
+      - Error Boundaries
+      - Tests (approaches of testing Components, business logic, etc.)
+    materials_and_topics: []
+    dependency: null
+  - title: React Native
+    level: 1
+    status: Ready to use
+    knowledge:
+      - Understanding React native bridging and how it works
+      - Components that are provided by react-native package
+    materials_and_topics: []
+    dependency:
+      - title: React
+        level: 2
+      - title: General knowledge
+        level: 1
+  - title: React Native
+    level: 2
+    status: Ready to use
+    knowledge:
+      - Navigation. eg. "react-navigation" lib
+      - SQL basics
+      - SQLite
+      - Push notifications
+      - Async storage and analogs, min 1 e.g. react-native-mmkv
+    materials_and_topics: []
+    dependency: null
+  - title: React Native
+    level: 3
+    status: Ready to use
+    knowledge:
+      - Ability to write native modules at least for one platform
+      - Bio auth
+      - >-
+        Experience with system integrations: Camera, shared extensions,
+        bluetooth etc
+      - Native debugging
+      - Catch memory leaks
+      - Localisation features, ICU, native localisation
+    materials_and_topics: []
+    dependency:
+      - title: General knowledge
+        level: 3
+  - title: Vue
+    level: 1
+    status: Input required
+    knowledge:
+      - Project Setup
+      - Installing Vue.js
+      - Components
+      - Creating and using components
+      - Data Binding
+      - Interpolation, v-bind, and v-model
+      - Event Handling
+      - v-on and event listeners
+      - Computed Properties
+      - Computed properties basics
+      - Watchers
+      - Watchers basics
+      - Conditional Rendering
+      - v-if, v-else, v-show, and v-for
+      - Routing
+      - Vue Router basics
+      - State Management
+      - Local component state
+      - Forms
+      - Form handling and validation
+      - Transitions
+      - Vue transitions and animations
+      - Testing
+      - Vue testing basics (Vue Test Utils and Jest)
+      - Deployment
+      - Deploying Vue.js applications on platforms like Netlify and Vercel
+      - Performance and Optimization
+      - >-
+        Basic performance optimization techniques (lazy loading, code splitting,
+        etc.)
+    materials_and_topics: []
+    dependency: null
+  - title: Vue
+    level: 2
+    status: Input required
+    knowledge:
+      - 'Project Setup: Vue CLI and project structure'
+      - 'Components: Component lifecycle and best practices'
+      - 'Data Binding: Custom directives and event modifiers'
+      - 'Event Handling: Custom event handling and event bus'
+      - 'Computed Properties: Computed properties with getter and setter'
+      - 'Watchers: Advanced watchers and deep watching'
+      - 'Conditional Rendering: Dynamic rendering and template management'
+      - 'Routing: Dynamic routing and nested routes'
+      - 'State Management: Vuex for global state management'
+      - 'Forms: Custom form components and validation techniques'
+      - 'Transitions: Advanced transitions and third-party animation libraries'
+      - 'Testing: Test-driven development with Vue'
+      - 'Deployment: Optimizing and scaling Vue.js applications'
+      - >-
+        Performance and Optimization: Advanced performance optimization (SSR,
+        caching, etc.)
+    materials_and_topics: []
+    dependency: null
+  - title: Wordpress
+    level: 1
+    status: Input required
+    knowledge:
+      - 'Basic knowledge: Posts, Pages, Media, Comments, Plugins, Themes'
+      - Wordpress custom theme creation knowledge
+      - Wordpress custom plugin creation knowledge
+      - Actions and Filters
+    materials_and_topics: []
+    dependency:
+      - title: PHP
+        level: 1
+  - title: Wordpress
+    level: 2
+    status: Input required
+    knowledge:
+      - Adding custom scripts, styles, shortcodes, global objects and variables
+      - Project file structure and database knowledge
+      - Knowledge of more than 10 useful modules
+      - How to work with Custom Post Type
+      - Commerce solutions
+      - Anti Spam solutions
+      - Basic knowledge about Security, Cache solutions, SEO, Translations
+      - Portfolio with more than 2 projects with custom themes and modules
+    materials_and_topics: []
+    dependency:
+      - title: PHP
+        level: 2
+  - title: Wordpress
+    level: 3
+    status: Input required
+    knowledge:
+      - Deep knowledge about Security, Cache and Commerce solutions
+      - Image lazy loading
+      - How to work with Template Tags
+      - Deep knowledge about WP functions
+      - Portfolio with more than 10 big projects include commerce solutions
+    materials_and_topics: []
+    dependency:
+      - title: PHP
+        level: 3
+      - title: Javascript
+        level: 2
