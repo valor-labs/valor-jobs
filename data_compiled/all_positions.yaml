@@ -38,6 +38,7 @@ list:
         project teams
   - title: Account Manager
     track: Delivery track
+    position: Account Manager
     category: Account Management
     seniority: Senior
     experience:
@@ -77,6 +78,7 @@ list:
       - Experience in mentoring and guiding junior account managers
   - title: Delivery Director
     track: Delivery track
+    position: Delivery Director
     category: Project Management
     seniority: Director
     experience:
@@ -132,6 +134,7 @@ list:
         continuous improvement initiatives
   - title: Delivery Manager
     track: Delivery track
+    position: Delivery Manager
     category: Project Management
     seniority: Senior
     experience:
@@ -178,9 +181,9 @@ list:
       - Proven experience in managing large portfolio
   - title: Junior Project Manager
     track: Delivery track
+    position: Project Manager
     category: Project Management
     seniority: Junior
-    position: Project Manager
     experience:
       - >-
         1+ years of project management experience in a software development
@@ -206,9 +209,9 @@ list:
       - Intermediate English level
   - title: Middle Project Manager
     track: Delivery track
+    position: Project Manager
     category: Project Management
     seniority: Middle
-    position: Project Manager
     experience:
       - >-
         3+ years of project management experience in a software development
@@ -236,9 +239,9 @@ list:
       - Capability to adapt to changing project requirements and environments
   - title: Senior Project Manager
     track: Delivery track
+    position: Project Manager
     category: Project Management
     seniority: Senior
-    position: Project Manager
     experience:
       - >-
         5+ years of project management experience in a software development
@@ -275,6 +278,7 @@ list:
         environments
   - title: Agile Coach
     track: Delivery track
+    position: Agile Coach
     category: Agile
     seniority: Senior
     experience:
@@ -314,9 +318,9 @@ list:
       - Experience in developing and implementing Agile metrics and KPIs
   - title: Junior Scrum Master
     track: Delivery track
+    position: Scrum Master
     category: Agile
     seniority: Junior
-    position: Scrum Master
     experience:
       - 1+ years of experience in a Scrum Master role or similar position
       - Basic understanding of Agile principles and Scrum framework
@@ -346,6 +350,7 @@ list:
       - Ability to support and guide the team in adhering to Scrum practices
   - title: Scrum Master
     track: Delivery track
+    position: Scrum Master
     category: Agile
     seniority: Middle
     experience:
@@ -383,9 +388,9 @@ list:
       - Capability to manage stakeholder expectations and maintain transparency
   - title: Junior Automating Quality Assurance Specialist
     track: QA track
+    position: Automating Quality Assurance Specialist
     category: Quality Assurance
     seniority: Junior
-    position: Automating Quality Assurance Specialist
     experience:
       - >-
         At least 1 year of experience in software quality assurance with a focus
@@ -417,9 +422,9 @@ list:
       - Intermediate English level
   - title: Middle Automating Quality Assurance Specialist
     track: QA track
+    position: Automating Quality Assurance Specialist
     category: Quality Assurance
     seniority: Middle
-    position: Automating Quality Assurance Specialist
     experience:
       - >-
         3+ years of experience in software quality assurance with a focus on
@@ -451,9 +456,9 @@ list:
       - Strong attention to detail and quality assurance best practices
   - title: Senior Automating Quality Assurance Specialist
     track: QA track
+    position: Automating Quality Assurance Specialist
     category: Quality Assurance
     seniority: Senior
-    position: Automating Quality Assurance Specialist
     experience:
       - >-
         5+ years of experience in software quality assurance with a focus on
@@ -491,9 +496,9 @@ list:
       - Ability to manage multiple projects and prioritize tasks
   - title: Junior Quality Assurance Specialist
     track: QA track
+    position: Quality Assurance Specialist
     category: Quality Assurance
     seniority: Junior
-    position: Quality Assurance Specialist
     experience:
       - >-
         At least 1 year of experience in software quality assurance or a related
@@ -519,9 +524,9 @@ list:
       - Intermediate English level
   - title: Middle Quality Assurance Specialist
     track: QA track
+    position: Quality Assurance Specialist
     category: Quality Assurance
     seniority: Middle
-    position: Quality Assurance Specialist
     experience:
       - 3+ years of experience in software quality assurance or a related field
       - Proficiency in QA methodologies and processes
@@ -547,9 +552,9 @@ list:
       - Strong attention to detail and quality assurance best practices
   - title: Senior Quality Assurance Specialist
     track: QA track
+    position: Quality Assurance Specialist
     category: Quality Assurance
     seniority: Senior
-    position: Quality Assurance Specialist
     experience:
       - 5+ years of experience in software quality assurance or a related field
       - Expertise in QA methodologies and processes
@@ -580,9 +585,9 @@ list:
       - Ability to manage multiple projects and prioritize tasks
   - title: Junior Quality Control Specialist
     track: QA track
+    position: Quality Control Specialist
     category: Quality Control
     seniority: Junior
-    position: Quality Control Specialist
     experience:
       - At least 1 year of experience in quality control or a related field
       - Basic understanding of quality control methodologies and processes
@@ -605,9 +610,9 @@ list:
       - Experience with product inspections and defect management
   - title: Middle Quality Control Specialist
     track: QA track
+    position: Quality Control Specialist
     category: Quality Control
     seniority: Middle
-    position: Quality Control Specialist
     experience:
       - 3+ years of experience in quality control or a related field
       - Proficiency in quality control methodologies and processes
@@ -632,6 +637,7 @@ list:
       - Strong attention to detail and quality control best practices
   - title: Solution Architect
     track: Tech track
+    position: Solution Architect
     category: Architecture
     seniority: Senior
     experience:
@@ -668,9 +674,9 @@ list:
       - Ability to manage multiple projects and prioritize tasks
   - title: Junior Software Developer
     track: Tech track
+    position: Software Developer
     category: Software Developer
     seniority: Junior
-    position: Software Developer
     experience:
       - >-
         At least half a year of web development experience with any
@@ -697,9 +703,9 @@ list:
       - Have an Intermediate English level
   - title: Middle Backend Developer
     track: Tech track
+    position: Backend Developer
     category: Backend Developer
     seniority: Middle
-    position: Backend Developer
     experience:
       - 3+ years of backend development experience
       - Experience with RESTful API design and implementation
@@ -727,9 +733,9 @@ list:
         company-level standards
   - title: Senior Backend Developer
     track: Tech track
+    position: Backend Developer
     category: Backend Developer
     seniority: Senior
-    position: Backend Developer
     experience:
       - 5+ years of backend development experience
       - Extensive experience with microservices architecture
@@ -755,9 +761,9 @@ list:
       - Feedback sharing and receiving on a proficient level
   - title: Junior DevOps
     track: Tech track
+    position: DevOps
     category: DevOps
     seniority: Junior
-    position: DevOps
     experience:
       - At least 1 year of experience in a DevOps or similar role
       - Basic knowledge of cloud platforms (e.g., AWS, Azure, GCP)
@@ -783,9 +789,9 @@ list:
       - Intermediate English level
   - title: Middle DevOps
     track: Tech track
+    position: DevOps
     category: DevOps
     seniority: Middle
-    position: DevOps
     experience:
       - 3+ years of experience in a DevOps role
       - Proficiency with cloud platforms (e.g., AWS, Azure, GCP)
@@ -817,9 +823,9 @@ list:
       - Ability to mentor junior team members
   - title: Senior DevOps
     track: Tech track
+    position: DevOps
     category: DevOps
     seniority: Senior
-    position: DevOps
     experience:
       - 5+ years of experience in a DevOps role
       - Expertise with cloud platforms (e.g., AWS, Azure, GCP)
@@ -855,9 +861,9 @@ list:
         trends
   - title: Junior Frontend Developer
     track: Tech track
+    position: Frontend Developer
     category: Frontend Developer
     seniority: Junior
-    position: Frontend Developer
     experience:
       - >-
         At least 1 year of frontend development experience with modern
@@ -882,9 +888,9 @@ list:
       - Intermediate English level
   - title: Middle Frontend Developer
     track: Tech track
+    position: Frontend Developer
     category: Frontend Developer
     seniority: Middle
-    position: Frontend Developer
     experience:
       - 3+ years of frontend development experience
       - >-
@@ -910,9 +916,9 @@ list:
       - Ability to mentor junior developers
   - title: Senior Frontend Developer
     track: Tech track
+    position: Frontend Developer
     category: Frontend Developer
     seniority: Senior
-    position: Frontend Developer
     experience:
       - 5+ years of frontend development experience
       - >-
@@ -952,9 +958,9 @@ list:
       - Feedback sharing and receiving on a proficient level
   - title: Middle Software Engineer
     track: Tech track
+    position: Software Engineer
     category: Software Engineer
     seniority: Middle
-    position: Software Engineer
     experience:
       - 3+ years of experience in software engineering
       - Proficiency in frontend, backend and databases
@@ -990,9 +996,9 @@ list:
       - Experience with CI/CD pipelines and DevOps practices
   - title: Senior Software Engineer
     track: Tech track
+    position: Software Engineer
     category: Software Engineer
     seniority: Senior
-    position: Software Engineer
     experience:
       - 5+ years of experience in software engineering
       - Expertise in frontend, backend, and databases
@@ -1035,6 +1041,7 @@ list:
       - Ability to design system architecture and ensure scalability
   - title: Tech Leader
     track: Tech track
+    position: Tech Leader
     category: Technology Leadership
     seniority: Senior
     experience:
