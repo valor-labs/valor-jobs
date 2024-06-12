@@ -1,23 +1,24 @@
-title: "Junior Software Developer"
-category: "Software Developer"
-seniority: "Junior"
-role:
-  experience:
-    - "At least half a year of web development experience with any framework/library for developing complex front-end: React, Vue, Backbone, Ember, Knockout, preferably — Angular"
-    - "Ability to work with version control systems like Git"
-    - "Understanding of Agile artifacts would be a plus"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 2
-    - name: "Frameworks"
-      count: 2
-      level: 2
-  criteria:
-    - "The will to self-develop and learn"
-    - "Energy, commitment, and persistence"
-    - "The ability to request and receive feedback and take it openly, to share constructive feedback"
-    - "Own the mistakes and problems"
-    - "Communicate openly, request for support when needed"
-    - "Escalates issues in a timely manner"
-    - "Ability to share and receive positive and constructive feedback"
-    - "Have an Intermediate English level"
+title: Junior Software Developer
+track: Tech track
+category: Software Developer
+seniority: Junior
+position: Software Developer
+experience:
+  - 'At least half a year of web development experience with any framework/library for developing complex front-end: React, Vue, Backbone, Ember, Knockout, preferably — Angular'
+  - Ability to work with version control systems like Git
+  - Understanding of Agile artifacts would be a plus
+qualifications_criteria:
+  - name: General Knowledge
+    level: 2
+  - name: Frameworks
+    count: 2
+    level: 2
+criteria:
+  - The will to self-develop and learn
+  - Energy, commitment, and persistence
+  - The ability to request and receive feedback and take it openly, to share constructive feedback
+  - Own the mistakes and problems
+  - Communicate openly, request for support when needed
+  - Escalates issues in a timely manner
+  - Ability to share and receive positive and constructive feedback
+  - Have an Intermediate English level

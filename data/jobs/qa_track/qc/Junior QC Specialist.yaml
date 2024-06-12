@@ -1,24 +1,25 @@
-title: "Junior Quality Control Specialist"
-category: "Quality Control"
-seniority: "Junior"
-role:
-  experience:
-    - "At least 1 year of experience in quality control or a related field"
-    - "Basic understanding of quality control methodologies and processes"
-    - "Familiarity with quality control tools and techniques"
-    - "Basic knowledge of statistical analysis"
-    - "Experience with version control systems like Git"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 2
-    - name: "Testing"
-      level: 2
-  criteria:
-    - "Strong desire to learn and grow in the field of quality control"
-    - "Attention to detail and strong analytical skills"
-    - "Ability to work collaboratively within a team"
-    - "Good problem-solving skills"
-    - "Ability to receive and implement feedback"
-    - "Good communication skills"
-    - "Intermediate English level"
-    - "Experience with product inspections and defect management"
+title: Junior Quality Control Specialist
+track: QA track
+category: Quality Control
+seniority: Junior
+position: Quality Control Specialist
+experience:
+  - At least 1 year of experience in quality control or a related field
+  - Basic understanding of quality control methodologies and processes
+  - Familiarity with quality control tools and techniques
+  - Basic knowledge of statistical analysis
+  - Experience with version control systems like Git
+qualifications_criteria:
+  - name: General Knowledge
+    level: 2
+  - name: Testing
+    level: 2
+criteria:
+  - Strong desire to learn and grow in the field of quality control
+  - Attention to detail and strong analytical skills
+  - Ability to work collaboratively within a team
+  - Good problem-solving skills
+  - Ability to receive and implement feedback
+  - Good communication skills
+  - Intermediate English level
+  - Experience with product inspections and defect management

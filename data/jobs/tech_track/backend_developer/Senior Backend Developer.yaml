@@ -1,25 +1,26 @@
-title: "Senior Backend Developer"
-category: "Backend Developer"
-seniority: "Senior"
-role:
-  experience:
-    - "5+ years of backend development experience"
-    - "Extensive experience with microservices architecture"
-    - "Proficiency in cloud platforms (e.g., AWS, Azure, GCP)"
-    - "Strong understanding of security best practices in backend development"
-    - "Experience with Docker and Kubernetes"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 4
-    - name: "Frameworks"
-      count: 3
-      level: 4
-  criteria:
-    - "Pragmatic in the execution"
-    - "The ability to make the right technological decisions in the project"
-    - "Ability to delegate and keep responsibility"
-    - "Solve problems even before they get the chance to appear"
-    - "Very good communication skills"
-    - "Mentor others and open to suggestions"
-    - "Take on large ill-defined problems, define them, break them up, and execute the pieces"
-    - "Feedback sharing and receiving on a proficient level"
+title: Senior Backend Developer
+track: Tech track
+category: Backend Developer
+seniority: Senior
+position: Backend Developer
+experience:
+  - 5+ years of backend development experience
+  - Extensive experience with microservices architecture
+  - Proficiency in cloud platforms (e.g., AWS, Azure, GCP)
+  - Strong understanding of security best practices in backend development
+  - Experience with Docker and Kubernetes
+qualifications_criteria:
+  - name: General Knowledge
+    level: 4
+  - name: Frameworks
+    count: 3
+    level: 4
+criteria:
+  - Pragmatic in the execution
+  - The ability to make the right technological decisions in the project
+  - Ability to delegate and keep responsibility
+  - Solve problems even before they get the chance to appear
+  - Very good communication skills
+  - Mentor others and open to suggestions
+  - Take on large ill-defined problems, define them, break them up, and execute the pieces
+  - Feedback sharing and receiving on a proficient level

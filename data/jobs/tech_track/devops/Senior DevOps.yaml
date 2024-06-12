@@ -1,27 +1,28 @@
-title: "Senior DevOps"
-category: "DevOps"
-seniority: "Senior"
-role:
-  experience:
-    - "5+ years of experience in a DevOps role"
-    - "Expertise with cloud platforms (e.g., AWS, Azure, GCP)"
-    - "Extensive experience with infrastructure as code tools (e.g., Terraform, CloudFormation)"
-    - "Strong understanding and implementation experience of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI)"
-    - "Proficiency with containerization and orchestration technologies (e.g., Docker, Kubernetes)"
-    - "Experience with version control systems like Git"
-    - "In-depth knowledge of monitoring and logging tools (e.g., Prometheus, ELK stack)"
-    - "Experience with security best practices in DevOps"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 4
-    - name: "DevOps"
-      level: 4
-  criteria:
-    - "Ability to lead and mentor a team of DevOps engineers"
-    - "Strong problem-solving and analytical skills"
-    - "Deep understanding of Agile methodologies"
-    - "Excellent communication and collaboration skills"
-    - "Ability to architect and design complex DevOps solutions"
-    - "Experience with code reviews and maintaining coding standards"
-    - "Advanced English level"
-    - "Ability to drive innovation and stay updated with the latest industry trends"
+title: Senior DevOps
+track: Tech track
+category: DevOps
+seniority: Senior
+position: DevOps
+experience:
+  - 5+ years of experience in a DevOps role
+  - Expertise with cloud platforms (e.g., AWS, Azure, GCP)
+  - Extensive experience with infrastructure as code tools (e.g., Terraform, CloudFormation)
+  - Strong understanding and implementation experience of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI)
+  - Proficiency with containerization and orchestration technologies (e.g., Docker, Kubernetes)
+  - Experience with version control systems like Git
+  - In-depth knowledge of monitoring and logging tools (e.g., Prometheus, ELK stack)
+  - Experience with security best practices in DevOps
+qualifications_criteria:
+  - name: General Knowledge
+    level: 4
+  - name: DevOps
+    level: 4
+criteria:
+  - Ability to lead and mentor a team of DevOps engineers
+  - Strong problem-solving and analytical skills
+  - Deep understanding of Agile methodologies
+  - Excellent communication and collaboration skills
+  - Ability to architect and design complex DevOps solutions
+  - Experience with code reviews and maintaining coding standards
+  - Advanced English level
+  - Ability to drive innovation and stay updated with the latest industry trends

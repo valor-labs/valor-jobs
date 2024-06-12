@@ -1,28 +1,29 @@
-title: "Senior Project Manager"
-category: "Project Management"
-seniority: "Senior"
-role:
-  experience:
-    - "5+ years of project management experience in a software development environment"
-    - "Extensive experience in managing large-scale projects and programs"
-    - "Expertise in project management methodologies such as Agile, Scrum, Kanban, and Waterfall"
-    - "Advanced proficiency with project management tools like Jira, Trello, Asana, or MS Project"
-    - "Experience in leading cross-functional and distributed teams"
-    - "In-depth knowledge of software development lifecycle and best practices"
-    - "Experience with stakeholder management and executive reporting"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 4
-    - name: "Project Management"
-      level: 3
-  criteria:
-    - "Exceptional organizational and time management skills"
-    - "Strong leadership and people management capabilities"
-    - "Outstanding communication, negotiation, and interpersonal skills"
-    - "High attention to detail and problem-solving abilities"
-    - "Ability to work under pressure and handle complex projects with tight deadlines"
-    - "Proven track record in risk management and issue resolution"
-    - "Advanced English level"
-    - "Ability to mentor and guide junior project managers"
-    - "Strategic thinking and ability to align projects with business goals"
-    - "Proficiency in adapting to changing project requirements and dynamic environments"
+title: Senior Project Manager
+track: Delivery track
+category: Project Management
+seniority: Senior
+position: Project Manager
+experience:
+  - 5+ years of project management experience in a software development environment
+  - Extensive experience in managing large-scale projects and programs
+  - Expertise in project management methodologies such as Agile, Scrum, Kanban, and Waterfall
+  - Advanced proficiency with project management tools like Jira, Trello, Asana, or MS Project
+  - Experience in leading cross-functional and distributed teams
+  - In-depth knowledge of software development lifecycle and best practices
+  - Experience with stakeholder management and executive reporting
+qualifications_criteria:
+  - name: General Knowledge
+    level: 4
+  - name: Project Management
+    level: 3
+criteria:
+  - Exceptional organizational and time management skills
+  - Strong leadership and people management capabilities
+  - Outstanding communication, negotiation, and interpersonal skills
+  - High attention to detail and problem-solving abilities
+  - Ability to work under pressure and handle complex projects with tight deadlines
+  - Proven track record in risk management and issue resolution
+  - Advanced English level
+  - Ability to mentor and guide junior project managers
+  - Strategic thinking and ability to align projects with business goals
+  - Proficiency in adapting to changing project requirements and dynamic environments

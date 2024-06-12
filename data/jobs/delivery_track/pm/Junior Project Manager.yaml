@@ -1,23 +1,24 @@
-title: "Junior Project Manager"
-category: "Project Management"
-seniority: "Junior"
-role:
-  experience:
-    - "1+ years of project management experience in a software development environment"
-    - "Understanding of project management methodologies such as Agile, Scrum, or Kanban"
-    - "Experience with project management tools like Jira, Trello, or Asana"
-    - "Ability to manage multiple tasks and projects simultaneously"
-    - "Basic knowledge of software development lifecycle"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 2
-    - name: "Project Management"
-      level: 1
-  criteria:
-    - "Strong organizational and multitasking skills"
-    - "Excellent communication and interpersonal skills"
-    - "Attention to detail and problem-solving skills"
-    - "Ability to work under pressure and meet deadlines"
-    - "Eagerness to learn and adapt to new technologies and methodologies"
-    - "Basic understanding of risk management and mitigation"
-    - "Intermediate English level"
+title: Junior Project Manager
+track: Delivery track
+category: Project Management
+seniority: Junior
+position: Project Manager
+experience:
+  - 1+ years of project management experience in a software development environment
+  - Understanding of project management methodologies such as Agile, Scrum, or Kanban
+  - Experience with project management tools like Jira, Trello, or Asana
+  - Ability to manage multiple tasks and projects simultaneously
+  - Basic knowledge of software development lifecycle
+qualifications_criteria:
+  - name: General Knowledge
+    level: 2
+  - name: Project Management
+    level: 1
+criteria:
+  - Strong organizational and multitasking skills
+  - Excellent communication and interpersonal skills
+  - Attention to detail and problem-solving skills
+  - Ability to work under pressure and meet deadlines
+  - Eagerness to learn and adapt to new technologies and methodologies
+  - Basic understanding of risk management and mitigation
+  - Intermediate English level

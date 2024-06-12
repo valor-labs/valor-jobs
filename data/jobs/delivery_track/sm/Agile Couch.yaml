@@ -1,31 +1,31 @@
-title: "Agile Coach"
-category: "Agile"
-seniority: "Senior"
-role:
-  experience:
-    - "5+ years of experience in an Agile Coach role or similar position"
-    - "Extensive understanding of Agile principles, Scrum, Kanban, and other Agile frameworks"
-    - "Proven experience with Agile transformation initiatives in large organizations"
-    - "Experience in coaching and mentoring teams and individuals on Agile practices"
-    - "Strong knowledge of Agile project management tools like Jira, Trello, or similar"
-    - "Ability to develop and deliver Agile training and workshops"
-    - "Experience in facilitating large group sessions and discussions"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 4
-    - name: "General Management"
-      level: 4
-    - name: "Project Management"
-      level: 3
-  criteria:
-    - "Excellent communication and interpersonal skills"
-    - "Strong leadership and change management abilities"
-    - "High proficiency in conflict resolution and problem-solving"
-    - "Strong organizational and time management skills"
-    - "Commitment to continuous improvement and fostering a learning culture"
-    - "Ability to provide and receive constructive feedback"
-    - "Advanced English level"
-    - "Ability to drive Agile adoption and maturity across the organization"
-    - "Strong stakeholder management skills"
-    - "Ability to create a collaborative and high-performance team environment"
-    - "Experience in developing and implementing Agile metrics and KPIs"
+title: Agile Coach
+track: Delivery track
+category: Agile
+seniority: Senior
+experience:
+  - 5+ years of experience in an Agile Coach role or similar position
+  - Extensive understanding of Agile principles, Scrum, Kanban, and other Agile frameworks
+  - Proven experience with Agile transformation initiatives in large organizations
+  - Experience in coaching and mentoring teams and individuals on Agile practices
+  - Strong knowledge of Agile project management tools like Jira, Trello, or similar
+  - Ability to develop and deliver Agile training and workshops
+  - Experience in facilitating large group sessions and discussions
+qualifications_criteria:
+  - name: General Knowledge
+    level: 4
+  - name: General Management
+    level: 4
+  - name: Project Management
+    level: 3
+criteria:
+  - Excellent communication and interpersonal skills
+  - Strong leadership and change management abilities
+  - High proficiency in conflict resolution and problem-solving
+  - Strong organizational and time management skills
+  - Commitment to continuous improvement and fostering a learning culture
+  - Ability to provide and receive constructive feedback
+  - Advanced English level
+  - Ability to drive Agile adoption and maturity across the organization
+  - Strong stakeholder management skills
+  - Ability to create a collaborative and high-performance team environment
+  - Experience in developing and implementing Agile metrics and KPIs

@@ -1,33 +1,34 @@
-title: "Middle Software Engineer"
-category: "Software Engineer"
-seniority: "Middle"
-role:
-  experience:
-    - "3+ years of experience in software engineering"
-    - "Proficiency in frontend, backend and databases"
-    - "Experience with modern JavaScript frameworks/libraries (e.g., React, Angular, Vue.js)"
-    - "Proficiency in backend programming languages (e.g., Java, Python, Node.js, Ruby)"
-    - "Experience with SQL and NoSQL databases"
-    - "Quality Assurance practices and AQA practices"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 3
-    - name: "Architecture"
-      level: 1
-    - name: "Frontend Frameworks"
-      level: 2
-      count: 2
-    - name: "Backend Frameworks"
-      level: 2
-      count: 2
-    - name: "Databases"
-      level: 2
-      count: 2
-  criteria:
-    - "Ability to work independently and as part of a team"
-    - "Strong problem-solving and analytical skills"
-    - "Ability to give and receive constructive feedback"
-    - "Good communication skills"
-    - "Ability to mentor junior developers"
-    - "Willingness to learn and adapt to new technologies"
-    - "Experience with CI/CD pipelines and DevOps practices"
+title: Middle Software Engineer
+track: Tech track
+category: Software Engineer
+seniority: Middle
+position: Software Engineer
+experience:
+  - 3+ years of experience in software engineering
+  - Proficiency in frontend, backend and databases
+  - Experience with modern JavaScript frameworks/libraries (e.g., React, Angular, Vue.js)
+  - Proficiency in backend programming languages (e.g., Java, Python, Node.js, Ruby)
+  - Experience with SQL and NoSQL databases
+  - Quality Assurance practices and AQA practices
+qualifications_criteria:
+  - name: General Knowledge
+    level: 3
+  - name: Architecture
+    level: 1
+  - name: Frontend Frameworks
+    level: 2
+    count: 2
+  - name: Backend Frameworks
+    level: 2
+    count: 2
+  - name: Databases
+    level: 2
+    count: 2
+criteria:
+  - Ability to work independently and as part of a team
+  - Strong problem-solving and analytical skills
+  - Ability to give and receive constructive feedback
+  - Good communication skills
+  - Ability to mentor junior developers
+  - Willingness to learn and adapt to new technologies
+  - Experience with CI/CD pipelines and DevOps practices

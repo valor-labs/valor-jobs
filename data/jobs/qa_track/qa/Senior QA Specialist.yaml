@@ -1,30 +1,31 @@
-title: "Senior Quality Assurance Specialist"
-category: "Quality Assurance"
-seniority: "Senior"
-role:
-  experience:
-    - "5+ years of experience in software quality assurance or a related field"
-    - "Expertise in QA methodologies and processes"
-    - "Extensive experience with both manual and automated testing tools"
-    - "Strong knowledge of SQL and ability to write complex queries"
-    - "Experience with version control systems like Git"
-    - "Deep understanding of Agile methodologies"
-    - "Experience with performance, security, and regression testing"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 4
-    - name: "Testing"
-      level: 4
-  criteria:
-    - "Ability to lead and mentor a team of QA specialists"
-    - "Strong analytical and problem-solving skills"
-    - "Deep understanding of Agile methodologies"
-    - "Excellent communication and collaboration skills"
-    - "Experience with code reviews and maintaining testing standards"
-    - "Advanced English level"
-    - "Ability to drive innovation and stay updated with the latest industry trends"
-    - "Experience with CI/CD pipelines and integration testing"
-    - "Strong attention to detail and quality assurance best practices"
-    - "Ability to design and implement comprehensive test plans and strategies"
-    - "Strong decision-making skills and ability to delegate tasks effectively"
-    - "Ability to manage multiple projects and prioritize tasks"
+title: Senior Quality Assurance Specialist
+track: QA track
+category: Quality Assurance
+seniority: Senior
+position: Quality Assurance Specialist
+experience:
+  - 5+ years of experience in software quality assurance or a related field
+  - Expertise in QA methodologies and processes
+  - Extensive experience with both manual and automated testing tools
+  - Strong knowledge of SQL and ability to write complex queries
+  - Experience with version control systems like Git
+  - Deep understanding of Agile methodologies
+  - Experience with performance, security, and regression testing
+qualifications_criteria:
+  - name: General Knowledge
+    level: 4
+  - name: Testing
+    level: 4
+criteria:
+  - Ability to lead and mentor a team of QA specialists
+  - Strong analytical and problem-solving skills
+  - Deep understanding of Agile methodologies
+  - Excellent communication and collaboration skills
+  - Experience with code reviews and maintaining testing standards
+  - Advanced English level
+  - Ability to drive innovation and stay updated with the latest industry trends
+  - Experience with CI/CD pipelines and integration testing
+  - Strong attention to detail and quality assurance best practices
+  - Ability to design and implement comprehensive test plans and strategies
+  - Strong decision-making skills and ability to delegate tasks effectively
+  - Ability to manage multiple projects and prioritize tasks

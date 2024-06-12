@@ -1,31 +1,32 @@
-title: "Senior Automating Quality Assurance Specialist"
-category: "Quality Assurance"
-seniority: "Senior"
-role:
-  experience:
-    - "5+ years of experience in software quality assurance with a focus on automation"
-    - "Expertise in QA methodologies and automation processes"
-    - "Extensive experience with automation testing tools (e.g., Selenium, Cypress, JUnit)"
-    - "Strong knowledge of programming/scripting languages (e.g., Python, JavaScript, Java)"
-    - "Experience with version control systems like Git"
-    - "Deep understanding of Agile methodologies"
-    - "Experience with performance, security, and regression testing"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 4
-    - name: "Automation Testing"
-      level: 4
-      count: 3
-  criteria:
-    - "Ability to lead and mentor a team of QA specialists"
-    - "Strong analytical and problem-solving skills"
-    - "Deep understanding of Agile methodologies"
-    - "Excellent communication and collaboration skills"
-    - "Experience with code reviews and maintaining testing standards"
-    - "Advanced English level"
-    - "Ability to drive innovation and stay updated with the latest industry trends"
-    - "Experience with CI/CD pipelines and integration testing"
-    - "Strong attention to detail and quality assurance best practices"
-    - "Ability to design and implement comprehensive test automation frameworks"
-    - "Strong decision-making skills and ability to delegate tasks effectively"
-    - "Ability to manage multiple projects and prioritize tasks"
+title: Senior Automating Quality Assurance Specialist
+track: QA track
+category: Quality Assurance
+seniority: Senior
+position: Automating Quality Assurance Specialist
+experience:
+  - 5+ years of experience in software quality assurance with a focus on automation
+  - Expertise in QA methodologies and automation processes
+  - Extensive experience with automation testing tools (e.g., Selenium, Cypress, JUnit)
+  - Strong knowledge of programming/scripting languages (e.g., Python, JavaScript, Java)
+  - Experience with version control systems like Git
+  - Deep understanding of Agile methodologies
+  - Experience with performance, security, and regression testing
+qualifications_criteria:
+  - name: General Knowledge
+    level: 4
+  - name: Automation Testing
+    level: 4
+    count: 3
+criteria:
+  - Ability to lead and mentor a team of QA specialists
+  - Strong analytical and problem-solving skills
+  - Deep understanding of Agile methodologies
+  - Excellent communication and collaboration skills
+  - Experience with code reviews and maintaining testing standards
+  - Advanced English level
+  - Ability to drive innovation and stay updated with the latest industry trends
+  - Experience with CI/CD pipelines and integration testing
+  - Strong attention to detail and quality assurance best practices
+  - Ability to design and implement comprehensive test automation frameworks
+  - Strong decision-making skills and ability to delegate tasks effectively
+  - Ability to manage multiple projects and prioritize tasks

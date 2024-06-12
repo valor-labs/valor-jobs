@@ -1,32 +1,32 @@
-title: "Tech Leader"
-category: "Technology Leadership"
-seniority: "Senior"
-role:
-  experience:
-    - "7+ years of experience in software engineering or a related field"
-    - "Proven experience in leading technical teams and projects"
-    - "Expertise in frontend, backend, and database technologies"
-    - "Strong proficiency in modern JavaScript frameworks/libraries (e.g., React, Angular, Vue.js)"
-    - "Proficiency in backend programming languages (e.g., Java, Python, Node.js, Ruby)"
-    - "Extensive experience with SQL and NoSQL databases"
-    - "Experience with designing and implementing complex, large-scale systems"
-    - "Strong understanding of software development lifecycle and Agile methodologies"
-    - "Experience with version control systems like Git"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 5
-    - name: "General Management"
-      level: 4
-  criteria:
-    - "Ability to lead and mentor a team of software engineers"
-    - "Strong problem-solving and analytical skills"
-    - "Deep understanding of Agile methodologies"
-    - "Excellent communication and collaboration skills"
-    - "Ability to architect and design complex software solutions"
-    - "Experience with code reviews and maintaining coding standards"
-    - "Advanced English level"
-    - "Ability to drive innovation and stay updated with the latest industry trends"
-    - "Experience with CI/CD pipelines and DevOps practices"
-    - "Ability to design system architecture and ensure scalability"
-    - "Strong decision-making skills and ability to delegate tasks effectively"
-    - "Ability to manage multiple projects and prioritize tasks"
+title: Tech Leader
+track: Tech track
+category: Technology Leadership
+seniority: Senior
+experience:
+  - 7+ years of experience in software engineering or a related field
+  - Proven experience in leading technical teams and projects
+  - Expertise in frontend, backend, and database technologies
+  - Strong proficiency in modern JavaScript frameworks/libraries (e.g., React, Angular, Vue.js)
+  - Proficiency in backend programming languages (e.g., Java, Python, Node.js, Ruby)
+  - Extensive experience with SQL and NoSQL databases
+  - Experience with designing and implementing complex, large-scale systems
+  - Strong understanding of software development lifecycle and Agile methodologies
+  - Experience with version control systems like Git
+qualifications_criteria:
+  - name: General Knowledge
+    level: 5
+  - name: General Management
+    level: 4
+criteria:
+  - Ability to lead and mentor a team of software engineers
+  - Strong problem-solving and analytical skills
+  - Deep understanding of Agile methodologies
+  - Excellent communication and collaboration skills
+  - Ability to architect and design complex software solutions
+  - Experience with code reviews and maintaining coding standards
+  - Advanced English level
+  - Ability to drive innovation and stay updated with the latest industry trends
+  - Experience with CI/CD pipelines and DevOps practices
+  - Ability to design system architecture and ensure scalability
+  - Strong decision-making skills and ability to delegate tasks effectively
+  - Ability to manage multiple projects and prioritize tasks

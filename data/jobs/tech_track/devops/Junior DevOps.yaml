@@ -1,25 +1,26 @@
-title: "Junior DevOps"
-category: "DevOps"
-seniority: "Junior"
-role:
-  experience:
-    - "At least 1 year of experience in a DevOps or similar role"
-    - "Basic knowledge of cloud platforms (e.g., AWS, Azure, GCP)"
-    - "Familiarity with infrastructure as code tools (e.g., Terraform, CloudFormation)"
-    - "Understanding of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI)"
-    - "Basic knowledge of containerization technologies (e.g., Docker)"
-    - "Experience with version control systems like Git"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 2
-    - name: "DevOps Practices"
-      level: 2
-      count: 1
-  criteria:
-    - "Strong desire to learn and grow in the DevOps field"
-    - "Ability to work collaboratively within a team"
-    - "Good problem-solving skills"
-    - "Basic understanding of Agile methodologies"
-    - "Ability to receive and implement feedback"
-    - "Good communication skills"
-    - "Intermediate English level"
+title: Junior DevOps
+track: Tech track
+category: DevOps
+seniority: Junior
+position: DevOps
+experience:
+  - At least 1 year of experience in a DevOps or similar role
+  - Basic knowledge of cloud platforms (e.g., AWS, Azure, GCP)
+  - Familiarity with infrastructure as code tools (e.g., Terraform, CloudFormation)
+  - Understanding of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI)
+  - Basic knowledge of containerization technologies (e.g., Docker)
+  - Experience with version control systems like Git
+qualifications_criteria:
+  - name: General Knowledge
+    level: 2
+  - name: DevOps Practices
+    level: 2
+    count: 1
+criteria:
+  - Strong desire to learn and grow in the DevOps field
+  - Ability to work collaboratively within a team
+  - Good problem-solving skills
+  - Basic understanding of Agile methodologies
+  - Ability to receive and implement feedback
+  - Good communication skills
+  - Intermediate English level

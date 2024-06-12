@@ -1,25 +1,26 @@
-title: "Middle Project Manager"
-category: "Project Management"
-seniority: "Middle"
-role:
-  experience:
-    - "3+ years of project management experience in a software development environment"
-    - "Proven experience in managing multiple projects simultaneously"
-    - "Strong understanding of project management methodologies such as Agile, Scrum, and Kanban"
-    - "Proficiency with project management tools like Jira, Trello, or Asana"
-    - "Experience in managing cross-functional teams"
-    - "Knowledge of software development lifecycle and best practices"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 3
-    - name: "Project Management"
-      level: 2
-  criteria:
-    - "Excellent organizational and time management skills"
-    - "Strong leadership and team management abilities"
-    - "Effective communication and interpersonal skills"
-    - "Problem-solving mindset with attention to detail"
-    - "Ability to work under pressure and meet tight deadlines"
-    - "Proactive approach to risk management and issue resolution"
-    - "Intermediate to advanced English level"
-    - "Capability to adapt to changing project requirements and environments"
+title: Middle Project Manager
+track: Delivery track
+category: Project Management
+seniority: Middle
+position: Project Manager
+experience:
+  - 3+ years of project management experience in a software development environment
+  - Proven experience in managing multiple projects simultaneously
+  - Strong understanding of project management methodologies such as Agile, Scrum, and Kanban
+  - Proficiency with project management tools like Jira, Trello, or Asana
+  - Experience in managing cross-functional teams
+  - Knowledge of software development lifecycle and best practices
+qualifications_criteria:
+  - name: General Knowledge
+    level: 3
+  - name: Project Management
+    level: 2
+criteria:
+  - Excellent organizational and time management skills
+  - Strong leadership and team management abilities
+  - Effective communication and interpersonal skills
+  - Problem-solving mindset with attention to detail
+  - Ability to work under pressure and meet tight deadlines
+  - Proactive approach to risk management and issue resolution
+  - Intermediate to advanced English level
+  - Capability to adapt to changing project requirements and environments

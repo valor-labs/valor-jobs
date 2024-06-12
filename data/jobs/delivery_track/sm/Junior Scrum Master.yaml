@@ -1,27 +1,28 @@
-title: "Junior Scrum Master"
-category: "Agile"
-seniority: "Junior"
-role:
-  experience:
-    - "1+ years of experience in a Scrum Master role or similar position"
-    - "Basic understanding of Agile principles and Scrum framework"
-    - "Experience with Agile project management tools like Jira, Trello, or similar"
-    - "Ability to facilitate Scrum ceremonies (e.g., Daily Standups, Sprint Planning, Retrospectives)"
-    - "Basic knowledge of software development processes"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 2
-    - name: "General Management"
-      level: 1
-    - name: "Project Management"
-      level: 1
-  criteria:
-    - "Strong communication and interpersonal skills"
-    - "Ability to work well with cross-functional teams"
-    - "Basic facilitation and conflict resolution skills"
-    - "Attention to detail and strong organizational skills"
-    - "Eagerness to learn and grow in the Scrum Master role"
-    - "Ability to provide and receive constructive feedback"
-    - "Intermediate English level"
-    - "Understanding of the importance of continuous improvement"
-    - "Ability to support and guide the team in adhering to Scrum practices"
+title: Junior Scrum Master
+track: Delivery track
+category: Agile
+seniority: Junior
+position: Scrum Master
+experience:
+  - 1+ years of experience in a Scrum Master role or similar position
+  - Basic understanding of Agile principles and Scrum framework
+  - Experience with Agile project management tools like Jira, Trello, or similar
+  - Ability to facilitate Scrum ceremonies (e.g., Daily Standups, Sprint Planning, Retrospectives)
+  - Basic knowledge of software development processes
+qualifications_criteria:
+  - name: General Knowledge
+    level: 2
+  - name: General Management
+    level: 1
+  - name: Project Management
+    level: 1
+criteria:
+  - Strong communication and interpersonal skills
+  - Ability to work well with cross-functional teams
+  - Basic facilitation and conflict resolution skills
+  - Attention to detail and strong organizational skills
+  - Eagerness to learn and grow in the Scrum Master role
+  - Ability to provide and receive constructive feedback
+  - Intermediate English level
+  - Understanding of the importance of continuous improvement
+  - Ability to support and guide the team in adhering to Scrum practices

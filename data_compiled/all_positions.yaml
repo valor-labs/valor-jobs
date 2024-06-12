@@ -1,1087 +1,1075 @@
 list:
-  - title: Middle Account Manager
+  - title: Account Manager
+    track: Delivery track
+    position: Account Manager
     category: Account Management
     seniority: Middle
-    role:
-      experience:
-        - >-
-          3+ years of experience in account management or client relationship
-          management in an outsourcing environment
-        - >-
-          Proven track record of managing client relationships and handling
-          escalations
-        - Basic understanding of project management principles
-        - >-
-          Experience with managing a portfolio of projects and services for
-          multiple clients
-        - Familiarity with outsourcing and offshoring models
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Business Analysis
-          level: 2
-      criteria:
-        - Excellent communication and interpersonal skills
-        - Strong client-facing and negotiation skills
-        - Ability to manage multiple client accounts simultaneously
-        - Strong organizational and multitasking abilities
-        - Attention to detail and proactive problem-solving skills
-        - Ability to work under pressure and meet deadlines
-        - Intermediate to advanced English level
-        - Ability to understand client needs and provide appropriate solutions
-        - >-
-          Capability to escalate and resolve issues at the account level
-          effectively
-        - >-
-          Basic knowledge of technical concepts to liaise between clients and
-          project teams
-  - title: Senior Account Manager
+    experience:
+      - >-
+        3+ years of experience in account management or client relationship
+        management in an outsourcing environment
+      - >-
+        Proven track record of managing client relationships and handling
+        escalations
+      - Basic understanding of project management principles
+      - >-
+        Experience with managing a portfolio of projects and services for
+        multiple clients
+      - Familiarity with outsourcing and offshoring models
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Business Analysis
+        level: 2
+    criteria:
+      - Excellent communication and interpersonal skills
+      - Strong client-facing and negotiation skills
+      - Ability to manage multiple client accounts simultaneously
+      - Strong organizational and multitasking abilities
+      - Attention to detail and proactive problem-solving skills
+      - Ability to work under pressure and meet deadlines
+      - Intermediate to advanced English level
+      - Ability to understand client needs and provide appropriate solutions
+      - >-
+        Capability to escalate and resolve issues at the account level
+        effectively
+      - >-
+        Basic knowledge of technical concepts to liaise between clients and
+        project teams
+  - title: Account Manager
+    track: Delivery track
     category: Account Management
     seniority: Senior
-    role:
-      experience:
-        - >-
-          5+ years of experience in account management or client relationship
-          management in an outsourcing environment
-        - >-
-          Extensive track record of managing client relationships and handling
-          high-level escalations
-        - Good understanding of project management principles
-        - >-
-          Experience with overseeing a large portfolio of projects and services
-          for multiple high-value clients
-        - In-depth familiarity with outsourcing and offshoring models
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: Business Analysis
-          level: 3
-      criteria:
-        - Exceptional communication and interpersonal skills
-        - Strong client-facing and negotiation skills at the executive level
-        - Ability to manage and prioritize multiple client accounts effectively
-        - Strong organizational and strategic planning abilities
-        - Attention to detail and proactive problem-solving skills
-        - Ability to work under pressure and meet tight deadlines
-        - Advanced English level
-        - >-
-          Ability to deeply understand client needs and align services to meet
-          business objectives
-        - >-
-          Capability to effectively escalate and resolve issues at the account
-          level
-        - >-
-          Solid knowledge of technical concepts to liaise between clients and
-          project teams
-        - Experience in mentoring and guiding junior account managers
+    experience:
+      - >-
+        5+ years of experience in account management or client relationship
+        management in an outsourcing environment
+      - >-
+        Extensive track record of managing client relationships and handling
+        high-level escalations
+      - Good understanding of project management principles
+      - >-
+        Experience with overseeing a large portfolio of projects and services
+        for multiple high-value clients
+      - In-depth familiarity with outsourcing and offshoring models
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: Business Analysis
+        level: 3
+    criteria:
+      - Exceptional communication and interpersonal skills
+      - Strong client-facing and negotiation skills at the executive level
+      - Ability to manage and prioritize multiple client accounts effectively
+      - Strong organizational and strategic planning abilities
+      - Attention to detail and proactive problem-solving skills
+      - Ability to work under pressure and meet tight deadlines
+      - Advanced English level
+      - >-
+        Ability to deeply understand client needs and align services to meet
+        business objectives
+      - >-
+        Capability to effectively escalate and resolve issues at the account
+        level
+      - >-
+        Solid knowledge of technical concepts to liaise between clients and
+        project teams
+      - Experience in mentoring and guiding junior account managers
   - title: Delivery Director
+    track: Delivery track
     category: Project Management
     seniority: Director
-    role:
-      experience:
-        - >-
-          10+ years of experience in delivery management or similar senior roles
-          in an IT environment
-        - >-
-          Extensive track record of successfully overseeing and delivering
-          multiple large-scale projects
-        - >-
-          Deep understanding of project management methodologies such as Agile,
-          Scrum, Kanban, and Waterfall
-        - >-
-          Proven experience with project management tools like Jira, Trello, or
-          MS Project
-        - >-
-          Experience in managing large cross-functional and geographically
-          distributed teams
-        - >-
-          In-depth knowledge of software development lifecycle and industry best
-          practices
-        - >-
-          Strong experience with stakeholder management, executive reporting,
-          and client relationship management
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: General Management
-          level: 5
-        - name: Project Management
-          level: 4
-      criteria:
-        - Exceptional organizational and strategic planning skills
-        - Strong leadership and executive management capabilities
-        - >-
-          Outstanding communication, negotiation, and interpersonal skills at
-          the executive level
-        - High attention to detail and advanced problem-solving abilities
-        - Ability to manage high-pressure situations and make critical decisions
-        - Proven expertise in risk management and issue resolution
-        - Advanced English level
-        - >-
-          Ability to mentor and guide senior project managers and delivery
-          managers
-        - >-
-          Strategic vision and ability to align project deliveries with overall
-          business goals
-        - >-
-          Proficiency in adapting to dynamic business environments and changing
-          project requirements
-        - >-
-          Experience in developing and implementing delivery metrics, KPIs, and
-          continuous improvement initiatives
+    experience:
+      - >-
+        10+ years of experience in delivery management or similar senior roles
+        in an IT environment
+      - >-
+        Extensive track record of successfully overseeing and delivering
+        multiple large-scale projects
+      - >-
+        Deep understanding of project management methodologies such as Agile,
+        Scrum, Kanban, and Waterfall
+      - >-
+        Proven experience with project management tools like Jira, Trello, or MS
+        Project
+      - >-
+        Experience in managing large cross-functional and geographically
+        distributed teams
+      - >-
+        In-depth knowledge of software development lifecycle and industry best
+        practices
+      - >-
+        Strong experience with stakeholder management, executive reporting, and
+        client relationship management
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: General Management
+        level: 5
+      - name: Project Management
+        level: 4
+    criteria:
+      - Exceptional organizational and strategic planning skills
+      - Strong leadership and executive management capabilities
+      - >-
+        Outstanding communication, negotiation, and interpersonal skills at the
+        executive level
+      - High attention to detail and advanced problem-solving abilities
+      - Ability to manage high-pressure situations and make critical decisions
+      - Proven expertise in risk management and issue resolution
+      - Advanced English level
+      - >-
+        Ability to mentor and guide senior project managers and delivery
+        managers
+      - >-
+        Strategic vision and ability to align project deliveries with overall
+        business goals
+      - >-
+        Proficiency in adapting to dynamic business environments and changing
+        project requirements
+      - >-
+        Experience in developing and implementing delivery metrics, KPIs, and
+        continuous improvement initiatives
   - title: Delivery Manager
+    track: Delivery track
     category: Project Management
     seniority: Senior
-    role:
-      experience:
-        - >-
-          5+ years of experience in delivery management or similar roles in an
-          IT environment
-        - Proven experience managing large portfolio
-        - >-
-          Proven track record of successfully delivering multiple projects
-          simultaneously
-        - >-
-          Strong understanding of project management methodologies such as
-          Agile, Scrum, and Kanban
-        - >-
-          Experience with project management tools like Jira, Trello, or MS
-          Project
-        - >-
-          Extensive experience in managing cross-functional and distributed
-          teams
-        - >-
-          In-depth knowledge of software development lifecycle and best
-          practices
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: General Management
-          level: 4
-        - name: Project Management
-          level: 3
-      criteria:
-        - Exceptional organizational and time management skills
-        - Strong leadership and people management capabilities
-        - Outstanding communication, negotiation, and interpersonal skills
-        - High attention to detail and problem-solving abilities
-        - >-
-          Ability to work under pressure and handle complex projects with tight
-          deadlines
-        - Proven track record in risk management and issue resolution
-        - Advanced English level
-        - Ability to mentor and guide junior project managers
-        - >-
-          Strategic thinking and ability to align project deliveries with
-          business goals
-        - >-
-          Proficiency in adapting to changing project requirements and dynamic
-          environments
-        - Experience in developing and implementing delivery metrics and KPIs
-        - Proven experience in managing large portfolio
+    experience:
+      - >-
+        5+ years of experience in delivery management or similar roles in an IT
+        environment
+      - Proven experience managing large portfolio
+      - >-
+        Proven track record of successfully delivering multiple projects
+        simultaneously
+      - >-
+        Strong understanding of project management methodologies such as Agile,
+        Scrum, and Kanban
+      - >-
+        Experience with project management tools like Jira, Trello, or MS
+        Project
+      - Extensive experience in managing cross-functional and distributed teams
+      - In-depth knowledge of software development lifecycle and best practices
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: General Management
+        level: 4
+      - name: Project Management
+        level: 3
+    criteria:
+      - Exceptional organizational and time management skills
+      - Strong leadership and people management capabilities
+      - Outstanding communication, negotiation, and interpersonal skills
+      - High attention to detail and problem-solving abilities
+      - >-
+        Ability to work under pressure and handle complex projects with tight
+        deadlines
+      - Proven track record in risk management and issue resolution
+      - Advanced English level
+      - Ability to mentor and guide junior project managers
+      - >-
+        Strategic thinking and ability to align project deliveries with business
+        goals
+      - >-
+        Proficiency in adapting to changing project requirements and dynamic
+        environments
+      - Experience in developing and implementing delivery metrics and KPIs
+      - Proven experience in managing large portfolio
   - title: Junior Project Manager
+    track: Delivery track
     category: Project Management
     seniority: Junior
-    role:
-      experience:
-        - >-
-          1+ years of project management experience in a software development
-          environment
-        - >-
-          Understanding of project management methodologies such as Agile,
-          Scrum, or Kanban
-        - Experience with project management tools like Jira, Trello, or Asana
-        - Ability to manage multiple tasks and projects simultaneously
-        - Basic knowledge of software development lifecycle
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: Project Management
-          level: 1
-      criteria:
-        - Strong organizational and multitasking skills
-        - Excellent communication and interpersonal skills
-        - Attention to detail and problem-solving skills
-        - Ability to work under pressure and meet deadlines
-        - Eagerness to learn and adapt to new technologies and methodologies
-        - Basic understanding of risk management and mitigation
-        - Intermediate English level
+    position: Project Manager
+    experience:
+      - >-
+        1+ years of project management experience in a software development
+        environment
+      - >-
+        Understanding of project management methodologies such as Agile, Scrum,
+        or Kanban
+      - Experience with project management tools like Jira, Trello, or Asana
+      - Ability to manage multiple tasks and projects simultaneously
+      - Basic knowledge of software development lifecycle
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: Project Management
+        level: 1
+    criteria:
+      - Strong organizational and multitasking skills
+      - Excellent communication and interpersonal skills
+      - Attention to detail and problem-solving skills
+      - Ability to work under pressure and meet deadlines
+      - Eagerness to learn and adapt to new technologies and methodologies
+      - Basic understanding of risk management and mitigation
+      - Intermediate English level
   - title: Middle Project Manager
+    track: Delivery track
     category: Project Management
     seniority: Middle
-    role:
-      experience:
-        - >-
-          3+ years of project management experience in a software development
-          environment
-        - Proven experience in managing multiple projects simultaneously
-        - >-
-          Strong understanding of project management methodologies such as
-          Agile, Scrum, and Kanban
-        - Proficiency with project management tools like Jira, Trello, or Asana
-        - Experience in managing cross-functional teams
-        - Knowledge of software development lifecycle and best practices
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Project Management
-          level: 2
-      criteria:
-        - Excellent organizational and time management skills
-        - Strong leadership and team management abilities
-        - Effective communication and interpersonal skills
-        - Problem-solving mindset with attention to detail
-        - Ability to work under pressure and meet tight deadlines
-        - Proactive approach to risk management and issue resolution
-        - Intermediate to advanced English level
-        - Capability to adapt to changing project requirements and environments
+    position: Project Manager
+    experience:
+      - >-
+        3+ years of project management experience in a software development
+        environment
+      - Proven experience in managing multiple projects simultaneously
+      - >-
+        Strong understanding of project management methodologies such as Agile,
+        Scrum, and Kanban
+      - Proficiency with project management tools like Jira, Trello, or Asana
+      - Experience in managing cross-functional teams
+      - Knowledge of software development lifecycle and best practices
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Project Management
+        level: 2
+    criteria:
+      - Excellent organizational and time management skills
+      - Strong leadership and team management abilities
+      - Effective communication and interpersonal skills
+      - Problem-solving mindset with attention to detail
+      - Ability to work under pressure and meet tight deadlines
+      - Proactive approach to risk management and issue resolution
+      - Intermediate to advanced English level
+      - Capability to adapt to changing project requirements and environments
   - title: Senior Project Manager
+    track: Delivery track
     category: Project Management
     seniority: Senior
-    role:
-      experience:
-        - >-
-          5+ years of project management experience in a software development
-          environment
-        - Extensive experience in managing large-scale projects and programs
-        - >-
-          Expertise in project management methodologies such as Agile, Scrum,
-          Kanban, and Waterfall
-        - >-
-          Advanced proficiency with project management tools like Jira, Trello,
-          Asana, or MS Project
-        - Experience in leading cross-functional and distributed teams
-        - >-
-          In-depth knowledge of software development lifecycle and best
-          practices
-        - Experience with stakeholder management and executive reporting
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: Project Management
-          level: 3
-      criteria:
-        - Exceptional organizational and time management skills
-        - Strong leadership and people management capabilities
-        - Outstanding communication, negotiation, and interpersonal skills
-        - High attention to detail and problem-solving abilities
-        - >-
-          Ability to work under pressure and handle complex projects with tight
-          deadlines
-        - Proven track record in risk management and issue resolution
-        - Advanced English level
-        - Ability to mentor and guide junior project managers
-        - Strategic thinking and ability to align projects with business goals
-        - >-
-          Proficiency in adapting to changing project requirements and dynamic
-          environments
+    position: Project Manager
+    experience:
+      - >-
+        5+ years of project management experience in a software development
+        environment
+      - Extensive experience in managing large-scale projects and programs
+      - >-
+        Expertise in project management methodologies such as Agile, Scrum,
+        Kanban, and Waterfall
+      - >-
+        Advanced proficiency with project management tools like Jira, Trello,
+        Asana, or MS Project
+      - Experience in leading cross-functional and distributed teams
+      - In-depth knowledge of software development lifecycle and best practices
+      - Experience with stakeholder management and executive reporting
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: Project Management
+        level: 3
+    criteria:
+      - Exceptional organizational and time management skills
+      - Strong leadership and people management capabilities
+      - Outstanding communication, negotiation, and interpersonal skills
+      - High attention to detail and problem-solving abilities
+      - >-
+        Ability to work under pressure and handle complex projects with tight
+        deadlines
+      - Proven track record in risk management and issue resolution
+      - Advanced English level
+      - Ability to mentor and guide junior project managers
+      - Strategic thinking and ability to align projects with business goals
+      - >-
+        Proficiency in adapting to changing project requirements and dynamic
+        environments
   - title: Agile Coach
+    track: Delivery track
     category: Agile
     seniority: Senior
-    role:
-      experience:
-        - 5+ years of experience in an Agile Coach role or similar position
-        - >-
-          Extensive understanding of Agile principles, Scrum, Kanban, and other
-          Agile frameworks
-        - >-
-          Proven experience with Agile transformation initiatives in large
-          organizations
-        - >-
-          Experience in coaching and mentoring teams and individuals on Agile
-          practices
-        - >-
-          Strong knowledge of Agile project management tools like Jira, Trello,
-          or similar
-        - Ability to develop and deliver Agile training and workshops
-        - Experience in facilitating large group sessions and discussions
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: General Management
-          level: 4
-        - name: Project Management
-          level: 3
-      criteria:
-        - Excellent communication and interpersonal skills
-        - Strong leadership and change management abilities
-        - High proficiency in conflict resolution and problem-solving
-        - Strong organizational and time management skills
-        - Commitment to continuous improvement and fostering a learning culture
-        - Ability to provide and receive constructive feedback
-        - Advanced English level
-        - Ability to drive Agile adoption and maturity across the organization
-        - Strong stakeholder management skills
-        - >-
-          Ability to create a collaborative and high-performance team
-          environment
-        - Experience in developing and implementing Agile metrics and KPIs
+    experience:
+      - 5+ years of experience in an Agile Coach role or similar position
+      - >-
+        Extensive understanding of Agile principles, Scrum, Kanban, and other
+        Agile frameworks
+      - >-
+        Proven experience with Agile transformation initiatives in large
+        organizations
+      - >-
+        Experience in coaching and mentoring teams and individuals on Agile
+        practices
+      - >-
+        Strong knowledge of Agile project management tools like Jira, Trello, or
+        similar
+      - Ability to develop and deliver Agile training and workshops
+      - Experience in facilitating large group sessions and discussions
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: General Management
+        level: 4
+      - name: Project Management
+        level: 3
+    criteria:
+      - Excellent communication and interpersonal skills
+      - Strong leadership and change management abilities
+      - High proficiency in conflict resolution and problem-solving
+      - Strong organizational and time management skills
+      - Commitment to continuous improvement and fostering a learning culture
+      - Ability to provide and receive constructive feedback
+      - Advanced English level
+      - Ability to drive Agile adoption and maturity across the organization
+      - Strong stakeholder management skills
+      - Ability to create a collaborative and high-performance team environment
+      - Experience in developing and implementing Agile metrics and KPIs
   - title: Junior Scrum Master
+    track: Delivery track
     category: Agile
     seniority: Junior
-    role:
-      experience:
-        - 1+ years of experience in a Scrum Master role or similar position
-        - Basic understanding of Agile principles and Scrum framework
-        - >-
-          Experience with Agile project management tools like Jira, Trello, or
-          similar
-        - >-
-          Ability to facilitate Scrum ceremonies (e.g., Daily Standups, Sprint
-          Planning, Retrospectives)
-        - Basic knowledge of software development processes
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: General Management
-          level: 1
-        - name: Project Management
-          level: 1
-      criteria:
-        - Strong communication and interpersonal skills
-        - Ability to work well with cross-functional teams
-        - Basic facilitation and conflict resolution skills
-        - Attention to detail and strong organizational skills
-        - Eagerness to learn and grow in the Scrum Master role
-        - Ability to provide and receive constructive feedback
-        - Intermediate English level
-        - Understanding of the importance of continuous improvement
-        - Ability to support and guide the team in adhering to Scrum practices
+    position: Scrum Master
+    experience:
+      - 1+ years of experience in a Scrum Master role or similar position
+      - Basic understanding of Agile principles and Scrum framework
+      - >-
+        Experience with Agile project management tools like Jira, Trello, or
+        similar
+      - >-
+        Ability to facilitate Scrum ceremonies (e.g., Daily Standups, Sprint
+        Planning, Retrospectives)
+      - Basic knowledge of software development processes
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: General Management
+        level: 1
+      - name: Project Management
+        level: 1
+    criteria:
+      - Strong communication and interpersonal skills
+      - Ability to work well with cross-functional teams
+      - Basic facilitation and conflict resolution skills
+      - Attention to detail and strong organizational skills
+      - Eagerness to learn and grow in the Scrum Master role
+      - Ability to provide and receive constructive feedback
+      - Intermediate English level
+      - Understanding of the importance of continuous improvement
+      - Ability to support and guide the team in adhering to Scrum practices
   - title: Scrum Master
+    track: Delivery track
     category: Agile
     seniority: Middle
-    role:
-      experience:
-        - 3+ years of experience in a Scrum Master role or similar position
-        - Strong understanding of Agile principles and Scrum framework
-        - >-
-          Proven experience with Agile project management tools like Jira,
-          Trello, or similar
-        - >-
-          Ability to effectively facilitate Scrum ceremonies (e.g., Daily
-          Standups, Sprint Planning, Retrospectives)
-        - Good knowledge of software development processes and practices
-        - Experience in coaching and mentoring Agile teams
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: General Management
-          level: 3
-        - name: Project Management
-          level: 2
-      criteria:
-        - Excellent communication and interpersonal skills
-        - Strong leadership and team-building abilities
-        - Proficiency in conflict resolution and problem-solving
-        - High attention to detail and organizational skills
-        - Commitment to continuous improvement and learning
-        - Ability to provide and receive constructive feedback
-        - Intermediate to advanced English level
-        - >-
-          Proactive approach in removing impediments and ensuring team
-          productivity
-        - >-
-          Ability to support the team in achieving their goals and adhering to
-          Scrum practices
-        - >-
-          Capability to manage stakeholder expectations and maintain
-          transparency
+    experience:
+      - 3+ years of experience in a Scrum Master role or similar position
+      - Strong understanding of Agile principles and Scrum framework
+      - >-
+        Proven experience with Agile project management tools like Jira, Trello,
+        or similar
+      - >-
+        Ability to effectively facilitate Scrum ceremonies (e.g., Daily
+        Standups, Sprint Planning, Retrospectives)
+      - Good knowledge of software development processes and practices
+      - Experience in coaching and mentoring Agile teams
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: General Management
+        level: 3
+      - name: Project Management
+        level: 2
+    criteria:
+      - Excellent communication and interpersonal skills
+      - Strong leadership and team-building abilities
+      - Proficiency in conflict resolution and problem-solving
+      - High attention to detail and organizational skills
+      - Commitment to continuous improvement and learning
+      - Ability to provide and receive constructive feedback
+      - Intermediate to advanced English level
+      - >-
+        Proactive approach in removing impediments and ensuring team
+        productivity
+      - >-
+        Ability to support the team in achieving their goals and adhering to
+        Scrum practices
+      - Capability to manage stakeholder expectations and maintain transparency
   - title: Junior Automating Quality Assurance Specialist
+    track: QA track
     category: Quality Assurance
     seniority: Junior
-    role:
-      experience:
-        - >-
-          At least 1 year of experience in software quality assurance with a
-          focus on automation
-        - Basic understanding of QA methodologies and automation processes
-        - >-
-          Familiarity with automation testing tools (e.g., Selenium, Cypress,
-          JUnit)
-        - >-
-          Basic knowledge of programming/scripting languages (e.g., Python,
-          JavaScript, Java)
-        - Experience with version control systems like Git
-        - Understanding of Agile methodologies
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: Automation Testing
-          level: 2
-      criteria:
-        - >-
-          Strong desire to learn and grow in the field of automation quality
-          assurance
-        - Attention to detail and strong analytical skills
-        - Ability to work collaboratively within a team
-        - Good problem-solving skills
-        - Basic understanding of Agile methodologies
-        - Ability to receive and implement feedback
-        - Good communication skills
-        - Intermediate English level
+    position: Automating Quality Assurance Specialist
+    experience:
+      - >-
+        At least 1 year of experience in software quality assurance with a focus
+        on automation
+      - Basic understanding of QA methodologies and automation processes
+      - >-
+        Familiarity with automation testing tools (e.g., Selenium, Cypress,
+        JUnit)
+      - >-
+        Basic knowledge of programming/scripting languages (e.g., Python,
+        JavaScript, Java)
+      - Experience with version control systems like Git
+      - Understanding of Agile methodologies
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: Automation Testing
+        level: 2
+    criteria:
+      - >-
+        Strong desire to learn and grow in the field of automation quality
+        assurance
+      - Attention to detail and strong analytical skills
+      - Ability to work collaboratively within a team
+      - Good problem-solving skills
+      - Basic understanding of Agile methodologies
+      - Ability to receive and implement feedback
+      - Good communication skills
+      - Intermediate English level
   - title: Middle Automating Quality Assurance Specialist
+    track: QA track
     category: Quality Assurance
     seniority: Middle
-    role:
-      experience:
-        - >-
-          3+ years of experience in software quality assurance with a focus on
-          automation
-        - Proficiency in QA methodologies and automation processes
-        - >-
-          Experience with automation testing tools (e.g., Selenium, Cypress,
-          JUnit)
-        - >-
-          Strong knowledge of programming/scripting languages (e.g., Python,
-          JavaScript, Java)
-        - Experience with version control systems like Git
-        - Understanding of Agile methodologies
-        - Experience with performance and security testing
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Automation Testing
-          level: 3
-      criteria:
-        - Ability to work independently and as part of a team
-        - Strong analytical and problem-solving skills
-        - Ability to give and receive constructive feedback
-        - Good communication skills
-        - Intermediate to advanced English level
-        - Ability to mentor junior QA specialists
-        - Willingness to learn and adapt to new testing tools and technologies
-        - Experience with CI/CD pipelines and integration testing
-        - Strong attention to detail and quality assurance best practices
+    position: Automating Quality Assurance Specialist
+    experience:
+      - >-
+        3+ years of experience in software quality assurance with a focus on
+        automation
+      - Proficiency in QA methodologies and automation processes
+      - >-
+        Experience with automation testing tools (e.g., Selenium, Cypress,
+        JUnit)
+      - >-
+        Strong knowledge of programming/scripting languages (e.g., Python,
+        JavaScript, Java)
+      - Experience with version control systems like Git
+      - Understanding of Agile methodologies
+      - Experience with performance and security testing
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Automation Testing
+        level: 3
+    criteria:
+      - Ability to work independently and as part of a team
+      - Strong analytical and problem-solving skills
+      - Ability to give and receive constructive feedback
+      - Good communication skills
+      - Intermediate to advanced English level
+      - Ability to mentor junior QA specialists
+      - Willingness to learn and adapt to new testing tools and technologies
+      - Experience with CI/CD pipelines and integration testing
+      - Strong attention to detail and quality assurance best practices
   - title: Senior Automating Quality Assurance Specialist
+    track: QA track
     category: Quality Assurance
     seniority: Senior
-    role:
-      experience:
-        - >-
-          5+ years of experience in software quality assurance with a focus on
-          automation
-        - Expertise in QA methodologies and automation processes
-        - >-
-          Extensive experience with automation testing tools (e.g., Selenium,
-          Cypress, JUnit)
-        - >-
-          Strong knowledge of programming/scripting languages (e.g., Python,
-          JavaScript, Java)
-        - Experience with version control systems like Git
-        - Deep understanding of Agile methodologies
-        - Experience with performance, security, and regression testing
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: Automation Testing
-          level: 4
-          count: 3
-      criteria:
-        - Ability to lead and mentor a team of QA specialists
-        - Strong analytical and problem-solving skills
-        - Deep understanding of Agile methodologies
-        - Excellent communication and collaboration skills
-        - Experience with code reviews and maintaining testing standards
-        - Advanced English level
-        - >-
-          Ability to drive innovation and stay updated with the latest industry
-          trends
-        - Experience with CI/CD pipelines and integration testing
-        - Strong attention to detail and quality assurance best practices
-        - >-
-          Ability to design and implement comprehensive test automation
-          frameworks
-        - >-
-          Strong decision-making skills and ability to delegate tasks
-          effectively
-        - Ability to manage multiple projects and prioritize tasks
+    position: Automating Quality Assurance Specialist
+    experience:
+      - >-
+        5+ years of experience in software quality assurance with a focus on
+        automation
+      - Expertise in QA methodologies and automation processes
+      - >-
+        Extensive experience with automation testing tools (e.g., Selenium,
+        Cypress, JUnit)
+      - >-
+        Strong knowledge of programming/scripting languages (e.g., Python,
+        JavaScript, Java)
+      - Experience with version control systems like Git
+      - Deep understanding of Agile methodologies
+      - Experience with performance, security, and regression testing
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: Automation Testing
+        level: 4
+        count: 3
+    criteria:
+      - Ability to lead and mentor a team of QA specialists
+      - Strong analytical and problem-solving skills
+      - Deep understanding of Agile methodologies
+      - Excellent communication and collaboration skills
+      - Experience with code reviews and maintaining testing standards
+      - Advanced English level
+      - >-
+        Ability to drive innovation and stay updated with the latest industry
+        trends
+      - Experience with CI/CD pipelines and integration testing
+      - Strong attention to detail and quality assurance best practices
+      - Ability to design and implement comprehensive test automation frameworks
+      - Strong decision-making skills and ability to delegate tasks effectively
+      - Ability to manage multiple projects and prioritize tasks
   - title: Junior Quality Assurance Specialist
+    track: QA track
     category: Quality Assurance
     seniority: Junior
-    role:
-      experience:
-        - >-
-          At least 1 year of experience in software quality assurance or a
-          related field
-        - Basic understanding of QA methodologies and processes
-        - Familiarity with manual and automated testing tools
-        - Basic knowledge of SQL and ability to write simple queries
-        - Experience with version control systems like Git
-        - Understanding of Agile methodologies
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: Testing
-          level: 2
-      criteria:
-        - Strong desire to learn and grow in the field of quality assurance
-        - Attention to detail and strong analytical skills
-        - Ability to work collaboratively within a team
-        - Good problem-solving skills
-        - Basic understanding of Agile methodologies
-        - Ability to receive and implement feedback
-        - Good communication skills
-        - Intermediate English level
+    position: Quality Assurance Specialist
+    experience:
+      - >-
+        At least 1 year of experience in software quality assurance or a related
+        field
+      - Basic understanding of QA methodologies and processes
+      - Familiarity with manual and automated testing tools
+      - Basic knowledge of SQL and ability to write simple queries
+      - Experience with version control systems like Git
+      - Understanding of Agile methodologies
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: Testing
+        level: 2
+    criteria:
+      - Strong desire to learn and grow in the field of quality assurance
+      - Attention to detail and strong analytical skills
+      - Ability to work collaboratively within a team
+      - Good problem-solving skills
+      - Basic understanding of Agile methodologies
+      - Ability to receive and implement feedback
+      - Good communication skills
+      - Intermediate English level
   - title: Middle Quality Assurance Specialist
+    track: QA track
     category: Quality Assurance
     seniority: Middle
-    role:
-      experience:
-        - >-
-          3+ years of experience in software quality assurance or a related
-          field
-        - Proficiency in QA methodologies and processes
-        - Experience with both manual and automated testing tools
-        - Strong knowledge of SQL and ability to write complex queries
-        - Experience with version control systems like Git
-        - Understanding of Agile methodologies
-        - Experience with performance and security testing
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Testing
-          level: 3
-      criteria:
-        - Ability to work independently and as part of a team
-        - Strong analytical and problem-solving skills
-        - Ability to give and receive constructive feedback
-        - Good communication skills
-        - Intermediate to advanced English level
-        - Ability to mentor junior QA specialists
-        - Willingness to learn and adapt to new testing tools and technologies
-        - Experience with CI/CD pipelines and integration testing
-        - Strong attention to detail and quality assurance best practices
+    position: Quality Assurance Specialist
+    experience:
+      - 3+ years of experience in software quality assurance or a related field
+      - Proficiency in QA methodologies and processes
+      - Experience with both manual and automated testing tools
+      - Strong knowledge of SQL and ability to write complex queries
+      - Experience with version control systems like Git
+      - Understanding of Agile methodologies
+      - Experience with performance and security testing
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Testing
+        level: 3
+    criteria:
+      - Ability to work independently and as part of a team
+      - Strong analytical and problem-solving skills
+      - Ability to give and receive constructive feedback
+      - Good communication skills
+      - Intermediate to advanced English level
+      - Ability to mentor junior QA specialists
+      - Willingness to learn and adapt to new testing tools and technologies
+      - Experience with CI/CD pipelines and integration testing
+      - Strong attention to detail and quality assurance best practices
   - title: Senior Quality Assurance Specialist
+    track: QA track
     category: Quality Assurance
     seniority: Senior
-    role:
-      experience:
-        - >-
-          5+ years of experience in software quality assurance or a related
-          field
-        - Expertise in QA methodologies and processes
-        - Extensive experience with both manual and automated testing tools
-        - Strong knowledge of SQL and ability to write complex queries
-        - Experience with version control systems like Git
-        - Deep understanding of Agile methodologies
-        - Experience with performance, security, and regression testing
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: Testing
-          level: 4
-      criteria:
-        - Ability to lead and mentor a team of QA specialists
-        - Strong analytical and problem-solving skills
-        - Deep understanding of Agile methodologies
-        - Excellent communication and collaboration skills
-        - Experience with code reviews and maintaining testing standards
-        - Advanced English level
-        - >-
-          Ability to drive innovation and stay updated with the latest industry
-          trends
-        - Experience with CI/CD pipelines and integration testing
-        - Strong attention to detail and quality assurance best practices
-        - >-
-          Ability to design and implement comprehensive test plans and
-          strategies
-        - >-
-          Strong decision-making skills and ability to delegate tasks
-          effectively
-        - Ability to manage multiple projects and prioritize tasks
+    position: Quality Assurance Specialist
+    experience:
+      - 5+ years of experience in software quality assurance or a related field
+      - Expertise in QA methodologies and processes
+      - Extensive experience with both manual and automated testing tools
+      - Strong knowledge of SQL and ability to write complex queries
+      - Experience with version control systems like Git
+      - Deep understanding of Agile methodologies
+      - Experience with performance, security, and regression testing
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: Testing
+        level: 4
+    criteria:
+      - Ability to lead and mentor a team of QA specialists
+      - Strong analytical and problem-solving skills
+      - Deep understanding of Agile methodologies
+      - Excellent communication and collaboration skills
+      - Experience with code reviews and maintaining testing standards
+      - Advanced English level
+      - >-
+        Ability to drive innovation and stay updated with the latest industry
+        trends
+      - Experience with CI/CD pipelines and integration testing
+      - Strong attention to detail and quality assurance best practices
+      - Ability to design and implement comprehensive test plans and strategies
+      - Strong decision-making skills and ability to delegate tasks effectively
+      - Ability to manage multiple projects and prioritize tasks
   - title: Junior Quality Control Specialist
+    track: QA track
     category: Quality Control
     seniority: Junior
-    role:
-      experience:
-        - At least 1 year of experience in quality control or a related field
-        - Basic understanding of quality control methodologies and processes
-        - Familiarity with quality control tools and techniques
-        - Basic knowledge of statistical analysis
-        - Experience with version control systems like Git
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: Testing
-          level: 2
-      criteria:
-        - Strong desire to learn and grow in the field of quality control
-        - Attention to detail and strong analytical skills
-        - Ability to work collaboratively within a team
-        - Good problem-solving skills
-        - Ability to receive and implement feedback
-        - Good communication skills
-        - Intermediate English level
-        - Experience with product inspections and defect management
+    position: Quality Control Specialist
+    experience:
+      - At least 1 year of experience in quality control or a related field
+      - Basic understanding of quality control methodologies and processes
+      - Familiarity with quality control tools and techniques
+      - Basic knowledge of statistical analysis
+      - Experience with version control systems like Git
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: Testing
+        level: 2
+    criteria:
+      - Strong desire to learn and grow in the field of quality control
+      - Attention to detail and strong analytical skills
+      - Ability to work collaboratively within a team
+      - Good problem-solving skills
+      - Ability to receive and implement feedback
+      - Good communication skills
+      - Intermediate English level
+      - Experience with product inspections and defect management
   - title: Middle Quality Control Specialist
+    track: QA track
     category: Quality Control
     seniority: Middle
-    role:
-      experience:
-        - 3+ years of experience in quality control or a related field
-        - Proficiency in quality control methodologies and processes
-        - Experience with quality control tools and techniques
-        - Strong knowledge of statistical analysis
-        - Experience with version control systems like Git
-        - Experience with performance and security testing
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Testing
-          level: 3
-      criteria:
-        - Ability to work independently and as part of a team
-        - Strong analytical and problem-solving skills
-        - Ability to give and receive constructive feedback
-        - Good communication skills
-        - Intermediate to advanced English level
-        - Ability to mentor junior QC specialists
-        - Willingness to learn and adapt to new QC tools and technologies
-        - Experience with product inspections and defect management
-        - Strong attention to detail and quality control best practices
+    position: Quality Control Specialist
+    experience:
+      - 3+ years of experience in quality control or a related field
+      - Proficiency in quality control methodologies and processes
+      - Experience with quality control tools and techniques
+      - Strong knowledge of statistical analysis
+      - Experience with version control systems like Git
+      - Experience with performance and security testing
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Testing
+        level: 3
+    criteria:
+      - Ability to work independently and as part of a team
+      - Strong analytical and problem-solving skills
+      - Ability to give and receive constructive feedback
+      - Good communication skills
+      - Intermediate to advanced English level
+      - Ability to mentor junior QC specialists
+      - Willingness to learn and adapt to new QC tools and technologies
+      - Experience with product inspections and defect management
+      - Strong attention to detail and quality control best practices
   - title: Solution Architect
+    track: Tech track
     category: Architecture
     seniority: Senior
-    role:
-      experience:
-        - 7+ years of experience in software engineering or a related field
-        - Proven experience of creating architecture
-        - Expertise in designing and implementing complex, large-scale systems
-        - Strong proficiency in frontend, backend, and database technologies
-        - Experience with cloud platforms (e.g., AWS, Azure, GCP)
-        - >-
-          In-depth knowledge of software development lifecycle and Agile
-          methodologies
-        - Experience with microservices architecture and API design
-        - Strong understanding of security best practices and compliance
-        - Experience with version control systems like Git
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 5
-        - name: Architecture
-          level: 4
-        - name: DevOps
-          level: 3
-      criteria:
-        - >-
-          Ability to design and architect scalable, reliable, and secure
-          solutions
-        - Strong problem-solving and analytical skills
-        - Excellent communication and collaboration skills
-        - Ability to lead technical discussions and decision-making processes
-        - Experience with code reviews and maintaining coding standards
-        - Advanced English level
-        - Ability to mentor and guide technical teams
-        - Strong understanding of DevOps practices and CI/CD pipelines
-        - >-
-          Ability to stay updated with the latest industry trends and
-          technologies
-        - Experience with designing system architecture and ensuring scalability
-        - >-
-          Strong decision-making skills and ability to delegate tasks
-          effectively
-        - Ability to manage multiple projects and prioritize tasks
+    experience:
+      - 7+ years of experience in software engineering or a related field
+      - Proven experience of creating architecture
+      - Expertise in designing and implementing complex, large-scale systems
+      - Strong proficiency in frontend, backend, and database technologies
+      - Experience with cloud platforms (e.g., AWS, Azure, GCP)
+      - >-
+        In-depth knowledge of software development lifecycle and Agile
+        methodologies
+      - Experience with microservices architecture and API design
+      - Strong understanding of security best practices and compliance
+      - Experience with version control systems like Git
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 5
+      - name: Architecture
+        level: 4
+      - name: DevOps
+        level: 3
+    criteria:
+      - Ability to design and architect scalable, reliable, and secure solutions
+      - Strong problem-solving and analytical skills
+      - Excellent communication and collaboration skills
+      - Ability to lead technical discussions and decision-making processes
+      - Experience with code reviews and maintaining coding standards
+      - Advanced English level
+      - Ability to mentor and guide technical teams
+      - Strong understanding of DevOps practices and CI/CD pipelines
+      - Ability to stay updated with the latest industry trends and technologies
+      - Experience with designing system architecture and ensuring scalability
+      - Strong decision-making skills and ability to delegate tasks effectively
+      - Ability to manage multiple projects and prioritize tasks
   - title: Junior Software Developer
+    track: Tech track
     category: Software Developer
     seniority: Junior
-    role:
-      experience:
-        - >-
-          At least half a year of web development experience with any
-          framework/library for developing complex front-end: React, Vue,
-          Backbone, Ember, Knockout, preferably — Angular
-        - Ability to work with version control systems like Git
-        - Understanding of Agile artifacts would be a plus
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: Frameworks
-          count: 2
-          level: 2
-      criteria:
-        - The will to self-develop and learn
-        - Energy, commitment, and persistence
-        - >-
-          The ability to request and receive feedback and take it openly, to
-          share constructive feedback
-        - Own the mistakes and problems
-        - Communicate openly, request for support when needed
-        - Escalates issues in a timely manner
-        - Ability to share and receive positive and constructive feedback
-        - Have an Intermediate English level
+    position: Software Developer
+    experience:
+      - >-
+        At least half a year of web development experience with any
+        framework/library for developing complex front-end: React, Vue,
+        Backbone, Ember, Knockout, preferably — Angular
+      - Ability to work with version control systems like Git
+      - Understanding of Agile artifacts would be a plus
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: Frameworks
+        count: 2
+        level: 2
+    criteria:
+      - The will to self-develop and learn
+      - Energy, commitment, and persistence
+      - >-
+        The ability to request and receive feedback and take it openly, to share
+        constructive feedback
+      - Own the mistakes and problems
+      - Communicate openly, request for support when needed
+      - Escalates issues in a timely manner
+      - Ability to share and receive positive and constructive feedback
+      - Have an Intermediate English level
   - title: Middle Backend Developer
+    track: Tech track
     category: Backend Developer
     seniority: Middle
-    role:
-      experience:
-        - 3+ years of backend development experience
-        - Experience with RESTful API design and implementation
-        - >-
-          Proficiency in one or more backend programming languages (e.g., Java,
-          Python, Ruby, Node.js)
-        - Experience with SQL and NoSQL databases
-        - Understanding of CI/CD pipelines
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Frameworks
-          count: 3
-          level: 3
-      criteria:
-        - Understanding of business needs, what application does exactly
-        - The ability to perform the tasks assigned to them independently
-        - Support team members. Try to be cross-functional where it’s required
-        - Do not require constant supervision
-        - >-
-          Develop clean, simple solutions but avoid over-engineering. Keep
-          technical debt or reduce it.
-        - >-
-          Without supervision, meet expectations on the quality level and
-          company-level standards
+    position: Backend Developer
+    experience:
+      - 3+ years of backend development experience
+      - Experience with RESTful API design and implementation
+      - >-
+        Proficiency in one or more backend programming languages (e.g., Java,
+        Python, Ruby, Node.js)
+      - Experience with SQL and NoSQL databases
+      - Understanding of CI/CD pipelines
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Frameworks
+        count: 3
+        level: 3
+    criteria:
+      - Understanding of business needs, what application does exactly
+      - The ability to perform the tasks assigned to them independently
+      - Support team members. Try to be cross-functional where it’s required
+      - Do not require constant supervision
+      - >-
+        Develop clean, simple solutions but avoid over-engineering. Keep
+        technical debt or reduce it.
+      - >-
+        Without supervision, meet expectations on the quality level and
+        company-level standards
   - title: Senior Backend Developer
+    track: Tech track
     category: Backend Developer
     seniority: Senior
-    role:
-      experience:
-        - 5+ years of backend development experience
-        - Extensive experience with microservices architecture
-        - Proficiency in cloud platforms (e.g., AWS, Azure, GCP)
-        - Strong understanding of security best practices in backend development
-        - Experience with Docker and Kubernetes
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: Frameworks
-          count: 3
-          level: 4
-      criteria:
-        - Pragmatic in the execution
-        - The ability to make the right technological decisions in the project
-        - Ability to delegate and keep responsibility
-        - Solve problems even before they get the chance to appear
-        - Very good communication skills
-        - Mentor others and open to suggestions
-        - >-
-          Take on large ill-defined problems, define them, break them up, and
-          execute the pieces
-        - Feedback sharing and receiving on a proficient level
+    position: Backend Developer
+    experience:
+      - 5+ years of backend development experience
+      - Extensive experience with microservices architecture
+      - Proficiency in cloud platforms (e.g., AWS, Azure, GCP)
+      - Strong understanding of security best practices in backend development
+      - Experience with Docker and Kubernetes
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: Frameworks
+        count: 3
+        level: 4
+    criteria:
+      - Pragmatic in the execution
+      - The ability to make the right technological decisions in the project
+      - Ability to delegate and keep responsibility
+      - Solve problems even before they get the chance to appear
+      - Very good communication skills
+      - Mentor others and open to suggestions
+      - >-
+        Take on large ill-defined problems, define them, break them up, and
+        execute the pieces
+      - Feedback sharing and receiving on a proficient level
   - title: Junior DevOps
+    track: Tech track
     category: DevOps
     seniority: Junior
-    role:
-      experience:
-        - At least 1 year of experience in a DevOps or similar role
-        - Basic knowledge of cloud platforms (e.g., AWS, Azure, GCP)
-        - >-
-          Familiarity with infrastructure as code tools (e.g., Terraform,
-          CloudFormation)
-        - Understanding of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI)
-        - Basic knowledge of containerization technologies (e.g., Docker)
-        - Experience with version control systems like Git
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: DevOps Practices
-          level: 2
-          count: 1
-      criteria:
-        - Strong desire to learn and grow in the DevOps field
-        - Ability to work collaboratively within a team
-        - Good problem-solving skills
-        - Basic understanding of Agile methodologies
-        - Ability to receive and implement feedback
-        - Good communication skills
-        - Intermediate English level
+    position: DevOps
+    experience:
+      - At least 1 year of experience in a DevOps or similar role
+      - Basic knowledge of cloud platforms (e.g., AWS, Azure, GCP)
+      - >-
+        Familiarity with infrastructure as code tools (e.g., Terraform,
+        CloudFormation)
+      - Understanding of CI/CD pipelines and tools (e.g., Jenkins, GitLab CI)
+      - Basic knowledge of containerization technologies (e.g., Docker)
+      - Experience with version control systems like Git
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: DevOps Practices
+        level: 2
+        count: 1
+    criteria:
+      - Strong desire to learn and grow in the DevOps field
+      - Ability to work collaboratively within a team
+      - Good problem-solving skills
+      - Basic understanding of Agile methodologies
+      - Ability to receive and implement feedback
+      - Good communication skills
+      - Intermediate English level
   - title: Middle DevOps
+    track: Tech track
     category: DevOps
     seniority: Middle
-    role:
-      experience:
-        - 3+ years of experience in a DevOps role
-        - Proficiency with cloud platforms (e.g., AWS, Azure, GCP)
-        - >-
-          Experience with infrastructure as code tools (e.g., Terraform,
-          CloudFormation)
-        - >-
-          Strong understanding of CI/CD pipelines and tools (e.g., Jenkins,
-          GitLab CI)
-        - >-
-          Proficiency with containerization technologies (e.g., Docker,
-          Kubernetes)
-        - Experience with version control systems like Git
-        - >-
-          Familiarity with monitoring and logging tools (e.g., Prometheus, ELK
-          stack)
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: DevOps
-          level: 3
-      criteria:
-        - Ability to work independently and as part of a team
-        - Strong problem-solving skills
-        - Understanding of Agile methodologies
-        - Ability to give and receive constructive feedback
-        - Good communication skills
-        - Intermediate to advanced English level
-        - Ability to mentor junior team members
+    position: DevOps
+    experience:
+      - 3+ years of experience in a DevOps role
+      - Proficiency with cloud platforms (e.g., AWS, Azure, GCP)
+      - >-
+        Experience with infrastructure as code tools (e.g., Terraform,
+        CloudFormation)
+      - >-
+        Strong understanding of CI/CD pipelines and tools (e.g., Jenkins, GitLab
+        CI)
+      - >-
+        Proficiency with containerization technologies (e.g., Docker,
+        Kubernetes)
+      - Experience with version control systems like Git
+      - >-
+        Familiarity with monitoring and logging tools (e.g., Prometheus, ELK
+        stack)
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: DevOps
+        level: 3
+    criteria:
+      - Ability to work independently and as part of a team
+      - Strong problem-solving skills
+      - Understanding of Agile methodologies
+      - Ability to give and receive constructive feedback
+      - Good communication skills
+      - Intermediate to advanced English level
+      - Ability to mentor junior team members
   - title: Senior DevOps
+    track: Tech track
     category: DevOps
     seniority: Senior
-    role:
-      experience:
-        - 5+ years of experience in a DevOps role
-        - Expertise with cloud platforms (e.g., AWS, Azure, GCP)
-        - >-
-          Extensive experience with infrastructure as code tools (e.g.,
-          Terraform, CloudFormation)
-        - >-
-          Strong understanding and implementation experience of CI/CD pipelines
-          and tools (e.g., Jenkins, GitLab CI)
-        - >-
-          Proficiency with containerization and orchestration technologies
-          (e.g., Docker, Kubernetes)
-        - Experience with version control systems like Git
-        - >-
-          In-depth knowledge of monitoring and logging tools (e.g., Prometheus,
-          ELK stack)
-        - Experience with security best practices in DevOps
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: DevOps
-          level: 4
-      criteria:
-        - Ability to lead and mentor a team of DevOps engineers
-        - Strong problem-solving and analytical skills
-        - Deep understanding of Agile methodologies
-        - Excellent communication and collaboration skills
-        - Ability to architect and design complex DevOps solutions
-        - Experience with code reviews and maintaining coding standards
-        - Advanced English level
-        - >-
-          Ability to drive innovation and stay updated with the latest industry
-          trends
+    position: DevOps
+    experience:
+      - 5+ years of experience in a DevOps role
+      - Expertise with cloud platforms (e.g., AWS, Azure, GCP)
+      - >-
+        Extensive experience with infrastructure as code tools (e.g., Terraform,
+        CloudFormation)
+      - >-
+        Strong understanding and implementation experience of CI/CD pipelines
+        and tools (e.g., Jenkins, GitLab CI)
+      - >-
+        Proficiency with containerization and orchestration technologies (e.g.,
+        Docker, Kubernetes)
+      - Experience with version control systems like Git
+      - >-
+        In-depth knowledge of monitoring and logging tools (e.g., Prometheus,
+        ELK stack)
+      - Experience with security best practices in DevOps
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: DevOps
+        level: 4
+    criteria:
+      - Ability to lead and mentor a team of DevOps engineers
+      - Strong problem-solving and analytical skills
+      - Deep understanding of Agile methodologies
+      - Excellent communication and collaboration skills
+      - Ability to architect and design complex DevOps solutions
+      - Experience with code reviews and maintaining coding standards
+      - Advanced English level
+      - >-
+        Ability to drive innovation and stay updated with the latest industry
+        trends
   - title: Junior Frontend Developer
+    track: Tech track
     category: Frontend Developer
     seniority: Junior
-    role:
-      experience:
-        - >-
-          At least 1 year of frontend development experience with modern
-          JavaScript frameworks/libraries such as React, Angular, or Vue.js
-        - Basic understanding of HTML, CSS, and JavaScript
-        - Familiarity with version control systems like Git
-        - Understanding of responsive design principles
-        - Basic knowledge of web performance optimization techniques
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 2
-        - name: Frontend Frameworks
-          level: 2
-          count: 1
-      criteria:
-        - Strong desire to learn and grow as a frontend developer
-        - Ability to work collaboratively within a team
-        - Good problem-solving skills
-        - Basic understanding of Agile methodologies
-        - Ability to receive and implement feedback
-        - Good communication skills
-        - Intermediate English level
+    position: Frontend Developer
+    experience:
+      - >-
+        At least 1 year of frontend development experience with modern
+        JavaScript frameworks/libraries such as React, Angular, or Vue.js
+      - Basic understanding of HTML, CSS, and JavaScript
+      - Familiarity with version control systems like Git
+      - Understanding of responsive design principles
+      - Basic knowledge of web performance optimization techniques
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 2
+      - name: Frontend Frameworks
+        level: 2
+        count: 1
+    criteria:
+      - Strong desire to learn and grow as a frontend developer
+      - Ability to work collaboratively within a team
+      - Good problem-solving skills
+      - Basic understanding of Agile methodologies
+      - Ability to receive and implement feedback
+      - Good communication skills
+      - Intermediate English level
   - title: Middle Frontend Developer
+    track: Tech track
     category: Frontend Developer
     seniority: Middle
-    role:
-      experience:
-        - 3+ years of frontend development experience
-        - >-
-          Proficiency in modern JavaScript frameworks/libraries such as React,
-          Angular, or Vue.js
-        - Strong understanding of HTML, CSS, and JavaScript
-        - Experience with version control systems like Git
-        - >-
-          Good understanding of responsive design and cross-browser
-          compatibility
-        - Experience with web performance optimization techniques
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Frontend Frameworks
-          level: 3
-          count: 2
-      criteria:
-        - Ability to work independently and as part of a team
-        - Strong problem-solving skills
-        - Understanding of Agile methodologies
-        - Ability to give and receive constructive feedback
-        - Good communication skills
-        - Intermediate to advanced English level
-        - Ability to mentor junior developers
+    position: Frontend Developer
+    experience:
+      - 3+ years of frontend development experience
+      - >-
+        Proficiency in modern JavaScript frameworks/libraries such as React,
+        Angular, or Vue.js
+      - Strong understanding of HTML, CSS, and JavaScript
+      - Experience with version control systems like Git
+      - Good understanding of responsive design and cross-browser compatibility
+      - Experience with web performance optimization techniques
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Frontend Frameworks
+        level: 3
+        count: 2
+    criteria:
+      - Ability to work independently and as part of a team
+      - Strong problem-solving skills
+      - Understanding of Agile methodologies
+      - Ability to give and receive constructive feedback
+      - Good communication skills
+      - Intermediate to advanced English level
+      - Ability to mentor junior developers
   - title: Senior Frontend Developer
+    track: Tech track
     category: Frontend Developer
     seniority: Senior
-    role:
-      experience:
-        - 5+ years of frontend development experience
-        - >-
-          Expertise in modern JavaScript frameworks/libraries such as React,
-          Angular, or Vue.js
-        - In-depth knowledge of HTML, CSS, and JavaScript
-        - Extensive experience with version control systems like Git
-        - >-
-          Strong understanding of responsive design, cross-browser
-          compatibility, and accessibility standards
-        - Proven experience with web performance optimization techniques
-        - >-
-          Experience with frontend build tools and package managers (e.g.,
-          Webpack, NPM)
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: Frontend Frameworks
-          level: 4
-          count: 2
-        - name: General management
-          level: 1
-      criteria:
-        - Pragmatic in the execution
-        - Ability to architect and design complex frontend applications
-        - Strong problem-solving and analytical skills
-        - Deep understanding of Agile methodologies
-        - Excellent communication and collaboration skills
-        - Experience with code reviews and maintaining coding standards
-        - Stay updated with the latest industry trends
-        - Ability to delegate and keep responsibility
-        - Solve problems even before they get the chance to appear
-        - Mentor others and open to suggestions
-        - >-
-          Take on large ill-defined problems, define them, break them up, and
-          execute the pieces
-        - Feedback sharing and receiving on a proficient level
+    position: Frontend Developer
+    experience:
+      - 5+ years of frontend development experience
+      - >-
+        Expertise in modern JavaScript frameworks/libraries such as React,
+        Angular, or Vue.js
+      - In-depth knowledge of HTML, CSS, and JavaScript
+      - Extensive experience with version control systems like Git
+      - >-
+        Strong understanding of responsive design, cross-browser compatibility,
+        and accessibility standards
+      - Proven experience with web performance optimization techniques
+      - >-
+        Experience with frontend build tools and package managers (e.g.,
+        Webpack, NPM)
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: Frontend Frameworks
+        level: 4
+        count: 2
+      - name: General management
+        level: 1
+    criteria:
+      - Pragmatic in the execution
+      - Ability to architect and design complex frontend applications
+      - Strong problem-solving and analytical skills
+      - Deep understanding of Agile methodologies
+      - Excellent communication and collaboration skills
+      - Experience with code reviews and maintaining coding standards
+      - Stay updated with the latest industry trends
+      - Ability to delegate and keep responsibility
+      - Solve problems even before they get the chance to appear
+      - Mentor others and open to suggestions
+      - >-
+        Take on large ill-defined problems, define them, break them up, and
+        execute the pieces
+      - Feedback sharing and receiving on a proficient level
   - title: Middle Software Engineer
+    track: Tech track
     category: Software Engineer
     seniority: Middle
-    role:
-      experience:
-        - 3+ years of experience in software engineering
-        - Proficiency in frontend, backend and databases
-        - >-
-          Experience with modern JavaScript frameworks/libraries (e.g., React,
-          Angular, Vue.js)
-        - >-
-          Proficiency in backend programming languages (e.g., Java, Python,
-          Node.js, Ruby)
-        - Experience with SQL and NoSQL databases
-        - Quality Assurance practices and AQA practices
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 3
-        - name: Architecture
-          level: 1
-        - name: Frontend Frameworks
-          level: 2
-          count: 2
-        - name: Backend Frameworks
-          level: 2
-          count: 2
-        - name: Databases
-          level: 2
-          count: 2
-      criteria:
-        - Ability to work independently and as part of a team
-        - Strong problem-solving and analytical skills
-        - Ability to give and receive constructive feedback
-        - Good communication skills
-        - Ability to mentor junior developers
-        - Willingness to learn and adapt to new technologies
-        - Experience with CI/CD pipelines and DevOps practices
+    position: Software Engineer
+    experience:
+      - 3+ years of experience in software engineering
+      - Proficiency in frontend, backend and databases
+      - >-
+        Experience with modern JavaScript frameworks/libraries (e.g., React,
+        Angular, Vue.js)
+      - >-
+        Proficiency in backend programming languages (e.g., Java, Python,
+        Node.js, Ruby)
+      - Experience with SQL and NoSQL databases
+      - Quality Assurance practices and AQA practices
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 3
+      - name: Architecture
+        level: 1
+      - name: Frontend Frameworks
+        level: 2
+        count: 2
+      - name: Backend Frameworks
+        level: 2
+        count: 2
+      - name: Databases
+        level: 2
+        count: 2
+    criteria:
+      - Ability to work independently and as part of a team
+      - Strong problem-solving and analytical skills
+      - Ability to give and receive constructive feedback
+      - Good communication skills
+      - Ability to mentor junior developers
+      - Willingness to learn and adapt to new technologies
+      - Experience with CI/CD pipelines and DevOps practices
   - title: Senior Software Engineer
+    track: Tech track
     category: Software Engineer
     seniority: Senior
-    role:
-      experience:
-        - 5+ years of experience in software engineering
-        - Expertise in frontend, backend, and databases
-        - >-
-          Proficiency in modern JavaScript frameworks/libraries (e.g., React,
-          Angular, Vue.js)
-        - >-
-          Proficiency in backend programming languages (e.g., Java, Python,
-          Node.js, Ruby)
-        - Extensive experience with SQL and NoSQL databases
-        - >-
-          Experience with designing and implementing complex, large-scale
-          systems
-        - >-
-          Strong understanding of software development lifecycle and Agile
-          methodologies
-        - Experience with version control systems like Git
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 4
-        - name: Frontend Frameworks
-          level: 3
-          count: 3
-        - name: Backend Frameworks
-          level: 3
-          count: 3
-        - name: Databases
-          level: 3
-          count: 4
-      criteria:
-        - Ability to lead and mentor a team of software engineers
-        - Strong problem-solving and analytical skills
-        - Deep understanding of Agile methodologies
-        - Excellent communication and collaboration skills
-        - Ability to architect and design complex software solutions
-        - Experience with code reviews and maintaining coding standards
-        - Advanced English level
-        - >-
-          Ability to drive innovation and stay updated with the latest industry
-          trends
-        - Experience with CI/CD pipelines and DevOps practices
-        - Ability to design system architecture and ensure scalability
+    position: Software Engineer
+    experience:
+      - 5+ years of experience in software engineering
+      - Expertise in frontend, backend, and databases
+      - >-
+        Proficiency in modern JavaScript frameworks/libraries (e.g., React,
+        Angular, Vue.js)
+      - >-
+        Proficiency in backend programming languages (e.g., Java, Python,
+        Node.js, Ruby)
+      - Extensive experience with SQL and NoSQL databases
+      - Experience with designing and implementing complex, large-scale systems
+      - >-
+        Strong understanding of software development lifecycle and Agile
+        methodologies
+      - Experience with version control systems like Git
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 4
+      - name: Frontend Frameworks
+        level: 3
+        count: 3
+      - name: Backend Frameworks
+        level: 3
+        count: 3
+      - name: Databases
+        level: 3
+        count: 4
+    criteria:
+      - Ability to lead and mentor a team of software engineers
+      - Strong problem-solving and analytical skills
+      - Deep understanding of Agile methodologies
+      - Excellent communication and collaboration skills
+      - Ability to architect and design complex software solutions
+      - Experience with code reviews and maintaining coding standards
+      - Advanced English level
+      - >-
+        Ability to drive innovation and stay updated with the latest industry
+        trends
+      - Experience with CI/CD pipelines and DevOps practices
+      - Ability to design system architecture and ensure scalability
   - title: Tech Leader
+    track: Tech track
     category: Technology Leadership
     seniority: Senior
-    role:
-      experience:
-        - 7+ years of experience in software engineering or a related field
-        - Proven experience in leading technical teams and projects
-        - Expertise in frontend, backend, and database technologies
-        - >-
-          Strong proficiency in modern JavaScript frameworks/libraries (e.g.,
-          React, Angular, Vue.js)
-        - >-
-          Proficiency in backend programming languages (e.g., Java, Python,
-          Node.js, Ruby)
-        - Extensive experience with SQL and NoSQL databases
-        - >-
-          Experience with designing and implementing complex, large-scale
-          systems
-        - >-
-          Strong understanding of software development lifecycle and Agile
-          methodologies
-        - Experience with version control systems like Git
-      qualifications_criteria:
-        - name: General Knowledge
-          level: 5
-        - name: General Management
-          level: 4
-      criteria:
-        - Ability to lead and mentor a team of software engineers
-        - Strong problem-solving and analytical skills
-        - Deep understanding of Agile methodologies
-        - Excellent communication and collaboration skills
-        - Ability to architect and design complex software solutions
-        - Experience with code reviews and maintaining coding standards
-        - Advanced English level
-        - >-
-          Ability to drive innovation and stay updated with the latest industry
-          trends
-        - Experience with CI/CD pipelines and DevOps practices
-        - Ability to design system architecture and ensure scalability
-        - >-
-          Strong decision-making skills and ability to delegate tasks
-          effectively
-        - Ability to manage multiple projects and prioritize tasks
+    experience:
+      - 7+ years of experience in software engineering or a related field
+      - Proven experience in leading technical teams and projects
+      - Expertise in frontend, backend, and database technologies
+      - >-
+        Strong proficiency in modern JavaScript frameworks/libraries (e.g.,
+        React, Angular, Vue.js)
+      - >-
+        Proficiency in backend programming languages (e.g., Java, Python,
+        Node.js, Ruby)
+      - Extensive experience with SQL and NoSQL databases
+      - Experience with designing and implementing complex, large-scale systems
+      - >-
+        Strong understanding of software development lifecycle and Agile
+        methodologies
+      - Experience with version control systems like Git
+    qualifications_criteria:
+      - name: General Knowledge
+        level: 5
+      - name: General Management
+        level: 4
+    criteria:
+      - Ability to lead and mentor a team of software engineers
+      - Strong problem-solving and analytical skills
+      - Deep understanding of Agile methodologies
+      - Excellent communication and collaboration skills
+      - Ability to architect and design complex software solutions
+      - Experience with code reviews and maintaining coding standards
+      - Advanced English level
+      - >-
+        Ability to drive innovation and stay updated with the latest industry
+        trends
+      - Experience with CI/CD pipelines and DevOps practices
+      - Ability to design system architecture and ensure scalability
+      - Strong decision-making skills and ability to delegate tasks effectively
+      - Ability to manage multiple projects and prioritize tasks

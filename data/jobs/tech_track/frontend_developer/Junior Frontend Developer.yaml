@@ -1,24 +1,25 @@
-title: "Junior Frontend Developer"
-category: "Frontend Developer"
-seniority: "Junior"
-role:
-  experience:
-    - "At least 1 year of frontend development experience with modern JavaScript frameworks/libraries such as React, Angular, or Vue.js"
-    - "Basic understanding of HTML, CSS, and JavaScript"
-    - "Familiarity with version control systems like Git"
-    - "Understanding of responsive design principles"
-    - "Basic knowledge of web performance optimization techniques"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 2
-    - name: "Frontend Frameworks"
-      level: 2
-      count: 1
-  criteria:
-    - "Strong desire to learn and grow as a frontend developer"
-    - "Ability to work collaboratively within a team"
-    - "Good problem-solving skills"
-    - "Basic understanding of Agile methodologies"
-    - "Ability to receive and implement feedback"
-    - "Good communication skills"
-    - "Intermediate English level"
+title: Junior Frontend Developer
+track: Tech track
+category: Frontend Developer
+seniority: Junior
+position: Frontend Developer
+experience:
+  - At least 1 year of frontend development experience with modern JavaScript frameworks/libraries such as React, Angular, or Vue.js
+  - Basic understanding of HTML, CSS, and JavaScript
+  - Familiarity with version control systems like Git
+  - Understanding of responsive design principles
+  - Basic knowledge of web performance optimization techniques
+qualifications_criteria:
+  - name: General Knowledge
+    level: 2
+  - name: Frontend Frameworks
+    level: 2
+    count: 1
+criteria:
+  - Strong desire to learn and grow as a frontend developer
+  - Ability to work collaboratively within a team
+  - Good problem-solving skills
+  - Basic understanding of Agile methodologies
+  - Ability to receive and implement feedback
+  - Good communication skills
+  - Intermediate English level

@@ -1,33 +1,34 @@
-title: "Senior Frontend Developer"
-category: "Frontend Developer"
-seniority: "Senior"
-role:
-  experience:
-    - "5+ years of frontend development experience"
-    - "Expertise in modern JavaScript frameworks/libraries such as React, Angular, or Vue.js"
-    - "In-depth knowledge of HTML, CSS, and JavaScript"
-    - "Extensive experience with version control systems like Git"
-    - "Strong understanding of responsive design, cross-browser compatibility, and accessibility standards"
-    - "Proven experience with web performance optimization techniques"
-    - "Experience with frontend build tools and package managers (e.g., Webpack, NPM)"
-  qualifications_criteria:
-    - name: "General Knowledge"
-      level: 4
-    - name: "Frontend Frameworks"
-      level: 4
-      count: 2
-    - name: "General management"
-      level: 1
-  criteria:
-    - "Pragmatic in the execution"
-    - "Ability to architect and design complex frontend applications"
-    - "Strong problem-solving and analytical skills"
-    - "Deep understanding of Agile methodologies"
-    - "Excellent communication and collaboration skills"
-    - "Experience with code reviews and maintaining coding standards"
-    - "Stay updated with the latest industry trends"
-    - "Ability to delegate and keep responsibility"
-    - "Solve problems even before they get the chance to appear"
-    - "Mentor others and open to suggestions"
-    - "Take on large ill-defined problems, define them, break them up, and execute the pieces"
-    - "Feedback sharing and receiving on a proficient level"
+title: Senior Frontend Developer
+track: Tech track
+category: Frontend Developer
+seniority: Senior
+position: Frontend Developer
+experience:
+  - 5+ years of frontend development experience
+  - Expertise in modern JavaScript frameworks/libraries such as React, Angular, or Vue.js
+  - In-depth knowledge of HTML, CSS, and JavaScript
+  - Extensive experience with version control systems like Git
+  - Strong understanding of responsive design, cross-browser compatibility, and accessibility standards
+  - Proven experience with web performance optimization techniques
+  - Experience with frontend build tools and package managers (e.g., Webpack, NPM)
+qualifications_criteria:
+  - name: General Knowledge
+    level: 4
+  - name: Frontend Frameworks
+    level: 4
+    count: 2
+  - name: General management
+    level: 1
+criteria:
+  - Pragmatic in the execution
+  - Ability to architect and design complex frontend applications
+  - Strong problem-solving and analytical skills
+  - Deep understanding of Agile methodologies
+  - Excellent communication and collaboration skills
+  - Experience with code reviews and maintaining coding standards
+  - Stay updated with the latest industry trends
+  - Ability to delegate and keep responsibility
+  - Solve problems even before they get the chance to appear
+  - Mentor others and open to suggestions
+  - Take on large ill-defined problems, define them, break them up, and execute the pieces
+  - Feedback sharing and receiving on a proficient level
