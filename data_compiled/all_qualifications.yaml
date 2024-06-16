@@ -215,7 +215,7 @@ list:
       - Project phases
       - Prototype vs MVP vs PoC vs MWS
       - UX/UI difference
-      - General knowledge level 1
+      - General Knowledge level 1
       - KPI vs metrics
     materials_and_topics: []
   - title: Project Management
@@ -292,7 +292,7 @@ list:
       - Advanced testing techniques and tools
       - Security testing
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 2
       - title: Databases
         level: 1
@@ -329,7 +329,7 @@ list:
         authors: Thomas Erl
         subjects: null
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
       - title: Databases
         level: 3
@@ -375,7 +375,7 @@ list:
         authors: Kelsey Hightower, Brendan Burns, Joe Beda
         subjects: null
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 4
   - title: Architecture
     category: Tech
@@ -432,7 +432,7 @@ list:
         authors: Cornelia Davis
         subjects: null
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 5
   - title: Databases
     category: Tech
@@ -479,7 +479,7 @@ list:
       - Name 5 AWS, Azure and Google Cloud services
     materials_and_topics: []
     dependency:
-      - General knowledge: Level 2
+      - General Knowledge: Level 2
       - Databases: Level 1
   - title: DevOps
     category: Tech
@@ -497,7 +497,7 @@ list:
       - CGI
       - Kubernetes complex configs
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
       - title: Databases
         level: 2
@@ -513,7 +513,7 @@ list:
       - Orchestrator systems
       - Windows Server key features
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 4
       - title: Databases
         level: 3
@@ -695,7 +695,7 @@ list:
     materials_and_topics:
       - title: Golang advantages and disadvantages
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 1
       - title: Databases
         level: 2
@@ -717,7 +717,7 @@ list:
       - 'Log Frameworks: Zap'
       - 'Testing: GoDog'
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
   - title: Golang
     category: Tech
@@ -737,7 +737,7 @@ list:
     materials_and_topics:
       - title: https://dave.cheney.net/2015/08/08/performance-without-the-event-loop
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 4
       - title: Databases
         level: 3
@@ -763,7 +763,7 @@ list:
       - title: https://blog.golang.org/go15gc
       - title: https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
   - title: HTMLCSS
     category: Tech
@@ -870,7 +870,7 @@ list:
       - Express - routing
     materials_and_topics: []
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 1
       - title: Javascript
         level: 2
@@ -894,7 +894,7 @@ list:
           - >-
             https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
       - title: Javascript
         level: 3
@@ -921,7 +921,7 @@ list:
       - OOP particular qualities if PHP implementation
       - 1 Popular framework or CMS basic knowledge
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 1
       - title: HTML/CSS
         level: 1
@@ -936,7 +936,7 @@ list:
       - 1 CMS development knowledge
       - PSRs
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 2
       - title: HTML/CSS
         level: 2
@@ -951,7 +951,7 @@ list:
       - Strong HTML 5, CSS 3 knowledge
       - TDD practices
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
   - title: PHP
     category: Tech
@@ -963,7 +963,7 @@ list:
       - 2 Popular framework and 2 CMS knowledge
       - 3 Unit testing tools
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 4
   - title: Python Django
     category: Tech
@@ -1120,7 +1120,7 @@ list:
         authors: null
         subjects: null
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 1
   - title: Python
     category: Tech
@@ -1132,7 +1132,7 @@ list:
       - Garbage Collector
     materials_and_topics: []
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
       - title: Databases
         level: 2
@@ -1197,7 +1197,7 @@ list:
     dependency:
       - title: React
         level: 2
-      - title: General knowledge
+      - title: General Knowledge
         level: 1
   - title: ReactNative
     category: Tech
@@ -1226,7 +1226,7 @@ list:
       - Localisation features, ICU, native localisation
     materials_and_topics: []
     dependency:
-      - title: General knowledge
+      - title: General Knowledge
         level: 3
   - title: Vue
     category: Tech
