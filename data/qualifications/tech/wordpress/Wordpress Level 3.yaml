@@ -1,0 +1,16 @@
+title: Wordpress
+category: Tech
+status: Input required
+level: 3
+knowledge:
+  - Deep knowledge about Security, Cache and Commerce solutions
+  - Image lazy loading
+  - How to work with Template Tags
+  - Deep knowledge about WP functions
+  - Portfolio with more than 10 big projects include commerce solutions
+materials_and_topics: []
+dependency:
+  - title: PHP
+    level: 3
+  - title: Javascript
+    level: 2

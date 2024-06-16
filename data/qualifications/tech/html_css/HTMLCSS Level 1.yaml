@@ -1,0 +1,13 @@
+title: HTMLCSS
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - Knowing most of HTML tags and CSS properties
+  - Using Flex in styling and percentages in adaptive layout
+  - Understand when to use tags, identification (#id), or classes
+  - 'Adaptive and cross-browser styling: Knowing how to work with media queries'
+  - Using attributes to inline style
+  - Working with SVG icons and images
+materials_and_topics: []
+dependency: null

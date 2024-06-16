@@ -1,0 +1,14 @@
+title: PHP
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - PHP 7
+  - Magic methods
+  - OOP particular qualities if PHP implementation
+  - 1 Popular framework or CMS basic knowledge
+dependency:
+  - title: General knowledge
+    level: 1
+  - title: HTML/CSS
+    level: 1

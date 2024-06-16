@@ -1,0 +1,17 @@
+title: Wordpress
+category: Tech
+status: Input required
+level: 2
+knowledge:
+  - Adding custom scripts, styles, shortcodes, global objects and variables
+  - Project file structure and database knowledge
+  - Knowledge of more than 10 useful modules
+  - How to work with Custom Post Type
+  - Commerce solutions
+  - Anti Spam solutions
+  - Basic knowledge about Security, Cache solutions, SEO, Translations
+  - Portfolio with more than 2 projects with custom themes and modules
+materials_and_topics: []
+dependency:
+  - title: PHP
+    level: 2

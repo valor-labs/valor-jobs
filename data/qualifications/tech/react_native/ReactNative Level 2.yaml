@@ -1,0 +1,12 @@
+title: ReactNative
+category: Tech
+status: Ready to use
+level: 2
+knowledge:
+  - Navigation. eg. "react-navigation" lib
+  - SQL basics
+  - SQLite
+  - Push notifications
+  - Async storage and analogs, min 1 e.g. react-native-mmkv
+materials_and_topics: []
+dependency: null

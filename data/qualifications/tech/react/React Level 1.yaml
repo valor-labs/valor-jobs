@@ -1,0 +1,19 @@
+title: React
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - VirtualDOM (basics)
+  - Components (difference, props and cons)
+  - Component (class)
+  - Functional Component
+  - Component state management
+  - Application state management (at least 1 approach)
+  - Lifecycle Methods (basics)
+  - JSX (basics)
+  - Routing (v2-3 or v4)
+  - Event handlers (basics)
+materials_and_topics: []
+dependency:
+  - title: Javascript
+    level: 2

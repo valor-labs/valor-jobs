@@ -1,0 +1,20 @@
+title: Golang
+category: Tech
+status: Ready to use
+level: 2
+knowledge:
+  - Type assertion
+  - Goroutines
+  - Defer
+  - Panic and recover mechanism
+  - Synchronization primitives (select keyword)
+  - Empty struct usage (struct{}{})
+  - Set implementation (how to get list of unique items)
+  - Parallel list processing example (live coding)
+  - 'CLI: cobra'
+  - 'ORMs: Gorm'
+  - 'Log Frameworks: Zap'
+  - 'Testing: GoDog'
+dependency:
+  - title: General knowledge
+    level: 3

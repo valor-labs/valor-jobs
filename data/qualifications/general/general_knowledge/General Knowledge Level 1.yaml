@@ -1,0 +1,22 @@
+title: General Knowledge
+category: General
+status: Ready to use
+level: 1
+knowledge:
+  - General networking understanding
+  - Basic HTTP
+  - Cookies
+  - API explanation
+  - General Git
+  - Knowledge of two popular web server implementations
+  - Command-line terminal, Linux or Windows
+  - Text Encoding
+  - OOP principles
+materials_and_topics:
+  - title: The Clean Coder
+    subjects:
+      - Time Management
+      - Meaning of estimate
+      - Methodic of estimation by Program Evaluation and Review Technique (PERT)
+      - Principles of Work Ethic
+      - Handling Pressure

@@ -1,0 +1,13 @@
+title: Drupal
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - Understanding of Content types, Fields, Views
+  - Basic drupal entities
+  - Basic Theming
+  - Custom module creation and hooks
+materials_and_topics: []
+dependency:
+  - title: PHP
+    level: 1

@@ -1,0 +1,47 @@
+title: Architecture
+category: Tech
+status: Input required
+level: 3
+knowledge:
+  - Packaging and modularity principles
+  - Experience with platform views would be a plus
+  - Experience with custom Elements  RenderObjects would be a plus
+  - E2E tests
+  - Understanding how developers should be organized to work over the project to maximize productivity
+  - Establishing processes the programming team should follow in order to facilitate high internal and external quality and minimize bugs
+  - Setting up CD process with deployment to distribution platforms based on git model specification
+  - Familiarity with Richardson Maturity Model
+  - Advanced security architecture (threat modeling, zero trust architecture)
+  - Enterprise Integration Patterns (EIP)
+  - Domain-Driven Design (DDD)
+  - Event Sourcing and Command Query Responsibility Segregation (CQRS)
+  - Architecting for scalability and resilience
+  - Hybrid and Multi-Cloud architectures
+materials_and_topics:
+  - title: The Art of Scalability
+    authors: Martin L. Abbott, Michael T. Fisher
+    subjects: null
+  - title: 'Domain-Driven Design: Tackling Complexity in the Heart of Software'
+    authors: Eric Evans
+    subjects: null
+  - title: Enterprise Integration Patterns
+    authors: Gregor Hohpe, Bobby Woolf
+    subjects: null
+  - title: 'The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win'
+    authors: Gene Kim, Kevin Behr, George Spafford
+    subjects: null
+  - title: 'Site Reliability Engineering: How Google Runs Production Systems'
+    authors: Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff
+    subjects: null
+  - title: Architecting for Scale
+    authors: Lee Atchison
+    subjects: null
+  - title: Building Evolutionary Architectures
+    authors: Neal Ford, Rebecca Parsons, Patrick Kua
+    subjects: null
+  - title: 'Cloud Native Patterns: Designing change-tolerant software'
+    authors: Cornelia Davis
+    subjects: null
+dependency:
+  - title: General knowledge
+    level: 5

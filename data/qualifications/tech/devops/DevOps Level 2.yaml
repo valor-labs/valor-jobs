@@ -1,0 +1,20 @@
+title: DevOps
+category: Tech
+status: Input required
+level: 2
+knowledge:
+  - AWS services or Azure Services or Google Cloud
+  - Key cloud hosting providers
+  - OSI levels, can describe 5/7 levels in details.
+  - Monitoring systems
+  - Bash scripting
+  - Iptables
+  - Nginx and Apache virtual hosts
+  - Virtualization
+  - CGI
+  - Kubernetes complex configs
+dependency:
+  - title: General knowledge
+    level: 3
+  - title: Databases
+    level: 2

@@ -1,0 +1,15 @@
+title: ReactNative
+category: Tech
+status: Ready to use
+level: 3
+knowledge:
+  - Ability to write native modules at least for one platform
+  - Bio auth
+  - 'Experience with system integrations: Camera, shared extensions, bluetooth etc'
+  - Native debugging
+  - Catch memory leaks
+  - Localisation features, ICU, native localisation
+materials_and_topics: []
+dependency:
+  - title: General knowledge
+    level: 3

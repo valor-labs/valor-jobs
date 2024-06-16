@@ -1,0 +1,21 @@
+title: Vue
+category: Tech
+status: Input required
+level: 2
+knowledge:
+  - 'Project Setup: Vue CLI and project structure'
+  - 'Components: Component lifecycle and best practices'
+  - 'Data Binding: Custom directives and event modifiers'
+  - 'Event Handling: Custom event handling and event bus'
+  - 'Computed Properties: Computed properties with getter and setter'
+  - 'Watchers: Advanced watchers and deep watching'
+  - 'Conditional Rendering: Dynamic rendering and template management'
+  - 'Routing: Dynamic routing and nested routes'
+  - 'State Management: Vuex for global state management'
+  - 'Forms: Custom form components and validation techniques'
+  - 'Transitions: Advanced transitions and third-party animation libraries'
+  - 'Testing: Test-driven development with Vue'
+  - 'Deployment: Optimizing and scaling Vue.js applications'
+  - 'Performance and Optimization: Advanced performance optimization (SSR, caching, etc.)'
+materials_and_topics: []
+dependency: null

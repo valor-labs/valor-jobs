@@ -1,0 +1,16 @@
+title: General Knowledge
+category: General
+status: Ready to use
+level: 4
+knowledge:
+  - OSI levels, can detailed describe 5/7 levels.
+  - Basic computer networks
+  - Client-server architecture
+  - HTTP, HTTPS
+  - Web development basics
+  - Agile methodologies
+materials_and_topics:
+  - title: Books
+  - title: Domain-Driven Design by Eric Evans
+  - title: Design Patterns by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+  - title: 'Refactoring: Improving the Design of Existing Code by Martin Fowler'

@@ -1,0 +1,23 @@
+title: Golang
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - Tooling
+  - CLI
+  - Gopath, imports, Packages
+  - Interfaces (difference from other languages)
+  - Error
+  - High order functions and closures
+  - Pointers vs Values
+  - Slices
+  - Map
+  - Strings (runes)
+  - Multiline strings
+materials_and_topics:
+  - title: Golang advantages and disadvantages
+dependency:
+  - title: General knowledge
+    level: 1
+  - title: Databases
+    level: 2

@@ -1,0 +1,17 @@
+title: Javascript
+category: Tech
+status: Input required
+level: 3
+knowledge:
+  - Blob scheme
+  - Descriptors
+  - Generators
+  - Navigator
+  - Webworker
+  - Symbol
+  - Proxy
+  - Advanced knowledge WASM with 2 year experience (Just kidding)
+  - WeakMap, WeakSet
+  - ESlint
+materials_and_topics: []
+dependency: null

@@ -1,0 +1,20 @@
+title: Golang
+category: Tech
+status: Ready to use
+level: 3
+knowledge:
+  - Go runtime for concurrency (Scheduler, context switching, comparing with OS threads scheduling)
+  - Caching
+  - GCache
+  - Go-Redis
+  - Slice internal representation (make)
+  - Interface internal representation
+  - Boltdb
+  - Nats-streaming
+materials_and_topics:
+  - title: https://dave.cheney.net/2015/08/08/performance-without-the-event-loop
+dependency:
+  - title: General knowledge
+    level: 4
+  - title: Databases
+    level: 3

@@ -1,0 +1,35 @@
+title: Vue
+category: Tech
+status: Input required
+level: 1
+knowledge:
+  - Project Setup
+  - Installing Vue.js
+  - Components
+  - Creating and using components
+  - Data Binding
+  - Interpolation, v-bind, and v-model
+  - Event Handling
+  - v-on and event listeners
+  - Computed Properties
+  - Computed properties basics
+  - Watchers
+  - Watchers basics
+  - Conditional Rendering
+  - v-if, v-else, v-show, and v-for
+  - Routing
+  - Vue Router basics
+  - State Management
+  - Local component state
+  - Forms
+  - Form handling and validation
+  - Transitions
+  - Vue transitions and animations
+  - Testing
+  - Vue testing basics (Vue Test Utils and Jest)
+  - Deployment
+  - Deploying Vue.js applications on platforms like Netlify and Vercel
+  - Performance and Optimization
+  - Basic performance optimization techniques (lazy loading, code splitting, etc.)
+materials_and_topics: []
+dependency: null

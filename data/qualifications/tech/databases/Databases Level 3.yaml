@@ -1,0 +1,12 @@
+title: Databases
+category: Tech
+status: Ready to use
+level: 3
+knowledge:
+  - Transaction isolation levels
+  - Know 3 SQL database software
+  - Know 4 NoSQL database software
+  - Know 3 NoSQL database types
+  - Advanced SQL engine configuration
+  - Triggers
+  - Graph databases

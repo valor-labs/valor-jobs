@@ -1,0 +1,16 @@
+title: QA
+category: General
+status: Input required
+level: 3
+knowledge:
+  - Understanding of Quality Management by PMBoK
+  - Risk management in QA
+  - Quality assurance standards and certifications
+  - Continuous integration and continuous deployment (CI/CD)
+  - Advanced testing techniques and tools
+  - Security testing
+dependency:
+  - title: General knowledge
+    level: 2
+  - title: Databases
+    level: 1

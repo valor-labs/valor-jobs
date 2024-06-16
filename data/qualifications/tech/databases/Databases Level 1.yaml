@@ -1,0 +1,12 @@
+title: Databases
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - SQL basic knowledge
+  - Indexes
+  - Know 1 SQL database software
+  - Normalization
+  - Transactions
+materials_and_topics:
+  - title: Mastering PostgreSQL In Application Development by Dimitri Fontaine

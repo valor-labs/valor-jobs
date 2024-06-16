@@ -1,0 +1,14 @@
+title: Python
+category: Tech
+status: Ready to use
+level: 2
+knowledge:
+  - Multithreading
+  - Unit testing in Python
+  - Garbage Collector
+materials_and_topics: []
+dependency:
+  - title: General knowledge
+    level: 3
+  - title: Databases
+    level: 2

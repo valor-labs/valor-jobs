@@ -1,0 +1,22 @@
+title: Javascript
+category: Tech
+status: Ready to use
+level: 2
+knowledge:
+  - ES6/7/8
+  - Event loop
+  - Bubbling and Capturing
+  - 'Lib: Moment'
+  - 'Lib: Underscore/Lodash'
+  - Context manipulations
+  - Prototype inheritance
+  - BOM
+  - History
+  - Hoisting
+  - Gulp, Webpack
+  - Promise
+  - Error handling
+  - Type Conversion
+  - Map, Set
+materials_and_topics: []
+dependency: null

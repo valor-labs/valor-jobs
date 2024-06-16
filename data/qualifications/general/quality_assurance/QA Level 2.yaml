@@ -1,0 +1,12 @@
+title: QA
+category: General
+status: Input required
+level: 2
+knowledge:
+  - Understand Quality Assurance Theory at Deep Level
+  - QA metrics
+  - Test case design techniques
+  - Automated testing
+  - Performance testing
+materials_and_topics:
+  - title: 'Book: «The Art of Software Testing», Glenford J. Myers'

@@ -1,0 +1,13 @@
+title: PHP
+category: Tech
+status: Ready to use
+level: 3
+knowledge:
+  - PHPUnit
+  - 2 Popular framework knowledge
+  - 2 CMS development knowledge
+  - Strong HTML 5, CSS 3 knowledge
+  - TDD practices
+dependency:
+  - title: General knowledge
+    level: 3

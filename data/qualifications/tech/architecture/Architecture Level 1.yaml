@@ -1,0 +1,35 @@
+title: Architecture
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - Performance testing
+  - Acceptance testing
+  - Event-driven architecture principles
+  - Microservices architecture principles
+  - Understanding UML diagrams
+  - Understanding of basic design patterns (e.g., Singleton, Factory, Observer)
+  - Basic knowledge of RESTful API design
+  - Introduction to Cloud Computing (AWS, Azure, GCP)
+materials_and_topics:
+  - title: Software Architecture in Practice 3rd Edition
+    authors: Len Bass, Paul Clements, Rick Kazman
+    subjects: null
+  - title: Microservices Patterns
+    authors: null
+    subjects:
+      - https://microservices.io/patterns/index.html
+  - title: 'Design Patterns: Elements of Reusable Object-Oriented Software'
+    authors: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+    subjects: null
+  - title: 'RESTful Web APIs: Services for a Changing World'
+    authors: Leonard Richardson, Mike Amundsen
+    subjects: null
+  - title: 'Cloud Computing: Concepts, Technology & Architecture'
+    authors: Thomas Erl
+    subjects: null
+dependency:
+  - title: General knowledge
+    level: 3
+  - title: Databases
+    level: 3

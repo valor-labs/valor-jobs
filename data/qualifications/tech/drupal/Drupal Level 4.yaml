@@ -1,0 +1,16 @@
+title: Drupal
+category: Tech
+status: Input required
+level: 4
+knowledge:
+  - Varnish, NGinx
+  - Multidomain
+  - Drupal 7,8 Cache system
+  - Bootstrap levels
+  - 2 different commerce solutions
+  - Solutions for media hosting
+  - Solutions for social networking
+  - XMLRPC and REST APIs
+  - Portfolio with more than 20 big projects
+materials_and_topics: []
+dependency: null

@@ -1,0 +1,13 @@
+title: ReactNative
+category: Tech
+status: Ready to use
+level: 1
+knowledge:
+  - Understanding React native bridging and how it works
+  - Components that are provided by react-native package
+materials_and_topics: []
+dependency:
+  - title: React
+    level: 2
+  - title: General knowledge
+    level: 1
