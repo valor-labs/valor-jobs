@@ -5,6 +5,8 @@ properties:
     type: "string"
   level:
     type: "integer"
+  category:
+    type: "string"
   status:
     type: "string"
   knowledge:
@@ -41,5 +43,6 @@ properties:
 required:
   - title
   - level
+  - category
   - status
   - knowledge

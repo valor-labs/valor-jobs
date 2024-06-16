@@ -7,35 +7,31 @@ properties:
     type: "string"
   seniority:
     type: "string"
-  role:
-    type: "object"
-    properties:
-      experience:
-        type: "array"
-        items:
+
+  experience:
+    type: "array"
+    items:
+      type: "string"
+  qualifications_criteria:
+    type: "array"
+    items:
+      type: "object"
+      properties:
+        name:
           type: "string"
-      qualifications_criteria:
-        type: "array"
-        items:
-          type: "object"
-          properties:
-            name:
-              type: "string"
-            level:
-              type: "integer"
-            count:
-              type: "integer"
-              nullable: true
-      criteria:
-        type: "array"
-        items:
-          type: "string"
-    required:
-      - experience
-      - qualifications_criteria
-      - criteria
+        level:
+          type: "integer"
+        count:
+          type: "integer"
+          nullable: true
+  criteria:
+    type: "array"
+    items:
+      type: "string" 
 required:
   - title
   - category
   - seniority
-  - role
+  - experience
+  - qualifications_criteria
+  - criteria
