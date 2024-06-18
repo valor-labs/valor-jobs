@@ -1,0 +1,33 @@
+title: Markup
+category: Tech
+status: Require input
+level: 4
+knowledge:
+  - Progressive web apps (PWAs)
+  - Advanced CSS techniques (grid templates, subgrid)
+  - CSS-in-JS libraries (Styled-components, Emotion)
+  - Server-side rendering (SSR) with CSS
+  - Modern JavaScript frameworks integration (React, Vue, Angular)
+  - Performance optimization (critical CSS, lazy loading)
+  - Advanced animations (GSAP, CSS Houdini)
+  - Advanced responsive design (responsive typography, aspect-ratio units)
+  - Advanced accessibility (custom elements, inclusive design, accessibility audits)
+materials_and_topics: 
+  - title: "Progressive Web Apps"
+    authors: "Jason Grigsby"
+    subjects: ["PWAs", "Advanced web techniques"]
+  - title: "CSS-in-JS"
+    authors: "Michele Bertoli"
+    subjects: ["Styled-components", "Emotion"]
+  - title: "Learning React"
+    authors: "Alex Banks, Eve Porcello"
+    subjects: ["React", "SSR", "Modern JS frameworks"]
+  - title: "Web Performance in Action"
+    authors: "Jeremy L. Wagner"
+    subjects: ["Performance optimization", "Critical CSS", "Lazy loading"]
+  - title: "Inclusive Design Patterns"
+    authors: "Heydon Pickering"
+    subjects: ["Inclusive design", "Custom elements", "Accessibility audits"]
+dependency:
+  - title: Markup
+    level: 3

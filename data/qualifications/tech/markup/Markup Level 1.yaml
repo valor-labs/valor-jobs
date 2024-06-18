@@ -1,0 +1,25 @@
+title: Markup
+category: Tech
+status: Require input
+level: 1
+knowledge:
+  - Basic structure of HTML documents
+  - Common HTML tags and their usage (headings, paragraphs, lists, links, images)
+  - HTML forms and input types (text, email, password, radio, checkbox, etc.)
+  - HTML tables (structure, attributes, styling)
+  - Introduction to CSS (syntax, selectors, properties)
+  - Inline, internal, and external CSS
+  - Basic text formatting and styling
+  - Understanding the box model (margin, border, padding, content)
+  - Basic accessibility concepts (alt attributes, semantic tags)
+materials_and_topics: 
+  - title: "HTML & CSS: Design and Build Websites"
+    authors: "Jon Duckett"
+    subjects: ["HTML basics", "CSS basics"]
+  - title: "MDN Web Docs - HTML"
+    authors: null
+    subjects: ["HTML elements", "HTML attributes"]
+  - title: "MDN Web Docs - CSS"
+    authors: null
+    subjects: ["CSS syntax", "CSS properties"]
+dependency: []

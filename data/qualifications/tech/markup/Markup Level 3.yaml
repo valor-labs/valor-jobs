@@ -1,0 +1,30 @@
+title: Markup
+category: Tech
+status: Require input
+level: 3
+knowledge:
+  - 'CSS Grid layout properties (display: grid, grid-template-columns, grid-template-rows)'
+  - Advanced form styling (custom checkboxes, radio buttons, file inputs)
+  - Form validation (HTML5 validation attributes, custom validation messages)
+  - CSS custom properties (variables, var() function)
+  - Advanced media queries (orientation, resolution, aspect-ratio)
+  - Sass features (variables, nesting, mixins, extends)
+  - CSS optimization techniques (minification, critical CSS, avoiding reflows)
+  - Bootstrap components (grid system, responsive utilities, components)
+  - Tailwind CSS utilities (container, flex, grid, spacing, typography)
+  - Advanced accessibility (focus management, ARIA live regions, screen reader testing)
+materials_and_topics: 
+  - title: "CSS Grid Layout"
+    authors: "Rachel Andrew"
+    subjects: ["CSS Grid"]
+  - title: "Learning Sass"
+    authors: "Hampton Catlin, Michael Lintorn Catlin"
+    subjects: ["Sass", "CSS preprocessing"]
+  - title: "Tailwind CSS: From Zero to Production"
+    authors: null
+    subjects: ["Tailwind CSS", "Utility-first CSS"]
+  - title: "Web Accessibility: Web Standards and Regulatory Compliance"
+    authors: "Jim Thatcher, Michael R. Burks, Shawn Henry, et al."
+    subjects: ["Advanced accessibility", "Screen readers", "ARIA live regions"]
+dependency:
+ 

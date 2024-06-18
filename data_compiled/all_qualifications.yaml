@@ -215,7 +215,7 @@ list:
       - Project phases
       - Prototype vs MVP vs PoC vs MWS
       - UX/UI difference
-      - General Knowledge level 1
+      - General knowledge level 1
       - KPI vs metrics
     materials_and_topics: []
   - title: Project Management
@@ -292,7 +292,7 @@ list:
       - Advanced testing techniques and tools
       - Security testing
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 2
       - title: Databases
         level: 1
@@ -329,7 +329,7 @@ list:
         authors: Thomas Erl
         subjects: null
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
       - title: Databases
         level: 3
@@ -375,7 +375,7 @@ list:
         authors: Kelsey Hightower, Brendan Burns, Joe Beda
         subjects: null
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 4
   - title: Architecture
     category: Tech
@@ -432,7 +432,7 @@ list:
         authors: Cornelia Davis
         subjects: null
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 5
   - title: Databases
     category: Tech
@@ -479,7 +479,7 @@ list:
       - Name 5 AWS, Azure and Google Cloud services
     materials_and_topics: []
     dependency:
-      - General Knowledge: Level 2
+      - General knowledge: Level 2
       - Databases: Level 1
   - title: DevOps
     category: Tech
@@ -497,7 +497,7 @@ list:
       - CGI
       - Kubernetes complex configs
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
       - title: Databases
         level: 2
@@ -513,7 +513,7 @@ list:
       - Orchestrator systems
       - Windows Server key features
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 4
       - title: Databases
         level: 3
@@ -695,7 +695,7 @@ list:
     materials_and_topics:
       - title: Golang advantages and disadvantages
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 1
       - title: Databases
         level: 2
@@ -717,7 +717,7 @@ list:
       - 'Log Frameworks: Zap'
       - 'Testing: GoDog'
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
   - title: Golang
     category: Tech
@@ -737,7 +737,7 @@ list:
     materials_and_topics:
       - title: https://dave.cheney.net/2015/08/08/performance-without-the-event-loop
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 4
       - title: Databases
         level: 3
@@ -763,7 +763,7 @@ list:
       - title: https://blog.golang.org/go15gc
       - title: https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
   - title: HTMLCSS
     category: Tech
@@ -855,6 +855,185 @@ list:
       - ESlint
     materials_and_topics: []
     dependency: null
+  - title: Markup
+    category: Tech
+    status: Require input
+    level: 1
+    knowledge:
+      - Basic structure of HTML documents
+      - >-
+        Common HTML tags and their usage (headings, paragraphs, lists, links,
+        images)
+      - >-
+        HTML forms and input types (text, email, password, radio, checkbox,
+        etc.)
+      - HTML tables (structure, attributes, styling)
+      - Introduction to CSS (syntax, selectors, properties)
+      - Inline, internal, and external CSS
+      - Basic text formatting and styling
+      - Understanding the box model (margin, border, padding, content)
+      - Basic accessibility concepts (alt attributes, semantic tags)
+    materials_and_topics:
+      - title: 'HTML & CSS: Design and Build Websites'
+        authors: Jon Duckett
+        subjects:
+          - HTML basics
+          - CSS basics
+      - title: MDN Web Docs - HTML
+        authors: null
+        subjects:
+          - HTML elements
+          - HTML attributes
+      - title: MDN Web Docs - CSS
+        authors: null
+        subjects:
+          - CSS syntax
+          - CSS properties
+    dependency: []
+  - title: Markup
+    category: Tech
+    status: Require input
+    level: 2
+    knowledge:
+      - Semantic HTML elements (header, footer, article, section, aside, nav)
+      - >-
+        CSS attribute selectors ([attribute], [attribute=value],
+        [attribute~=value])
+      - CSS pseudo-classes (:hover, :focus, :nth-child)
+      - CSS pseudo-elements (::before, ::after)
+      - CSS positioning (relative, absolute, fixed, sticky)
+      - >-
+        Flexbox properties (display: flex, flex-direction, justify-content,
+        align-items)
+      - Media queries for responsive design (@media, min-width, max-width)
+      - >-
+        CSS transitions (transition-property, transition-duration,
+        transition-timing-function)
+      - >-
+        CSS animations (@keyframes, animation-name, animation-duration,
+        animation-iteration-count)
+      - >-
+        Intermediate accessibility (ARIA roles, landmark elements, keyboard
+        navigation)
+    materials_and_topics:
+      - title: 'CSS: The Definitive Guide'
+        authors: Eric A. Meyer, Estelle Weyl
+        subjects:
+          - Advanced CSS selectors
+          - CSS positioning
+          - Flexbox
+      - title: MDN Web Docs - Responsive Design
+        authors: null
+        subjects:
+          - Media queries
+          - Responsive design
+      - title: MDN Web Docs - CSS Animations
+        authors: null
+        subjects:
+          - CSS animations
+          - CSS transitions
+      - title: 'Web Accessibility: A Foundation for Web Designers'
+        authors: Laura Kalbag
+        subjects:
+          - Accessibility
+          - ARIA roles
+          - Keyboard navigation
+    dependency:
+      - title: Markup
+        level: 1
+  - title: Markup
+    category: Tech
+    status: Require input
+    level: 3
+    knowledge:
+      - >-
+        CSS Grid layout properties (display: grid, grid-template-columns,
+        grid-template-rows)
+      - Advanced form styling (custom checkboxes, radio buttons, file inputs)
+      - >-
+        Form validation (HTML5 validation attributes, custom validation
+        messages)
+      - CSS custom properties (variables, var() function)
+      - Advanced media queries (orientation, resolution, aspect-ratio)
+      - Sass features (variables, nesting, mixins, extends)
+      - >-
+        CSS optimization techniques (minification, critical CSS, avoiding
+        reflows)
+      - Bootstrap components (grid system, responsive utilities, components)
+      - Tailwind CSS utilities (container, flex, grid, spacing, typography)
+      - >-
+        Advanced accessibility (focus management, ARIA live regions, screen
+        reader testing)
+    materials_and_topics:
+      - title: CSS Grid Layout
+        authors: Rachel Andrew
+        subjects:
+          - CSS Grid
+      - title: Learning Sass
+        authors: Hampton Catlin, Michael Lintorn Catlin
+        subjects:
+          - Sass
+          - CSS preprocessing
+      - title: 'Tailwind CSS: From Zero to Production'
+        authors: null
+        subjects:
+          - Tailwind CSS
+          - Utility-first CSS
+      - title: 'Web Accessibility: Web Standards and Regulatory Compliance'
+        authors: Jim Thatcher, Michael R. Burks, Shawn Henry, et al.
+        subjects:
+          - Advanced accessibility
+          - Screen readers
+          - ARIA live regions
+    dependency: null
+  - title: Markup
+    category: Tech
+    status: Require input
+    level: 4
+    knowledge:
+      - Progressive web apps (PWAs)
+      - Advanced CSS techniques (grid templates, subgrid)
+      - CSS-in-JS libraries (Styled-components, Emotion)
+      - Server-side rendering (SSR) with CSS
+      - Modern JavaScript frameworks integration (React, Vue, Angular)
+      - Performance optimization (critical CSS, lazy loading)
+      - Advanced animations (GSAP, CSS Houdini)
+      - Advanced responsive design (responsive typography, aspect-ratio units)
+      - >-
+        Advanced accessibility (custom elements, inclusive design, accessibility
+        audits)
+    materials_and_topics:
+      - title: Progressive Web Apps
+        authors: Jason Grigsby
+        subjects:
+          - PWAs
+          - Advanced web techniques
+      - title: CSS-in-JS
+        authors: Michele Bertoli
+        subjects:
+          - Styled-components
+          - Emotion
+      - title: Learning React
+        authors: Alex Banks, Eve Porcello
+        subjects:
+          - React
+          - SSR
+          - Modern JS frameworks
+      - title: Web Performance in Action
+        authors: Jeremy L. Wagner
+        subjects:
+          - Performance optimization
+          - Critical CSS
+          - Lazy loading
+      - title: Inclusive Design Patterns
+        authors: Heydon Pickering
+        subjects:
+          - Inclusive design
+          - Custom elements
+          - Accessibility audits
+    dependency:
+      - title: Markup
+        level: 3
   - title: NodeJS
     category: Tech
     status: Ready to use
@@ -870,7 +1049,7 @@ list:
       - Express - routing
     materials_and_topics: []
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 1
       - title: Javascript
         level: 2
@@ -894,7 +1073,7 @@ list:
           - >-
             https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
       - title: Javascript
         level: 3
@@ -921,7 +1100,7 @@ list:
       - OOP particular qualities if PHP implementation
       - 1 Popular framework or CMS basic knowledge
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 1
       - title: HTML/CSS
         level: 1
@@ -936,7 +1115,7 @@ list:
       - 1 CMS development knowledge
       - PSRs
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 2
       - title: HTML/CSS
         level: 2
@@ -951,7 +1130,7 @@ list:
       - Strong HTML 5, CSS 3 knowledge
       - TDD practices
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
   - title: PHP
     category: Tech
@@ -963,7 +1142,7 @@ list:
       - 2 Popular framework and 2 CMS knowledge
       - 3 Unit testing tools
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 4
   - title: Python Django
     category: Tech
@@ -1120,7 +1299,7 @@ list:
         authors: null
         subjects: null
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 1
   - title: Python
     category: Tech
@@ -1132,7 +1311,7 @@ list:
       - Garbage Collector
     materials_and_topics: []
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
       - title: Databases
         level: 2
@@ -1197,7 +1376,7 @@ list:
     dependency:
       - title: React
         level: 2
-      - title: General Knowledge
+      - title: General knowledge
         level: 1
   - title: ReactNative
     category: Tech
@@ -1226,7 +1405,7 @@ list:
       - Localisation features, ICU, native localisation
     materials_and_topics: []
     dependency:
-      - title: General Knowledge
+      - title: General knowledge
         level: 3
   - title: Vue
     category: Tech

@@ -1,0 +1,31 @@
+title: Markup
+category: Tech
+status: Require input
+level: 2
+knowledge:
+  - Semantic HTML elements (header, footer, article, section, aside, nav)
+  - CSS attribute selectors ([attribute], [attribute=value], [attribute~=value])
+  - CSS pseudo-classes (:hover, :focus, :nth-child)
+  - CSS pseudo-elements (::before, ::after)
+  - CSS positioning (relative, absolute, fixed, sticky)
+  - 'Flexbox properties (display: flex, flex-direction, justify-content, align-items)'
+  - Media queries for responsive design (@media, min-width, max-width)
+  - CSS transitions (transition-property, transition-duration, transition-timing-function)
+  - CSS animations (@keyframes, animation-name, animation-duration, animation-iteration-count)
+  - Intermediate accessibility (ARIA roles, landmark elements, keyboard navigation)
+materials_and_topics: 
+  - title: "CSS: The Definitive Guide"
+    authors: "Eric A. Meyer, Estelle Weyl"
+    subjects: ["Advanced CSS selectors", "CSS positioning", "Flexbox"]
+  - title: "MDN Web Docs - Responsive Design"
+    authors: null
+    subjects: ["Media queries", "Responsive design"]
+  - title: "MDN Web Docs - CSS Animations"
+    authors: null
+    subjects: ["CSS animations", "CSS transitions"]
+  - title: "Web Accessibility: A Foundation for Web Designers"
+    authors: "Laura Kalbag"
+    subjects: ["Accessibility", "ARIA roles", "Keyboard navigation"]
+dependency:
+  - title: Markup
+    level: 1
