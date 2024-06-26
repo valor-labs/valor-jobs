@@ -6,6 +6,8 @@ knowledge:
   - OSI levels, can describe 2/7 levels in detail
   - Can describe 7 basic TCP/UDP applications, listening 1-1024 TCP/UDP ports
   - Security, can describe 3 most frequent web vulnerabilities
+  - Optimization techniques (levels, memoization)
+  - Algorithmic Complexity
   - Elastic understanding
 materials_and_topics:
   - title: 'Refactoring: Improving the Design of Existing Code'
