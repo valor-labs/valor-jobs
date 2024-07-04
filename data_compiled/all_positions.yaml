@@ -21,6 +21,8 @@ list:
         level: 3
       - name: Business Analysis
         level: 2
+      - name: Management Knowledge
+        level: '1'
     criteria:
       - Excellent communication and interpersonal skills
       - Strong client-facing and negotiation skills
