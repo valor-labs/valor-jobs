@@ -1,5 +1,5 @@
 list:
-  - title: Account Manager
+  - title: Account Manager2
     track: Delivery track
     position: Account Manager
     category: Account Management
@@ -7,7 +7,7 @@ list:
     experience:
       - >-
         3+ years of experience in account management or client relationship
-        management in an outsourcing environment
+        management in an outsourcing environment2
       - >-
         Proven track record of managing client relationships and handling
         escalations
@@ -36,7 +36,7 @@ list:
       - >-
         Basic knowledge of technical concepts to liaise between clients and
         project teams
-  - title: Account Manager
+  - title: Account Manager1
     track: Delivery track
     position: Account Manager
     category: Account Management
@@ -45,9 +45,6 @@ list:
       - >-
         5+ years of experience in account management or client relationship
         management in an outsourcing environment
-      - >-
-        Extensive track record of managing client relationships and handling
-        high-level escalations
       - Good understanding of project management principles
       - >-
         Experience with overseeing a large portfolio of projects and services
@@ -103,6 +100,7 @@ list:
       - >-
         Strong experience with stakeholder management, executive reporting, and
         client relationship management
+      - sadasdasdasdasdsad
     qualifications_criteria:
       - name: General Knowledge
         level: 4
